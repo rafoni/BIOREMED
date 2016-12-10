@@ -1,0 +1,130 @@
+\documentclass[11pt]{article} 
+\usepackage[latin1]{inputenc}
+\usepackage[frenchb]{babel}
+
+\usepackage{geometry} 
+\geometry{a4paper}
+%\geometry{hscale=0.7,vscale=0.7,centering}
+
+\usepackage{graphicx} 
+
+\usepackage{float} % Allows putting an [H] in \begin{figure} to specify the exact location of the figure
+\usepackage{wrapfig} % Allows in-line images such as the example fish picture
+
+\linespread{1.2} 
+
+\setlength\parindent{0pt} % Uncomment to remove all indentation from paragraphs
+
+\graphicspath{{Pictures/}} % Specifies the directory where pictures are stored
+\usepackage[absolute]{textpos}
+\usepackage{array}
+\usepackage {tabularx}
+\usepackage {booktabs}
+\usepackage {colortbl}
+\usepackage {float}
+\usepackage {fancyhdr}
+\usepackage{acronym}
+\usepackage{pdfpages}
+\usepackage{SIunits}
+\usepackage{natbib}
+\usepackage{hyperref}
+
+\setcitestyle{square}
+\bibliographystyle{apalike}
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\begin{titlepage}
+\begin{center}
+\begin{figure}[H]
+\includegraphics[width= \textwidth]{ULB.jpeg}
+\end{figure}
+\end{center}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}} % Defines a new command for the horizontal lines, change thickness here
+
+\center % Center everything on the page
+
+\vspace*{\stretch{10}} %centrer verticalement
+
+\textsc{\LARGE Université Libre de Bruxelles}\\[1.5cm] 
+\textsc{\Large Laboratoires BIOMAR et ESA}\\[0.5cm] 
+\textsc{\large BING-F531}\\[0.5cm] 
+
+\HRule \\[0.4cm]
+{ \huge \bfseries Recherche bibliographique sur le plastique et ses voies de biodégradation }\\[0.4cm] 
+\HRule \\[1.5cm]
+
+\begin{minipage}{0.4\textwidth}
+\begin{flushleft} \large
+\emph{Auteurs:}\\
+Rafael \textsc{Colomer Martinez}\\
+Nicolas \textsc{Piret}
+ \end{flushleft}
+\end{minipage}
+~
+\begin{minipage}{0.4\textwidth}
+\begin{flushright} \large
+\emph{Professeur:} \\
+Dr. Isabelle \textsc{George} \\
+\end{flushright}
+\end{minipage}\\[4cm]
+
+\vspace*{\stretch{10}} %centrer verticalement
+
+
+{\large \today}\\[3cm] 
+
+\vfill % Fill the rest of the page with whitespace
+
+\end{titlepage}
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+\tableofcontents % Include a table of contents
+
+\newpage % Begins the essay on a new page instead of on the same page as the table of contents 
+
+
+%----------------------------------------------------------------------------------------
+%	ACRONYMES
+%----------------------------------------------------------------------------------------
+
+\section*{Liste des abréviations et acronymes}%section sans numéro
+\begin{acronym}[SDS-PAGE]%mettre le plus long acronyme ici
+\acro{BCA}{\emph{ou Pierce BCA - Méthode de dosage protéique colorimétrique basée sur l'emploi d'acide bicinchonique}}
+\acro{BPF/GMP}{\emph{Bonnes pratiques de fabrication ou Good Manufacturing Practices - Notion d'assurance de qualité}}
+\acro{CDU}{\emph{Casein Digestion Unit Analytical Method - Méthode spectroscopique de détection d'acides aminés issus d'une dégradation enzymatique sur substrat de caséine}}
+\acro{CV}{\emph{Curriculum Vitae}}
+\acro{PI}{\emph{Point isoélectrique}}
+\acro{QC}{\emph{Contrôle qualité}}
+\acro{SDS-PAGE}{\emph{Sodium Dodécyl Sulfate Polyacrylamide Gel Electrophoresis}}
+\acro{TU}{\emph{Tyrosine Unit Analytical Method - Méthode spectroscopique de détection d'acides aminés issus d'une dégradation enzymatique sur substrat de caséine}}
+\acro{UF}{\emph{Ultrafiltration}}
+\end{acronym}
+\addcontentsline{toc}{section}{Liste des abréviations et acronymes}%mettre dans la table des mat.
+\clearpage
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT
+%----------------------------------------------------------------------------------------
+
+\section{Introduction}
+\section{Description du plastique}
+\section{Utilisation, production, sources de pollution et types d'environnements contaminés}
+\section{Dangers potentiels pour l'environnement}
+\section{Aspects législatifs}
+\section{Biorémédiation des milieux contaminés}
+
+blabla \citep{Mills2009}
+blabla \citep{friedman1964kinetics}
+
+
+\bibliography{Bibliography/Plastics}
+
+\end{document}

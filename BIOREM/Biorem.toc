@@ -1,0 +1,8 @@
+\select@language {french}
+\contentsline {section}{Liste des abr\'eviations et acronymes}{2}{section*.2}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Description du plastique}{3}{section.2}
+\contentsline {section}{\numberline {3}Utilisation, production, sources de pollution et types d'environnements contamin\'es}{3}{section.3}
+\contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{3}{section.4}
+\contentsline {section}{\numberline {5}Aspects l\'egislatifs}{3}{section.5}
+\contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{3}{section.6}

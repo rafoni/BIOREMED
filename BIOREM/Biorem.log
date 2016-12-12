@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  12 DEC 2016 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  12 DEC 2016 13:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -409,41 +409,85 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip68
 )
-(./Biorem.aux)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xymtex/chemist/chemist.sty
+Package `chemist' (ver5.01) <June 6, 2013> [SF]
+chemist.sty ver5.01 (for LaTeX2e) 2013/06/06[SF]
+\c@compd=\count120
+\c@deriv=\count121
+\reactarrowsep=\dimen155
+\verbatimleftmargin=\dimen156
+\verbatimbaselineskip=\dimen157
+\hsgr@d=\dimen158
+\vsgr@d=\dimen159
+\vwgr@d=\dimen160
+\hwgr@d=\dimen161
+\vsepgr@d=\dimen162
+\hsepgr@d=\dimen163
+\nrep=\count122
+\nrepmax=\count123
+\ybaselineshift=\dimen164
+\tbaselineshift=\dimen165
+\@savetbaselineshift=\dimen166
+LaTeX Info: Redefining \rm on input line 788.
+LaTeX Info: Redefining \mathversion on input line 892.
+\c@mv@chem=\count124
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `chem' on input line 965.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `chem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `chem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `chem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 965.
+\c@mv@boldchem=\count125
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldchem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 965.
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `boldchem' on input line 965.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldchem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/b/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldchem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 965.
+\TestCount=\count126
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xymtex/chemist/assurechemist.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
+)) (./Biorem.aux)
 \openout1 = `Biorem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 54.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Info: Redefining \degres on input line 53.
-LaTeX Info: Redefining \dots on input line 53.
-
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Info: Redefining \degres on input line 54.
+LaTeX Info: Redefining \dots on input line 54.
 
 Package frenchb.ldf Warning: Please load the "natbib" package
-(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 53.
+(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 54.
 
-LaTeX Info: Redefining \up on input line 53.
+LaTeX Info: Redefining \up on input line 54.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 53.
+(frenchb.ldf)                of your document, on input line 54.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -481,16 +525,16 @@ Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count120
-\scratchdimen=\dimen155
+\scratchcounter=\count127
+\scratchdimen=\dimen167
 \scratchbox=\box33
-\nofMPsegments=\count121
-\nofMParguments=\count122
+\nofMPsegments=\count128
+\nofMParguments=\count129
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count123
-\MPscratchDim=\dimen156
-\MPnumerator=\count124
-\makeMPintoPDFobject=\count125
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen168
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
 \everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -518,7 +562,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 54.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -526,28 +570,28 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count126
+\c@section@level=\count133
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
 
 (./Biorem.out) (./Biorem.out)
 \@outlinefile=\write4
 \openout4 = `Biorem.out'.
 
 
-<Pictures/ULB.jpeg, id=48, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=56, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
-Package pdftex.def Info: Pictures/ULB.jpeg used on input line 62.
+Package pdftex.def Info: Pictures/ULB.jpeg used on input line 63.
 (pdftex.def)             Requested size: 418.25368pt x 63.25621pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 86.
+(Font)              <10.95> on input line 87.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 86.
+(Font)              <8> on input line 87.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 86.
+(Font)              <6> on input line 87.
 
 [1
 
@@ -560,59 +604,60 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \newpage
+l.111 \newpage
                % Begins the essay on a new page instead of on the same page ...
 [1] [2] [3
 
-] <Pictures/Lign.png, id=122, 508.90125pt x 626.34pt>
+] <Pictures/Lign.png, id=132, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
 
 <use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 155.
+Package pdftex.def Info: Pictures/Lign.png used on input line 159.
 (pdftex.def)             Requested size: 418.25368pt x 514.79675pt.
  [4] [5 <./Pictures/Lign.png>]
-Overfull \hbox (18.29417pt too wide) in paragraph at lines 168--169
+Overfull \hbox (18.29417pt too wide) in paragraph at lines 172--173
 \OT1/cmr/m/n/10.95 ph^^Senoliques par l'in-term^^Sediaire de p^^Seroxyde d'hy-d
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-(./Biorem.bbl [6])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
- [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 178.
+[6] (./Biorem.bbl [7])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
+ [8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 178.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: F291647594730AC6E07FFDA200087583;843.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 178.
+(rerunfilecheck)             Checksum: FD4D697A3685C327141834EF1CF9EA5D;989.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 145 ({)
-### simple group (level 2) entered at line 143 ({)
-### simple group (level 1) entered at line 143 ({)
+### simple group (level 3) entered at line 149 ({)
+### simple group (level 2) entered at line 147 ({)
+### simple group (level 1) entered at line 147 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9293 strings out of 493014
- 136057 string characters out of 6133350
- 247992 words of memory out of 5000000
- 12634 multiletter control sequences out of 15000+600000
+ 9768 strings out of 493014
+ 142066 string characters out of 6133350
+ 267050 words of memory out of 5000000
+ 13097 multiletter control sequences out of 15000+600000
  11249 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,43p,1482b,607s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1482b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmcsc10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb>
-Output written on Biorem.pdf (8 pages, 288074 bytes).
+r8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on Biorem.pdf (9 pages, 297479 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 182 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
- 99 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 115 words of extra memory for PDF output out of 10000 (max. 10000000)
 

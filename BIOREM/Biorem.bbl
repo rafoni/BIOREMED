@@ -1,5 +1,15 @@
 \begin{thebibliography}{}
 
+\bibitem[Baldrian, 2006]{Baldrian2006}
+Baldrian, P. (2006).
+\newblock {Fungal laccases - occurrence and properties.}
+\newblock {\em FEMS microbiology reviews}, 30(2):215--42.
+
+\bibitem[Claus, 2004]{Claus2004}
+Claus, H. (2004).
+\newblock {Laccases: Structure, reactions, distribution}.
+\newblock In {\em Micron}, volume~35, pages 93--96.
+
 \bibitem[Crawford and Crawford, 1980]{Crawford1980}
 Crawford, D.~L. and Crawford, R.~L. (1980).
 \newblock {Microbial degradation of lignin}.
@@ -7,6 +17,14 @@ Crawford, D.~L. and Crawford, R.~L. (1980).
 \bibitem[Dashtban et~al., 2010]{Dashtban2010}
 Dashtban, M., Schraft, H., Syed, T.~A., and Qin, W. (2010).
 \newblock {Fungal biodegradation and enzymatic modification of lignin}.
+
+\bibitem[Ferraroni et~al., 2007]{Ferraroni2007}
+Ferraroni, M., Myasoedova, N.~M., Schmatchenko, V., Leontievsky, A.~A.,
+  Golovleva, L.~A., Scozzafava, A., and Briganti, F. (2007).
+\newblock {Crystal structure of a blue laccase from Lentinus tigrinus:
+  evidences for intermediates in the molecular oxygen reductive splitting by
+  multicopper oxidases.}
+\newblock {\em BMC structural biology}, 7:60.
 
 \bibitem[Iiyoshi et~al., 1998]{Iiyoshi1998}
 Iiyoshi, Y., Tsutsumi, Y., and Nishida, T. (1998).
@@ -35,5 +53,13 @@ Pometto, A.~L., Lee, B., and Johnson, K.~E. (1992).
 \bibitem[Shah et~al., 2008]{Shah2008}
 Shah, A.~A., Hasan, F., Hameed, A., and Ahmed, S. (2008).
 \newblock {Biological degradation of plastics: A comprehensive review}.
+
+\bibitem[Thurston, 1994]{Thurston1994}
+Thurston, C.~F. (1994).
+\newblock {The structure and function of fungal laccases}.
+
+\bibitem[Wong, 2009]{Wong2009}
+Wong, D. W.~S. (2009).
+\newblock {Structure and action mechanism of ligninolytic enzymes}.
 
 \end{thebibliography}

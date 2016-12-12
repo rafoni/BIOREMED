@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  12 DEC 2016 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  12 DEC 2016 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -581,7 +581,7 @@ LaTeX Info: Redefining \nameref on input line 54.
 \openout4 = `Biorem.out'.
 
 
-<Pictures/ULB.jpeg, id=56, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=60, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
 Package pdftex.def Info: Pictures/ULB.jpeg used on input line 63.
@@ -608,7 +608,7 @@ l.111 \newpage
                % Begins the essay on a new page instead of on the same page ...
 [1] [2] [3
 
-] <Pictures/Lign.png, id=132, 508.90125pt x 626.34pt>
+] <Pictures/Lign.png, id=137, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
 
 <use Pictures/Lign.png>
@@ -620,15 +620,15 @@ Overfull \hbox (18.29417pt too wide) in paragraph at lines 172--173
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-[6] (./Biorem.bbl [7])
+[6] (./Biorem.bbl [7] [8])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
- [8]
+ [9]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
  (./Biorem.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: FD4D697A3685C327141834EF1CF9EA5D;989.
+(rerunfilecheck)             Checksum: 31A73D547F2CAB365433A37185740915;1080.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
  )
 (\end occurred inside a group at level 3)
@@ -638,13 +638,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
 ### simple group (level 1) entered at line 147 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9768 strings out of 493014
- 142066 string characters out of 6133350
- 267050 words of memory out of 5000000
- 13097 multiletter control sequences out of 15000+600000
+ 9787 strings out of 493014
+ 142376 string characters out of 6133350
+ 268179 words of memory out of 5000000
+ 13110 multiletter control sequences out of 15000+600000
  11249 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1482b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1482b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
@@ -654,10 +654,10 @@ cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Biorem.pdf (9 pages, 297479 bytes).
+Output written on Biorem.pdf (10 pages, 301252 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 202 compressed objects within 3 object streams
- 48 named destinations out of 1000 (max. 500000)
- 115 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 253 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,45 +6,45 @@ Database file #1: Bibliography/Plastics.bib
 Warning--can't use both volume and number fields in Claus2004
 Warning--can't use both volume and number fields in Martinez2005
 Warning--empty publisher in Piringer2008
-You've used 13 entries,
+You've used 17 entries,
             1935 wiz_defined-function locations,
-            570 strings with 6343 characters,
-and the built_in function-call counts, 4917 in all, are:
-= -- 469
-> -- 255
+            602 strings with 7397 characters,
+and the built_in function-call counts, 6886 in all, are:
+= -- 659
+> -- 362
 < -- 10
-+ -- 88
-- -- 88
-* -- 415
-:= -- 887
-add.period$ -- 31
-call.type$ -- 13
-change.case$ -- 108
-chr.to.int$ -- 13
-cite$ -- 16
-duplicate$ -- 178
-empty$ -- 292
-format.name$ -- 105
-if$ -- 931
++ -- 126
+- -- 126
+* -- 611
+:= -- 1229
+add.period$ -- 43
+call.type$ -- 17
+change.case$ -- 147
+chr.to.int$ -- 17
+cite$ -- 20
+duplicate$ -- 234
+empty$ -- 416
+format.name$ -- 147
+if$ -- 1302
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 7
-newline$ -- 60
-num.names$ -- 39
-pop$ -- 98
+missing$ -- 11
+newline$ -- 80
+num.names$ -- 51
+pop$ -- 129
 preamble$ -- 1
-purify$ -- 109
+purify$ -- 148
 quote$ -- 0
-skip$ -- 143
+skip$ -- 183
 stack$ -- 0
-substring$ -- 265
-swap$ -- 26
+substring$ -- 425
+swap$ -- 30
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 76
+type$ -- 100
 warning$ -- 3
-while$ -- 37
+while$ -- 53
 width$ -- 0
-write$ -- 149
+write$ -- 201
 (There were 3 warnings)

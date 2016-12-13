@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  12 DEC 2016 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  13 DEC 2016 11:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -606,45 +606,52 @@ been already used, duplicate ignored
                    \relax 
 l.111 \newpage
                % Begins the essay on a new page instead of on the same page ...
-[1] [2] [3
+[1] [2] <Pictures/Lignol.png, id=117, 592.2125pt x 338.26375pt>
+File: Pictures/Lignol.png Graphic file (type png)
 
-] <Pictures/Lign.png, id=137, 508.90125pt x 626.34pt>
+<use Pictures/Lignol.png>
+Package pdftex.def Info: Pictures/Lignol.png used on input line 153.
+(pdftex.def)             Requested size: 418.25368pt x 238.90953pt.
+ [3
+
+] [4 <./Pictures/Lignol.png>]
+<Pictures/Lign.png, id=155, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
-
-<use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 159.
+ <use Pictures/Lign.png>
+Package pdftex.def Info: Pictures/Lign.png used on input line 168.
 (pdftex.def)             Requested size: 418.25368pt x 514.79675pt.
- [4] [5 <./Pictures/Lign.png>]
-Overfull \hbox (18.29417pt too wide) in paragraph at lines 172--173
+
+[5] [6 <./Pictures/Lign.png>]
+Overfull \hbox (18.29417pt too wide) in paragraph at lines 181--182
 \OT1/cmr/m/n/10.95 ph^^Senoliques par l'in-term^^Sediaire de p^^Seroxyde d'hy-d
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-[6] (./Biorem.bbl [7] [8])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 204.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 204.
+[7] (./Biorem.bbl [8] [9])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 204.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 204.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: 31A73D547F2CAB365433A37185740915;1080.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 204.
+(rerunfilecheck)             Checksum: 19259A89F2DD59CE46CDE161FB93F9ED;1083.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 149 ({)
+### simple group (level 3) entered at line 158 ({)
 ### simple group (level 2) entered at line 147 ({)
 ### simple group (level 1) entered at line 147 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9787 strings out of 493014
- 142376 string characters out of 6133350
- 268179 words of memory out of 5000000
- 13110 multiletter control sequences out of 15000+600000
+ 9798 strings out of 493014
+ 142569 string characters out of 6133350
+ 268219 words of memory out of 5000000
+ 13117 multiletter control sequences out of 15000+600000
  11249 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1482b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,904b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
@@ -654,10 +661,10 @@ cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb>
-Output written on Biorem.pdf (10 pages, 301252 bytes).
+Output written on Biorem.pdf (11 pages, 331397 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
- 54 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 57 named destinations out of 1000 (max. 500000)
+ 128 words of extra memory for PDF output out of 10000 (max. 10000000)
 

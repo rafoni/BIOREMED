@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  14 DEC 2016 09:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  16 DEC 2016 11:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -452,40 +452,44 @@ LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldchem'
 Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
  -- Released October 01, 2010 by Shinsaku Fujita
 XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
-)) (./Biorem.aux)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(./Biorem.aux)
 \openout1 = `Biorem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 54.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
-LaTeX Font Info:    ... okay on input line 54.
-LaTeX Info: Redefining \degres on input line 54.
-LaTeX Info: Redefining \dots on input line 54.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Info: Redefining \degres on input line 55.
+LaTeX Info: Redefining \dots on input line 55.
+
 
 Package frenchb.ldf Warning: Please load the "natbib" package
-(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 54.
+(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 55.
 
-LaTeX Info: Redefining \up on input line 54.
+LaTeX Info: Redefining \up on input line 55.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 54.
+(frenchb.ldf)                of your document, on input line 55.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -551,7 +555,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 54.
+Package hyperref Info: Link coloring OFF on input line 55.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -561,26 +565,26 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count133
 )
-LaTeX Info: Redefining \ref on input line 54.
-LaTeX Info: Redefining \pageref on input line 54.
-LaTeX Info: Redefining \nameref on input line 54.
+LaTeX Info: Redefining \ref on input line 55.
+LaTeX Info: Redefining \pageref on input line 55.
+LaTeX Info: Redefining \nameref on input line 55.
 
 (./Biorem.out) (./Biorem.out)
 \@outlinefile=\write4
 \openout4 = `Biorem.out'.
 
 
-<Pictures/ULB.jpeg, id=60, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=80, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
-Package pdftex.def Info: Pictures/ULB.jpeg used on input line 63.
+Package pdftex.def Info: Pictures/ULB.jpeg used on input line 64.
 (pdftex.def)             Requested size: 418.25368pt x 63.25621pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 87.
+(Font)              <10.95> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 87.
+(Font)              <8> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 87.
+(Font)              <6> on input line 88.
 
 [1
 
@@ -593,7 +597,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.111 \newpage
+l.112 \newpage
                % Begins the essay on a new page instead of on the same page ...
 [1] [2] (./introduction.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -622,63 +626,160 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-) [4] <Pictures/Lignol.png, id=131, 592.2125pt x 338.26375pt>
+) (./Description.tex [4]
+<Pictures/Structurepoly.png, id=146, 295.3434pt x 149.8398pt>
+File: Pictures/Structurepoly.png Graphic file (type png)
+
+<use Pictures/Structurepoly.png>
+Package pdftex.def Info: Pictures/Structurepoly.png used on input line 13.
+(pdftex.def)             Requested size: 236.27502pt x 119.87198pt.
+
+<Pictures/Chainepoly.png, id=152, 267.399pt x 98.769pt>
+File: Pictures/Chainepoly.png Graphic file (type png)
+
+<use Pictures/Chainepoly.png>
+Package pdftex.def Info: Pictures/Chainepoly.png used on input line 24.
+(pdftex.def)             Requested size: 213.91948pt x 79.01529pt.
+
+<Pictures/poly3d.png, id=161, 333.8874pt x 132.0132pt>
+File: Pictures/poly3d.png Graphic file (type png)
+
+<use Pictures/poly3d.png>
+Package pdftex.def Info: Pictures/poly3d.png used on input line 34.
+(pdftex.def)             Requested size: 267.11028pt x 105.61069pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./Pictures/Structurepoly.png> <./Pictures/Chainepoly.png>] [6 <./Pictures/p
+oly3d.png>]) [7] <Pictures/Lignol.png, id=218, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
-Package pdftex.def Info: Pictures/Lignol.png used on input line 153.
+Package pdftex.def Info: Pictures/Lignol.png used on input line 154.
 (pdftex.def)             Requested size: 418.25368pt x 238.90953pt.
- [5 <./Pictures/Lignol.png>]
-<Pictures/Lign.png, id=158, 508.90125pt x 626.34pt>
+ [8] [9 <./Pictures/Lignol.png>]
+<Pictures/Lign.png, id=255, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 168.
+Package pdftex.def Info: Pictures/Lign.png used on input line 169.
 (pdftex.def)             Requested size: 418.25368pt x 514.79675pt.
 
-[6] [7 <./Pictures/Lign.png>]
-Overfull \hbox (18.29417pt too wide) in paragraph at lines 181--182
+[10] [11 <./Pictures/Lign.png>]
+Overfull \hbox (18.29417pt too wide) in paragraph at lines 182--183
 \OT1/cmr/m/n/10.95 ph^^Senoliques par l'in-term^^Sediaire de p^^Seroxyde d'hy-d
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-[8] (./Biorem.bbl [9] [10])
+[12]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
- [11]
+ [13]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
  (./Biorem.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: 19259A89F2DD59CE46CDE161FB93F9ED;1083.
+(rerunfilecheck)             Checksum: B08A030639395AB2663B978F168D4E8F;1501.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 158 ({)
-### simple group (level 2) entered at line 147 ({)
-### simple group (level 1) entered at line 147 ({)
+### simple group (level 3) entered at line 159 ({)
+### simple group (level 2) entered at line 148 ({)
+### simple group (level 1) entered at line 148 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9724 strings out of 493089
- 141298 string characters out of 6134843
- 267013 words of memory out of 5000000
- 12987 multiletter control sequences out of 15000+600000
+ 9749 strings out of 493089
+ 141721 string characters out of 6134843
+ 269584 words of memory out of 5000000
+ 12991 multiletter control sequences out of 15000+600000
  11249 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1088b,633s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
-0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
-.pfb>
-Output written on Biorem.pdf (12 pages, 334151 bytes).
+ 34i,12n,43p,1737b,544s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{cite.Otake1995} has been referenced
+ but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Konduri2011} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Prati2010} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Arutchelvi2008} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Kyaw2012} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Wong2009} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Thurston1994} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ferraroni2007} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Claus2004} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Baldrian2006} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Dashtban2010} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Martinez2005} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Crawford1980} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Whetten1995} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Iiyoshi1998} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Pometto1992} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Shah2008} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Piringer2008} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.lecomte2009physique} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.domin2013} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.fontanille2014chimie} has been referenced but 
+does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.andrady2009applications} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Valorplast} has been referenced but does not e
+xist, replaced by a fixed one
+
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
+exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
+xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Biorem.pdf (14 pages, 474414 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 238 compressed objects within 3 object streams
- 58 named destinations out of 1000 (max. 500000)
- 128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 371 PDF objects out of 1000 (max. 8388607)
+ 319 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 

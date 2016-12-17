@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -454,41 +454,132 @@ XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
 )) (/usr/local/texlive/2015/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count127
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box33
+)
+\tc@llx=\dimen167
+\tc@lly=\dimen168
+\tc@urx=\dimen169
+\tc@ury=\dimen170
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen171
+\adjbox@Height=\dimen172
+\adjbox@Depth=\dimen173
+\adjbox@Totalheight=\dimen174
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count128
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box34
+\sift@deathcycles=\count129
+\@vwid@loff=\dimen175
+\@vwid@roff=\dimen176
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+\rownum=\count130
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip68
+\LTright=\skip69
+\LTpre=\skip70
+\LTpost=\skip71
+\LTchunksize=\count131
+\LTcapwidth=\dimen177
+\LT@head=\box35
+\LT@firsthead=\box36
+\LT@foot=\box37
+\LT@lastfoot=\box38
+\LT@cols=\count132
+\LT@rows=\count133
+\c@LT@tables=\count134
+\c@LT@chunks=\count135
+\LT@p@ftn=\toks30
+)
 (./Biorem.aux)
 \openout1 = `Biorem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 55.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 60.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Info: Redefining \degres on input line 55.
-LaTeX Info: Redefining \dots on input line 55.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Info: Redefining \degres on input line 60.
+LaTeX Info: Redefining \dots on input line 60.
 
 
 Package frenchb.ldf Warning: Please load the "natbib" package
-(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 55.
+(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 60.
 
-LaTeX Info: Redefining \up on input line 55.
+LaTeX Info: Redefining \up on input line 60.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 55.
+(frenchb.ldf)                of your document, on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -526,17 +617,17 @@ Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
-\scratchdimen=\dimen167
-\scratchbox=\box33
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count130
-\MPscratchDim=\dimen168
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count136
+\scratchdimen=\dimen178
+\scratchbox=\box39
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen179
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks32
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -553,8 +644,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 55.
+\AtBeginShipoutBox=\box40
+Package hyperref Info: Link coloring OFF on input line 60.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -562,41 +653,41 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count133
+\c@section@level=\count142
 )
-LaTeX Info: Redefining \ref on input line 55.
-LaTeX Info: Redefining \pageref on input line 55.
-LaTeX Info: Redefining \nameref on input line 55.
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
 
 (./Biorem.out) (./Biorem.out)
-\@outlinefile=\write4
-\openout4 = `Biorem.out'.
+\@outlinefile=\write5
+\openout5 = `Biorem.out'.
 
 
 <Pictures/ULB.jpeg, id=88, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
-Package pdftex.def Info: Pictures/ULB.jpeg used on input line 64.
+Package pdftex.def Info: Pictures/ULB.jpeg used on input line 69.
 (pdftex.def)             Requested size: 418.25368pt x 63.25621pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 88.
+(Font)              <10.95> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 88.
+(Font)              <8> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 88.
+(Font)              <6> on input line 93.
 
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Pictu
 res/ULB.jpeg>] (./Biorem.toc)
-\tf@toc=\write5
-\openout5 = `Biorem.toc'.
+\tf@toc=\write6
+\openout6 = `Biorem.toc'.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 \newpage
+l.117 \newpage
                % Begins the essay on a new page instead of on the same page ...
 [1] [2] (./introduction.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -687,28 +778,37 @@ Package pdftex.def Info: Pictures/Fabrication.png used on input line 37.
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
-Package pdftex.def Info: Pictures/Lignol.png used on input line 151.
+Package pdftex.def Info: Pictures/Lignol.png used on input line 156.
 (pdftex.def)             Requested size: 418.25368pt x 238.90953pt.
  [11] [12 <./Pictures/Lignol.png>]
 <Pictures/Lign.png, id=309, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 166.
+Package pdftex.def Info: Pictures/Lign.png used on input line 171.
 (pdftex.def)             Requested size: 418.25368pt x 514.79675pt.
 
 [13] [14 <./Pictures/Lign.png>]
-Overfull \hbox (18.29417pt too wide) in paragraph at lines 179--180
+Overfull \hbox (18.29417pt too wide) in paragraph at lines 184--185
 \OT1/cmr/m/n/10.95 ph^^Senoliques par l'in-term^^Sediaire de p^^Seroxyde d'hy-d
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-[15] (./Biorem.bbl [16]
+[15]
+
+Package natbib Warning: Citation `Sangale2012' on page 16 undefined on input li
+ne 214.
+
+[16]
+Overfull \vbox (109.8177pt too high) has occurred while \output is active []
+
+
+[17] (./Biorem.bbl
 Underfull \hbox (badness 2772) in paragraph at lines 42--45
 []\OT1/cmr/m/n/10.95 Europ^^Setrole (Consult^^Se le 17 no-vembre 2016).  Va-po-
 cra-quage.  []$\OT1/cmtt/m/n/10.95 http : / / www .
  []
 
-[17]
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 111--115
 []\OT1/cmr/m/n/10.95 Plan^^Setoscope (Consult^^Se le 09 no-vembre 2016).  Pro-d
 uc-tion mon-diale
@@ -720,7 +820,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--115
 / / www . planetoscope . com / petrole /
  []
 
-
+[19]
 Underfull \hbox (badness 3407) in paragraph at lines 140--144
 []\OT1/cmr/m/n/10.95 SCF (Consult^^Se le 17 no-vembre 2016).  Mati^^Reres plas-
 tiques.  []$\OT1/cmtt/m/n/10.95 http : / / www .
@@ -732,48 +832,52 @@ Underfull \hbox (badness 1320) in paragraph at lines 146--149
 on-ne-ment.  \OT1/cmr/m/it/10.95 Centre Suisse
  []
 
-[18])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
- [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
+)
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
+[20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
 (rerunfilecheck)             Checksum: 700C02B52E1200BB89D0F2E586D5BC5B;1635.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 156 ({)
-### simple group (level 2) entered at line 145 ({)
-### simple group (level 1) entered at line 145 ({)
+### simple group (level 3) entered at line 161 ({)
+### simple group (level 2) entered at line 150 ({)
+### simple group (level 1) entered at line 150 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9867 strings out of 493089
- 144149 string characters out of 6134843
- 267560 words of memory out of 5000000
- 13081 multiletter control sequences out of 15000+600000
- 11417 words of font info for 40 fonts, out of 8000000 for 9000
+ 11108 strings out of 493089
+ 162213 string characters out of 6134843
+ 310957 words of memory out of 5000000
+ 14272 multiletter control sequences out of 15000+600000
+ 11726 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1737b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1737b,651s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-
-Output written on Biorem.pdf (20 pages, 928805 bytes).
+m/cmbx8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Biorem.pdf (21 pages, 961721 bytes).
 PDF statistics:
- 459 PDF objects out of 1000 (max. 8388607)
- 390 compressed objects within 4 object streams
- 90 named destinations out of 1000 (max. 500000)
+ 474 PDF objects out of 1000 (max. 8388607)
+ 401 compressed objects within 5 object streams
+ 92 named destinations out of 1000 (max. 500000)
  214 words of extra memory for PDF output out of 10000 (max. 10000000)
 

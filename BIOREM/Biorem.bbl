@@ -38,6 +38,11 @@ Dominguez, S. (2013).
 \newblock Th\`ese de doctorat dirig\'ee par Derail, Christophe Physique des
   polym\`eres Pau 2013.
 
+\bibitem[Europ\'etrole, 2016]{Europetrole}
+Europ\'etrole (Consult\'e le 17 novembre 2016).
+\newblock Vapocraquage.
+\newblock \url{http://www.euro-petrole.com/re_05_details_mot.php?idMot=43}.
+
 \bibitem[Ferraroni et~al., 2007]{Ferraroni2007}
 Ferraroni, M., Myasoedova, N.~M., Schmatchenko, V., Leontievsky, A.~A.,
   Golovleva, L.~A., Scozzafava, A., and Briganti, F. (2007).
@@ -71,6 +76,13 @@ Kyaw, B.~M., Champakalakshmi, R., Sakharkar, M.~K., Lim, C.~S., and Sakharkar,
   Species}.
 \newblock {\em Indian Journal of Microbiology}, 52(3):411--419.
 
+\bibitem[Lambert et~al., 2014]{lambert2014occurrence}
+Lambert, S., Sinclair, C., and Boxall, A. (2014).
+\newblock Occurrence, degradation, and effect of polymer-based materials in the
+  environment.
+\newblock In {\em Reviews of Environmental Contamination and Toxicology, Volume
+  227}, pages 1--53. Springer.
+
 \bibitem[Lecomte-Beckers, 2009]{lecomte2009physique}
 Lecomte-Beckers, J. (2009).
 \newblock Physique des mat\`eriaux: partie polym\`eres.
@@ -95,6 +107,24 @@ Piringer, O.~G. and Baner, A.~L. (2008).
 \newblock {\em {Plastic Packaging: Interactions with Food and Pharmaceuticals,
   Second Edition}}.
 
+\bibitem[Plan\'etoscope, 2016]{Planetoscope}
+Plan\'etoscope (Consult\'e le 09 novembre 2016).
+\newblock Production mondiale de plastique. consogloble.
+\newblock
+  \url{http://www.planetoscope.com/petrole/989-production-mondiale-de-plastique.html}.
+
+\bibitem[Plasticseurope, 2016a]{Plasticseurope2}
+Plasticseurope (Consult\'e le 09 novembre 2016a).
+\newblock Plastics - the facts 2016 an analysis of european plastics
+  production, demand and waste data.
+\newblock
+  \url{http://www.plasticseurope.org/Document/plastics---the-facts-2016-15787.aspx}.
+
+\bibitem[Plasticseurope, 2016b]{Plasticseurope}
+Plasticseurope (Consult\'e le 12 novembre 2016b).
+\newblock Utilisation du plastique.
+\newblock \url{http://www.plasticseurope.fr/utilisation-du-plastique.aspx}.
+
 \bibitem[Pometto et~al., 1992]{Pometto1992}
 Pometto, A.~L., Lee, B., and Johnson, K.~E. (1992).
 \newblock {Production of an extracellular polyethylene-degrading enzyme(s) by
@@ -106,9 +136,32 @@ Prati, S., Joseph, E., Sciutto, G., and Mazzeo, R. (2010).
   for the characterization of artistic materials}.
 \newblock {\em Accounts of Chemical Research}, 43(6):792--801.
 
+\bibitem[SCF, 2016]{SCF}
+SCF (Consult\'e le 17 novembre 2016).
+\newblock Mati\`eres plastiques.
+\newblock
+  \url{http://www.societechimiquedefrance.fr/extras/Donnees/mater/plast/matplast[3].htm}.
+
+\bibitem[Schafer, 2015]{Schafer2015}
+Schafer, A. (2015).
+\newblock Les microplastiques dans l'environnement.
+\newblock {\em Centre Suisse d'\'ecotoxicologie appliqu\'ee}.
+
 \bibitem[Shah et~al., 2008]{Shah2008}
 Shah, A.~A., Hasan, F., Hameed, A., and Ahmed, S. (2008).
 \newblock {Biological degradation of plastics: A comprehensive review}.
+
+\bibitem[Tassin et~al., 2016]{tassin2016plastiques}
+Tassin, B., Gasperi, J., and Dris, R. (2016).
+\newblock Plastiques: un septi{\`e}me continent en expansion.
+\newblock In {\em Conf{\'e}rences de la cit{\'e} des sciences}.
+
+\bibitem[Thompson et~al., 2009]{thompson2009plastics}
+Thompson, R.~C., Moore, C.~J., Vom~Saal, F.~S., and Swan, S.~H. (2009).
+\newblock Plastics, the environment and human health: current consensus and
+  future trends.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 364(1526):2153--2166.
 
 \bibitem[Thurston, 1994]{Thurston1994}
 Thurston, C.~F. (1994).
@@ -117,7 +170,7 @@ Thurston, C.~F. (1994).
 \bibitem[Valorplast, 2016]{Valorplast}
 Valorplast (Consult\'e le 10 novembre 2016).
 \newblock La chimie des plastiques: l'atome aux polym\`eres.
-\newblock http://www.valorplast.com/le-campus/lycee/option-chimie/.
+\newblock \url{http://www.valorplast.com/le-campus/lycee/option-chimie/}.
 
 \bibitem[Whetten and Sederoff, 1995]{Whetten1995}
 Whetten, R. and Sederoff, R. (1995).

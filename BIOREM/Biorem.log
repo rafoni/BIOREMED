@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 12:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -66,6 +66,10 @@ Package babel Info: Making ? an active character on input line 374.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -369,11 +373,6 @@ Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count113
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
 LaTeX Info: Redefining \url on input line 5041.
 \XeTeXLinkMargin=\dimen152
 \Fld@menulength=\count114
@@ -455,77 +454,7 @@ XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
 )) (/usr/local/texlive/2015/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
-(./Biorem.aux
-
-Package natbib Warning: Citation `andrady2009applications' multiply defined.
-
-
-Package natbib Warning: Citation `Arutchelvi2008' multiply defined.
-
-
-Package natbib Warning: Citation `Baldrian2006' multiply defined.
-
-
-Package natbib Warning: Citation `Claus2004' multiply defined.
-
-
-Package natbib Warning: Citation `Crawford1980' multiply defined.
-
-
-Package natbib Warning: Citation `Dashtban2010' multiply defined.
-
-
-Package natbib Warning: Citation `domin2013' multiply defined.
-
-
-Package natbib Warning: Citation `Ferraroni2007' multiply defined.
-
-
-Package natbib Warning: Citation `fontanille2014chimie' multiply defined.
-
-
-Package natbib Warning: Citation `Iiyoshi1998' multiply defined.
-
-
-Package natbib Warning: Citation `Konduri2011' multiply defined.
-
-
-Package natbib Warning: Citation `Kyaw2012' multiply defined.
-
-
-Package natbib Warning: Citation `lecomte2009physique' multiply defined.
-
-
-Package natbib Warning: Citation `Martinez2005' multiply defined.
-
-
-Package natbib Warning: Citation `Otake1995' multiply defined.
-
-
-Package natbib Warning: Citation `Piringer2008' multiply defined.
-
-
-Package natbib Warning: Citation `Pometto1992' multiply defined.
-
-
-Package natbib Warning: Citation `Prati2010' multiply defined.
-
-
-Package natbib Warning: Citation `Shah2008' multiply defined.
-
-
-Package natbib Warning: Citation `Thurston1994' multiply defined.
-
-
-Package natbib Warning: Citation `Valorplast' multiply defined.
-
-
-Package natbib Warning: Citation `Whetten1995' multiply defined.
-
-
-Package natbib Warning: Citation `Wong2009' multiply defined.
-
-)
+(./Biorem.aux)
 \openout1 = `Biorem.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
@@ -644,7 +573,7 @@ LaTeX Info: Redefining \nameref on input line 55.
 \openout4 = `Biorem.out'.
 
 
-<Pictures/ULB.jpeg, id=80, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=88, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
 Package pdftex.def Info: Pictures/ULB.jpeg used on input line 64.
@@ -697,21 +626,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
  []
 
 ) (./Description.tex [4]
-<Pictures/Structurepoly.png, id=143, 295.3434pt x 149.8398pt>
+<Pictures/Structurepoly.png, id=153, 295.3434pt x 149.8398pt>
 File: Pictures/Structurepoly.png Graphic file (type png)
 
 <use Pictures/Structurepoly.png>
 Package pdftex.def Info: Pictures/Structurepoly.png used on input line 13.
 (pdftex.def)             Requested size: 236.27502pt x 119.87198pt.
 
-<Pictures/Chainepoly.png, id=149, 267.399pt x 98.769pt>
+<Pictures/Chainepoly.png, id=159, 267.399pt x 98.769pt>
 File: Pictures/Chainepoly.png Graphic file (type png)
 
 <use Pictures/Chainepoly.png>
 Package pdftex.def Info: Pictures/Chainepoly.png used on input line 24.
 (pdftex.def)             Requested size: 213.91948pt x 79.01529pt.
 
-<Pictures/poly3d.png, id=158, 333.8874pt x 132.0132pt>
+<Pictures/poly3d.png, id=168, 333.8874pt x 132.0132pt>
 File: Pictures/poly3d.png Graphic file (type png)
 
 <use Pictures/poly3d.png>
@@ -722,37 +651,96 @@ Package pdftex.def Info: Pictures/poly3d.png used on input line 34.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5 <./Pictures/Structurepoly.png> <./Pictures/Chainepoly.png>] [6 <./Pictures/p
-oly3d.png>]) [7] <Pictures/Lignol.png, id=215, 592.2125pt x 338.26375pt>
+oly3d.png>]) (./Utilisation.tex [7]
+<Pictures/Secteurs.png, id=217, 330.5148pt x 120.9318pt>
+File: Pictures/Secteurs.png Graphic file (type png)
+
+<use Pictures/Secteurs.png>
+Package pdftex.def Info: Pictures/Secteurs.png used on input line 12.
+(pdftex.def)             Requested size: 330.51398pt x 120.93149pt.
+
+<Pictures/Diffpoly.png, id=222, 455.301pt x 441.3288pt>
+File: Pictures/Diffpoly.png Graphic file (type png)
+
+<use Pictures/Diffpoly.png>
+Package pdftex.def Info: Pictures/Diffpoly.png used on input line 24.
+(pdftex.def)             Requested size: 455.29988pt x 441.32771pt.
+
+Overfull \hbox (37.0462pt too wide) in paragraph at lines 24--25
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8 <./Pictures/Secteurs.png>] [9 <./Pictures/Diffpoly.png>]
+<Pictures/Fabrication.png, id=248, 283.7802pt x 271.7352pt>
+File: Pictures/Fabrication.png Graphic file (type png)
+
+<use Pictures/Fabrication.png>
+Package pdftex.def Info: Pictures/Fabrication.png used on input line 37.
+(pdftex.def)             Requested size: 283.7795pt x 271.73451pt.
+) [10
+
+ <./Pictures/Fabrication.png>]
+<Pictures/Lignol.png, id=272, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
 Package pdftex.def Info: Pictures/Lignol.png used on input line 151.
 (pdftex.def)             Requested size: 418.25368pt x 238.90953pt.
- [8] [9 <./Pictures/Lignol.png>]
-<Pictures/Lign.png, id=250, 508.90125pt x 626.34pt>
+ [11] [12 <./Pictures/Lignol.png>]
+<Pictures/Lign.png, id=309, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
 Package pdftex.def Info: Pictures/Lign.png used on input line 166.
 (pdftex.def)             Requested size: 418.25368pt x 514.79675pt.
 
-[10] [11 <./Pictures/Lign.png>]
+[13] [14 <./Pictures/Lign.png>]
 Overfull \hbox (18.29417pt too wide) in paragraph at lines 179--180
 \OT1/cmr/m/n/10.95 ph^^Senoliques par l'in-term^^Sediaire de p^^Seroxyde d'hy-d
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-[12] (./Biorem.bbl [13] [14])
+[15] (./Biorem.bbl [16]
+Underfull \hbox (badness 2772) in paragraph at lines 42--45
+[]\OT1/cmr/m/n/10.95 Europ^^Setrole (Consult^^Se le 17 no-vembre 2016).  Va-po-
+cra-quage.  []$\OT1/cmtt/m/n/10.95 http : / / www .
+ []
 
-Package natbib Warning: There were multiply defined citations.
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+[]\OT1/cmr/m/n/10.95 Plan^^Setoscope (Consult^^Se le 09 no-vembre 2016).  Pro-d
+uc-tion mon-diale
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+\OT1/cmr/m/n/10.95 de plas-tique. conso-globle.  []$\OT1/cmtt/m/n/10.95 http : 
+/ / www . planetoscope . com / petrole /
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 140--144
+[]\OT1/cmr/m/n/10.95 SCF (Consult^^Se le 17 no-vembre 2016).  Mati^^Reres plas-
+tiques.  []$\OT1/cmtt/m/n/10.95 http : / / www .
+ []
+
+
+Underfull \hbox (badness 1320) in paragraph at lines 146--149
+[]\OT1/cmr/m/n/10.95 Schafer, A. (2015).  Les mi-cro-plas-tiques dans l'en-vi-r
+on-ne-ment.  \OT1/cmr/m/it/10.95 Centre Suisse
+ []
+
+[18])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
-[15]
+ [19]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (./Biorem.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: B08A030639395AB2663B978F168D4E8F;1501.
+(rerunfilecheck)             Checksum: 700C02B52E1200BB89D0F2E586D5BC5B;1635.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  )
 (\end occurred inside a group at level 3)
@@ -762,13 +750,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
 ### simple group (level 1) entered at line 145 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9794 strings out of 493089
- 142776 string characters out of 6134843
- 269031 words of memory out of 5000000
- 13033 multiletter control sequences out of 15000+600000
- 11249 words of font info for 39 fonts, out of 8000000 for 9000
+ 9867 strings out of 493089
+ 144149 string characters out of 6134843
+ 267560 words of memory out of 5000000
+ 13081 multiletter control sequences out of 15000+600000
+ 11417 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1737b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1737b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
@@ -780,11 +768,12 @@ mr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 .pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
->
-Output written on Biorem.pdf (16 pages, 479673 bytes).
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+
+Output written on Biorem.pdf (20 pages, 928805 bytes).
 PDF statistics:
- 375 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
- 72 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 459 PDF objects out of 1000 (max. 8388607)
+ 390 compressed objects within 4 object streams
+ 90 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 

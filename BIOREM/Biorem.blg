@@ -1,21 +1,21 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
-Database file #1: Bibliography/Plastics.bib.bib
+Illegal, another \bibdata command---line 97 of file Biorem.aux
+ : \bibdata
+ :         {Bibliography/Plastics.bib}
+I'm skipping whatever remains of this command
+Database file #1: Bibliography/Plastics.bib
 Warning--I'm ignoring domin2013's extra "note" field
---line 538 of file Bibliography/Plastics.bib.bib
+--line 538 of file Bibliography/Plastics.bib
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
 Warning--can't use both volume and number fields in Martinez2005
 Warning--empty publisher in Piringer2008
 You've used 23 entries,
             1935 wiz_defined-function locations,
-<<<<<<< HEAD
-            636 strings with 8329 characters,
-=======
-            636 strings with 8325 characters,
->>>>>>> cd063dc132e89d16bc0571c000682688617e9e05
+            636 strings with 8353 characters,
 and the built_in function-call counts, 8834 in all, are:
 = -- 856
 > -- 422
@@ -54,4 +54,4 @@ warning$ -- 4
 while$ -- 69
 width$ -- 0
 write$ -- 277
-(There were 5 warnings)
+(There was 1 error message)

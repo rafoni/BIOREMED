@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 12:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 12:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -457,15 +457,74 @@ Package: placeins 2005/04/18  v 2.2
 )
 (./Biorem.aux
 
-./Biorem.aux:100: LaTeX Error: Missing \begin{document}.
+Package natbib Warning: Citation `andrady2009applications' multiply defined.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 <
-       <<<<<< HEAD
-? 
+
+Package natbib Warning: Citation `Arutchelvi2008' multiply defined.
+
+
+Package natbib Warning: Citation `Baldrian2006' multiply defined.
+
+
+Package natbib Warning: Citation `Claus2004' multiply defined.
+
+
+Package natbib Warning: Citation `Crawford1980' multiply defined.
+
+
+Package natbib Warning: Citation `Dashtban2010' multiply defined.
+
+
+Package natbib Warning: Citation `domin2013' multiply defined.
+
+
+Package natbib Warning: Citation `Ferraroni2007' multiply defined.
+
+
+Package natbib Warning: Citation `fontanille2014chimie' multiply defined.
+
+
+Package natbib Warning: Citation `Iiyoshi1998' multiply defined.
+
+
+Package natbib Warning: Citation `Konduri2011' multiply defined.
+
+
+Package natbib Warning: Citation `Kyaw2012' multiply defined.
+
+
+Package natbib Warning: Citation `lecomte2009physique' multiply defined.
+
+
+Package natbib Warning: Citation `Martinez2005' multiply defined.
+
+
+Package natbib Warning: Citation `Otake1995' multiply defined.
+
+
+Package natbib Warning: Citation `Piringer2008' multiply defined.
+
+
+Package natbib Warning: Citation `Pometto1992' multiply defined.
+
+
+Package natbib Warning: Citation `Prati2010' multiply defined.
+
+
+Package natbib Warning: Citation `Shah2008' multiply defined.
+
+
+Package natbib Warning: Citation `Thurston1994' multiply defined.
+
+
+Package natbib Warning: Citation `Valorplast' multiply defined.
+
+
+Package natbib Warning: Citation `Whetten1995' multiply defined.
+
+
+Package natbib Warning: Citation `Wong2009' multiply defined.
+
 )
 \openout1 = `Biorem.aux'.
 
@@ -537,16 +596,6 @@ Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
-Overfull \hbox (28.86957pt too wide) in paragraph at lines 100--13
-[]\OT1/cmr/m/n/10.95 <<<<<<< HEAD  =======  >>>>>>> cd063dc132e89d16bc0571c0006
-82688617e9e05                           [][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--13
-
- []
-
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count127
 \scratchdimen=\dimen167
@@ -594,13 +643,10 @@ LaTeX Info: Redefining \nameref on input line 55.
 \@outlinefile=\write4
 \openout4 = `Biorem.out'.
 
- [1
 
-{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <Pictur
-es/ULB.jpeg, id=86, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=80, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
-
-<use Pictures/ULB.jpeg>
+ <use Pictures/ULB.jpeg>
 Package pdftex.def Info: Pictures/ULB.jpeg used on input line 64.
 (pdftex.def)             Requested size: 418.25368pt x 63.25621pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -609,12 +655,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 88.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 88.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.104 \end{titlepage}
-                      [1 <./Pictures/ULB.jpeg>] (./Biorem.toc)
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Pictu
+res/ULB.jpeg>] (./Biorem.toc)
 \tf@toc=\write5
 \openout5 = `Biorem.toc'.
 
@@ -652,21 +697,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
  []
 
 ) (./Description.tex [4]
-<Pictures/Structurepoly.png, id=146, 295.3434pt x 149.8398pt>
+<Pictures/Structurepoly.png, id=143, 295.3434pt x 149.8398pt>
 File: Pictures/Structurepoly.png Graphic file (type png)
 
 <use Pictures/Structurepoly.png>
 Package pdftex.def Info: Pictures/Structurepoly.png used on input line 13.
 (pdftex.def)             Requested size: 236.27502pt x 119.87198pt.
 
-<Pictures/Chainepoly.png, id=152, 267.399pt x 98.769pt>
+<Pictures/Chainepoly.png, id=149, 267.399pt x 98.769pt>
 File: Pictures/Chainepoly.png Graphic file (type png)
 
 <use Pictures/Chainepoly.png>
 Package pdftex.def Info: Pictures/Chainepoly.png used on input line 24.
 (pdftex.def)             Requested size: 213.91948pt x 79.01529pt.
 
-<Pictures/poly3d.png, id=161, 333.8874pt x 132.0132pt>
+<Pictures/poly3d.png, id=158, 333.8874pt x 132.0132pt>
 File: Pictures/poly3d.png Graphic file (type png)
 
 <use Pictures/poly3d.png>
@@ -677,14 +722,14 @@ Package pdftex.def Info: Pictures/poly3d.png used on input line 34.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [5 <./Pictures/Structurepoly.png> <./Pictures/Chainepoly.png>] [6 <./Pictures/p
-oly3d.png>]) [7] <Pictures/Lignol.png, id=218, 592.2125pt x 338.26375pt>
+oly3d.png>]) [7] <Pictures/Lignol.png, id=215, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
 Package pdftex.def Info: Pictures/Lignol.png used on input line 151.
 (pdftex.def)             Requested size: 418.25368pt x 238.90953pt.
  [8] [9 <./Pictures/Lignol.png>]
-<Pictures/Lign.png, id=253, 508.90125pt x 626.34pt>
+<Pictures/Lign.png, id=250, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
 Package pdftex.def Info: Pictures/Lign.png used on input line 166.
@@ -696,440 +741,19 @@ Overfull \hbox (18.29417pt too wide) in paragraph at lines 179--180
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
-[12] (./Biorem.bbl [13]
+[12] (./Biorem.bbl [13] [14])
 
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
+Package natbib Warning: There were multiply defined citations.
 
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \newblock {\em Relation structure/proprié
-                                              tés de polymères et mélanges
-? 
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \newblock {\em Relation structure/propriété
-                                                s de polymères et mélanges
-? 
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 ...em Relation structure/propriétés de polymè
-                                                  res et mélanges
-? 
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 ...on structure/propriétés de polymères et mé
-                                                  langes
-? 
-
-./Biorem.bbl:35: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 ...plastiques thermostables - Applications Aé
-                                                  ronautiques Hautes
-? 
-
-./Biorem.bbl:36: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36   Tempé
-            ratures}.
-? 
-
-./Biorem.bbl:38: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \newblock Thè
-                  se de doctorat dirigée par Derail, Christophe Physique des
-? 
-
-./Biorem.bbl:38: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \newblock Thèse de doctorat dirigé
-                                       e par Derail, Christophe Physique des
-? 
-
-./Biorem.bbl:39: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39   polymè
-             res Pau 2013.
-? 
-
-./Biorem.bbl:76: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 \newblock Physique des matè
-                                riaux: partie polymères.
-? 
-
-./Biorem.bbl:76: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...lock Physique des matèriaux: partie polymè
-                                                  res.
-? 
-
-./Biorem.bbl:77: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 \newblock {\em Université
-                               de Liège, Belgique}.
-? 
-
-./Biorem.bbl:77: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 \newblock {\em Université de Liè
-                                     ge, Belgique}.
-? 
-[14]) (./Biorem.bblpdfTeX warning (ext4): destination with the same identifier 
-(name{cite.andrady2009applications}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.3 ...dy and Neal, 2009]{andrady2009applications}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.Arutchelvi2008}) has been already use
-d, duplicate ignored
-<to be read again> 
-                   \relax 
-l.9 ...em[Arutchelvi et~al., 2008]{Arutchelvi2008}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.Baldrian2006}) has been already used,
- duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 \bibitem[Baldrian, 2006]{Baldrian2006}
-                                           pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.Claus2004}) has been already used, duplicate
- ignored
-<to be read again> 
-                   \relax 
-l.19 \bibitem[Claus, 2004]{Claus2004}
-                                     pdfTeX warning (ext4): destination with th
-e same identifier (name{cite.Crawford1980}) has been already used, duplicate ig
-nored
-<to be read again> 
-                   \relax 
-l.24 ...Crawford and Crawford, 1980]{Crawford1980}
-                                                   [15]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.Dashtban2010}) has been already 
-used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.28 \bibitem[Dashtban et~al., 2010]{Dashtban2010}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.domin2013}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.32 \bibitem[Dominguez, 2013]{domin2013}
-                                         
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \newblock {\em Relation structure/proprié
-                                              tés de polymères et mélanges
-? 
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \newblock {\em Relation structure/propriété
-                                                s de polymères et mélanges
-? 
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 ...em Relation structure/propriétés de polymè
-                                                  res et mélanges
-? 
-
-./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 ...on structure/propriétés de polymères et mé
-                                                  langes
-? 
-
-./Biorem.bbl:35: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.35 ...plastiques thermostables - Applications Aé
-                                                  ronautiques Hautes
-? 
-
-./Biorem.bbl:36: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.36   Tempé
-            ratures}.
-? 
-
-./Biorem.bbl:38: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \newblock Thè
-                  se de doctorat dirigée par Derail, Christophe Physique des
-? 
-
-./Biorem.bbl:38: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \newblock Thèse de doctorat dirigé
-                                       e par Derail, Christophe Physique des
-? 
-
-./Biorem.bbl:39: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39   polymè
-             res Pau 2013.
-? 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.Ferraron
-i2007}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 ...tem[Ferraroni et~al., 2007]{Ferraroni2007}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.fontanille2014chimie}) has been alrea
-dy used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.49 ...le and Gnanou, 2014]{fontanille2014chimie}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.Iiyoshi1998}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.54 \bibitem[Iiyoshi et~al., 1998]{Iiyoshi1998}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.Konduri2011}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.60 \bibitem[Konduri et~al., 2011]{Konduri2011}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.Kyaw2012}) has been already used, dupli
-cate ignored
-<to be read again> 
-                   \relax 
-l.67 \bibitem[Kyaw et~al., 2012]{Kyaw2012}
-                                          pdfTeX warning (ext4): destination wi
-th the same identifier (name{cite.lecomte2009physique}) has been already used, 
-duplicate ignored
-<to be read again> 
-                   \relax 
-l.74 ...ecomte-Beckers, 2009]{lecomte2009physique}
-                                                  
-
-./Biorem.bbl:76: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 \newblock Physique des matè
-                                riaux: partie polymères.
-? 
-
-./Biorem.bbl:76: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.76 ...lock Physique des matèriaux: partie polymè
-                                                  res.
-? 
-
-./Biorem.bbl:77: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 \newblock {\em Université
-                               de Liège, Belgique}.
-? 
-
-./Biorem.bbl:77: Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 \newblock {\em Université de Liè
-                                     ge, Belgique}.
-? 
-pdfTeX warning (ext4): destination with the same identifier (name{cite.Martinez
-2005}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.79 ...Mart{\'{i}}nez et~al., 2005]{Martinez2005}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.Otake1995}) has been already used, du
-plicate ignored
-<to be read again> 
-                   \relax 
-l.87 \bibitem[Otake et~al., 1995]{Otake1995}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.Piringer2008}) has been already used, dupli
-cate ignored
-<to be read again> 
-                   \relax 
-l.93 ...em[Piringer and Baner, 2008]{Piringer2008}
-                                                   [16]pdfTeX warning (ext4): d
-estination with the same identifier (name{cite.Pometto1992}) has been already u
-sed, duplicate ignored
-<to be read again> 
-                   \relax 
-l.98 \bibitem[Pometto et~al., 1992]{Pometto1992}
-                                                pdfTeX warning (ext4): destinat
-ion with the same identifier (name{cite.Prati2010}) has been already used, dupl
-icate ignored
-<to be read again> 
-                   \relax 
-l.103 \bibitem[Prati et~al., 2010]{Prati2010}
-                                             pdfTeX warning (ext4): destination
- with the same identifier (name{cite.Shah2008}) has been already used, duplicat
-e ignored
-<to be read again> 
-                   \relax 
-l.109 \bibitem[Shah et~al., 2008]{Shah2008}
-                                           pdfTeX warning (ext4): destination w
-ith the same identifier (name{cite.Thurston1994}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.113 \bibitem[Thurston, 1994]{Thurston1994}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.Valorplast}) has been already used, duplica
-te ignored
-<to be read again> 
-                   \relax 
-l.117 \bibitem[Valorplast, 2016]{Valorplast}
-                                            pdfTeX warning (ext4): destination 
-with the same identifier (name{cite.Whetten1995}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.122 ...[Whetten and Sederoff, 1995]{Whetten1995}
-                                                  pdfTeX warning (ext4): destin
-ation with the same identifier (name{cite.Wong2009}) has been already used, dup
-licate ignored
-<to be read again> 
-                   \relax 
-l.127 \bibitem[Wong, 2009]{Wong2009}
-                                    )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
- [17]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+[15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
 (rerunfilecheck)             Checksum: B08A030639395AB2663B978F168D4E8F;1501.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  )
 (\end occurred inside a group at level 3)
 
@@ -1138,13 +762,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
 ### simple group (level 1) entered at line 145 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 9799 strings out of 493089
- 142822 string characters out of 6134843
- 269046 words of memory out of 5000000
+ 9794 strings out of 493089
+ 142776 string characters out of 6134843
+ 269031 words of memory out of 5000000
  13033 multiletter control sequences out of 15000+600000
  11249 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1737b,637s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1737b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1157,10 +781,10 @@ mr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
 b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 >
-Output written on Biorem.pdf (19 pages, 484550 bytes).
+Output written on Biorem.pdf (16 pages, 479673 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 333 compressed objects within 4 object streams
- 75 named destinations out of 1000 (max. 500000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 321 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 

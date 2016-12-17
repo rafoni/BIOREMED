@@ -9,45 +9,45 @@ Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
 Warning--can't use both volume and number fields in Martinez2005
 Warning--empty publisher in Piringer2008
-You've used 24 entries,
+You've used 23 entries,
             1935 wiz_defined-function locations,
-            641 strings with 8465 characters,
-and the built_in function-call counts, 9079 in all, are:
-= -- 882
-> -- 429
-< -- 17
-+ -- 146
-- -- 146
-* -- 779
-:= -- 1630
-add.period$ -- 65
-call.type$ -- 24
-change.case$ -- 190
-chr.to.int$ -- 24
-cite$ -- 28
-duplicate$ -- 321
-empty$ -- 570
-format.name$ -- 180
-if$ -- 1720
+            636 strings with 8325 characters,
+and the built_in function-call counts, 8834 in all, are:
+= -- 856
+> -- 422
+< -- 16
++ -- 144
+- -- 144
+* -- 764
+:= -- 1581
+add.period$ -- 62
+call.type$ -- 23
+change.case$ -- 184
+chr.to.int$ -- 23
+cite$ -- 27
+duplicate$ -- 311
+empty$ -- 555
+format.name$ -- 177
+if$ -- 1675
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 16
-newline$ -- 116
-num.names$ -- 72
-pop$ -- 161
+newline$ -- 111
+num.names$ -- 69
+pop$ -- 158
 preamble$ -- 1
-purify$ -- 193
+purify$ -- 187
 quote$ -- 0
-skip$ -- 254
+skip$ -- 245
 stack$ -- 0
-substring$ -- 571
+substring$ -- 559
 swap$ -- 35
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 140
+type$ -- 134
 warning$ -- 4
-while$ -- 71
+while$ -- 69
 width$ -- 0
-write$ -- 289
+write$ -- 277
 (There were 5 warnings)

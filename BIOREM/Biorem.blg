@@ -11,7 +11,11 @@ Warning--can't use both volume and number fields in Martinez2005
 Warning--empty publisher in Piringer2008
 You've used 23 entries,
             1935 wiz_defined-function locations,
+<<<<<<< HEAD
             636 strings with 8329 characters,
+=======
+            636 strings with 8325 characters,
+>>>>>>> cd063dc132e89d16bc0571c000682688617e9e05
 and the built_in function-call counts, 8834 in all, are:
 = -- 856
 > -- 422

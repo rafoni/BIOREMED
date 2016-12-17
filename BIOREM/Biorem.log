@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  17 DEC 2016 12:12
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  17 DEC 2016 12:12
+>>>>>>> cd063dc132e89d16bc0571c000682688617e9e05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -682,6 +686,7 @@ Overfull \hbox (18.29417pt too wide) in paragraph at lines 179--180
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
 
+<<<<<<< HEAD
 [12] (./Biorem.bbl [13]
 
 ./Biorem.bbl:34: Package inputenc Error: Keyboard character used is undefined
@@ -836,6 +841,18 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 211.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
 (rerunfilecheck)             Checksum: B08A030639395AB2663B978F168D4E8F;1501.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
+=======
+[12] (./Biorem.bbl [13] [14])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
+ (./Biorem.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
+Package rerunfilecheck Info: File `Biorem.out' has not changed.
+(rerunfilecheck)             Checksum: B08A030639395AB2663B978F168D4E8F;1501.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
+>>>>>>> cd063dc132e89d16bc0571c000682688617e9e05
  )
 (\end occurred inside a group at level 3)
 
@@ -844,6 +861,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 211.
 ### simple group (level 1) entered at line 145 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  9874 strings out of 493014
  144117 string characters out of 6133350
  270228 words of memory out of 5000000
@@ -868,5 +886,31 @@ PDF statistics:
  375 PDF objects out of 1000 (max. 8388607)
  321 compressed objects within 4 object streams
  72 named destinations out of 1000 (max. 500000)
+=======
+ 9801 strings out of 493089
+ 142819 string characters out of 6134843
+ 269550 words of memory out of 5000000
+ 13037 multiletter control sequences out of 15000+600000
+ 11249 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,12n,43p,1737b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
+>
+Output written on Biorem.pdf (16 pages, 482805 bytes).
+PDF statistics:
+ 382 PDF objects out of 1000 (max. 8388607)
+ 328 compressed objects within 4 object streams
+ 75 named destinations out of 1000 (max. 500000)
+>>>>>>> cd063dc132e89d16bc0571c000682688617e9e05
  183 words of extra memory for PDF output out of 10000 (max. 10000000)
 

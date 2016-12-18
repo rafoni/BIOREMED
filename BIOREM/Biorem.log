@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  18 DEC 2016 06:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  18 DEC 2016 06:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -545,41 +545,47 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count135
 \LT@p@ftn=\toks30
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks31
+\AP@partial=\box39
+\AP@footins=\box40
+)
 (./Biorem.aux)
 \openout1 = `Biorem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 61.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Info: Redefining \degres on input line 60.
-LaTeX Info: Redefining \dots on input line 60.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Info: Redefining \degres on input line 61.
+LaTeX Info: Redefining \dots on input line 61.
 
 
 Package frenchb.ldf Warning: Please load the "natbib" package
-(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 60.
+(frenchb.ldf)                BEFORE babel/frenchb; reported on input line 61.
 
-LaTeX Info: Redefining \up on input line 60.
+LaTeX Info: Redefining \up on input line 61.
 
 Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 (frenchb.ldf)                Add \usepackage[T1]{fontenc} to the preamble
-(frenchb.ldf)                of your document, on input line 60.
+(frenchb.ldf)                of your document, on input line 61.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -619,15 +625,15 @@ Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count136
 \scratchdimen=\dimen178
-\scratchbox=\box39
+\scratchbox=\box41
 \nofMPsegments=\count137
 \nofMParguments=\count138
-\everyMPshowfont=\toks31
+\everyMPshowfont=\toks32
 \MPscratchCnt=\count139
 \MPscratchDim=\dimen179
 \MPnumerator=\count140
 \makeMPintoPDFobject=\count141
-\everyMPtoPDFconversion=\toks32
+\everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -644,8 +650,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring OFF on input line 60.
+\AtBeginShipoutBox=\box42
+Package hyperref Info: Link coloring OFF on input line 61.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -655,9 +661,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count142
 )
-LaTeX Info: Redefining \ref on input line 60.
-LaTeX Info: Redefining \pageref on input line 60.
-LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \ref on input line 61.
+LaTeX Info: Redefining \pageref on input line 61.
+LaTeX Info: Redefining \nameref on input line 61.
 
 (./Biorem.out) (./Biorem.out)
 \@outlinefile=\write5
@@ -667,14 +673,14 @@ LaTeX Info: Redefining \nameref on input line 60.
 <Pictures/ULB.jpeg, id=104, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
-Package pdftex.def Info: Pictures/ULB.jpeg used on input line 69.
+Package pdftex.def Info: Pictures/ULB.jpeg used on input line 70.
 (pdftex.def)             Requested size: 418.25368pt x 63.25621pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 93.
+(Font)              <10.95> on input line 94.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 93.
+(Font)              <8> on input line 94.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 93.
+(Font)              <6> on input line 94.
 
 [1
 
@@ -687,7 +693,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 \newpage
+l.118 \newpage
                % Begins the essay on a new page instead of on the same page ...
 [1] [2] (./introduction.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
@@ -778,17 +784,17 @@ Package pdftex.def Info: Pictures/Fabrication.png used on input line 37.
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
-Package pdftex.def Info: Pictures/Lignol.png used on input line 156.
+Package pdftex.def Info: Pictures/Lignol.png used on input line 157.
 (pdftex.def)             Requested size: 418.25368pt x 238.90953pt.
  [13 <./Pictures/Lignol.png>]
 <Pictures/Lign.png, id=356, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 171.
+Package pdftex.def Info: Pictures/Lign.png used on input line 172.
 (pdftex.def)             Requested size: 418.25368pt x 514.79675pt.
 
 [14] [15 <./Pictures/Lign.png>]
-Overfull \hbox (18.29417pt too wide) in paragraph at lines 184--185
+Overfull \hbox (18.29417pt too wide) in paragraph at lines 185--186
 \OT1/cmr/m/n/10.95 ph^^Senoliques par l'in-term^^Sediaire de p^^Seroxyde d'hy-d
 rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
  []
@@ -797,61 +803,61 @@ rog^^Rene. Le sub-strat est d^^Sepolym^^Seris^^Se
 Overfull \vbox (109.8177pt too high) has occurred while \output is active []
 
 
-[18] (./Biorem.bbl
-Underfull \hbox (badness 2772) in paragraph at lines 42--45
+[18] (./Biorem.bbl [19]
+Underfull \hbox (badness 2772) in paragraph at lines 74--77
 []\OT1/cmr/m/n/10.95 Europ^^Setrole (Consult^^Se le 17 no-vembre 2016).  Va-po-
 cra-quage.  []$\OT1/cmtt/m/n/10.95 http : / / www .
  []
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 100--105
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 144--149
 []\OT1/cmr/m/n/10.95 OMI (Consult^^Se le 09 no-vembre 2016).  Conven-tion in-te
 r-na-tio-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--105
+Underfull \hbox (badness 10000) in paragraph at lines 144--149
 \OT1/cmr/m/n/10.95 nale pour la pr^^Sevention de la pol-lu-tion par les na-vire
 s.  []$\OT1/cmtt/m/n/10.95 http :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--105
+Underfull \hbox (badness 10000) in paragraph at lines 144--149
 \OT1/cmtt/m/n/10.95 / / www . imo . org / fr / About / Conventions / ListOfConv
 entions / Pages /
  []
 
 
-Overfull \hbox (34.09662pt too wide) in paragraph at lines 100--105
+Overfull \hbox (34.09662pt too wide) in paragraph at lines 144--149
 \OT1/cmtt/m/n/10.95 International-[]Convention-[]for-[]the-[]Prevention-[]of-[]
 Pollution-[]from-[]Ships-[](MARPOL )
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--122
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
 []\OT1/cmr/m/n/10.95 Plan^^Setoscope (Consult^^Se le 09 no-vembre 2016).  Pro-d
 uc-tion mon-diale
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--122
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
 \OT1/cmr/m/n/10.95 de plas-tique. conso-globle.  []$\OT1/cmtt/m/n/10.95 http : 
 / / www . planetoscope . com / petrole /
  []
 
-[20]
-Underfull \hbox (badness 3407) in paragraph at lines 164--168
+[21]
+Underfull \hbox (badness 3407) in paragraph at lines 208--212
 []\OT1/cmr/m/n/10.95 SCF (Consult^^Se le 17 no-vembre 2016).  Mati^^Reres plas-
 tiques.  []$\OT1/cmtt/m/n/10.95 http : / / www .
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 170--173
+Underfull \hbox (badness 1320) in paragraph at lines 214--217
 []\OT1/cmr/m/n/10.95 Schafer, A. (2015).  Les mi-cro-plas-tiques dans l'en-vi-r
 on-ne-ment.  \OT1/cmr/m/it/10.95 Centre Suisse
  []
 
-[21])
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
  [22]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
@@ -864,18 +870,18 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 161 ({)
-### simple group (level 2) entered at line 150 ({)
-### simple group (level 1) entered at line 150 ({)
+### simple group (level 3) entered at line 162 ({)
+### simple group (level 2) entered at line 151 ({)
+### simple group (level 1) entered at line 151 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11137 strings out of 493089
- 162767 string characters out of 6134843
- 311080 words of memory out of 5000000
- 14290 multiletter control sequences out of 15000+600000
+ 11183 strings out of 493089
+ 163499 string characters out of 6134843
+ 307802 words of memory out of 5000000
+ 14326 multiletter control sequences out of 15000+600000
  11726 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1877b,673s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1877b,676s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
@@ -890,10 +896,10 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (23 pages, 971331 bytes).
+Output written on Biorem.pdf (23 pages, 975007 bytes).
 PDF statistics:
- 538 PDF objects out of 1000 (max. 8388607)
- 463 compressed objects within 5 object streams
- 103 named destinations out of 1000 (max. 500000)
+ 617 PDF objects out of 1000 (max. 8388607)
+ 498 compressed objects within 5 object streams
+ 110 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 

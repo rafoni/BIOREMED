@@ -53,6 +53,7 @@
 \usepackage[table,xcdraw]{xcolor}
 \usepackage{comment}
 \usepackage{longtable}
+\usepackage{afterpage}
 
 
 \setcitestyle{square}
@@ -209,35 +210,34 @@ L'inventaire des composés issus de microdestructions du polyéthylène est établi 
 \\
 Les études comparatives entre les organismes, les milieux (in vivo ou in vitro) et les traitements préalables du plastique (pré-dégradation par oxydation, irradiation calorifique ou UV) ont rapporté de manière générale des rendements très variables, souvent faibles voir même négatifs (production de polyéthylène enregistré dans certains cas). 
 \\
-De manière générale, les PE préalablement traités ou polymérisés partiellement à partir d'amidon (Natural PE) ont rencontré des taux de dégradation significativement plus élevés que leurs équivalents purement synthétiques (Synthetic PE). Un taux de dégradation maximum du polyéthylène (perte massique) de 47,3\%   a été mesuré en conditions in vitro. Ce taux assez élevé a été réalisé par Aspergillus oryzae (un champignon microscopique) suite à une incubation de seulement 3 mois. Le polyéthylène concerné était du LDPE de masse moyenne de 180 kDa préalablement oxydé par irradiation UV et traité avec du stearate de manganese {\citep{Konduri2011}}.
+De manière générale, les PE préalablement traités ou polymérisés partiellement à partir d'amidon (Natural PE) ont rencontré des taux de dégradation significativement plus élevés que leurs équivalents purement synthétiques (Synthetic PE). Un taux de dégradation maximum du polyéthylène (perte massique) de 47,3\%   a été mesuré en conditions in vitro. Ce taux assez élevé a été réalisé par Aspergillus oryzae (un champignon microscopique) suite à une incubation de seulement 3 mois. Le polyéthylène concerné était du LDPE de masse moyenne de 180 kDa préalablement oxydé par irradiation UV et traité avec du stearate de manganese {\citep{Konduri2011}}. Récapitulatif présenté dans la table 3.
 \\
 Les études in vitro à partir de PE (synthétique) non traité ont donné des rendements en pertes massiques nettement plus contrastés, dépendant fortement des conditions d'incubation (temps d'incubation, pH, température, agitation, etc.) et de l'organisme concerné. Des taux variant entre 8 et 50\% de pertes massiques ont été enregistrés à travers la littérature {\citep{Sangale2012}}.
-
+\afterpage{%
+\thispagestyle{empty}
 \begin{table} [H]
 	\begin{center}
 	\begin{tabularx}{\textwidth}{X|X|X|X|X}
   		\toprule
   		\rowcolor [gray] {0.9} \centering \bf {\scriptsize Type de PE}  & \centering \bf {\scriptsize Conditions} & \centering \bf {\scriptsize Temps d'incubation} & \centering \bf {\scriptsize Taux de dégradation (en perte massique)} & \centering \bf {\scriptsize Bibliographie} \tabularnewline
   		\midrule
-  \centering {\scriptsize Sacs de PE} & \centering \scriptsize Agitation & \scriptsize \centering 3 mois & \scriptsize \centering Bacilius Cerues et Pseudomonas sp. (12.5\%) & \scriptsize \centering 56 \tabularnewline
-  \centering \scriptsize Sacs et verres de PE & \centering \scriptsize / &\scriptsize \centering 1 mois & \scriptsize \centering Streptococcus lactis (12.5\%) Aspergillus niger (12.25\%) & \scriptsize \centering 57 \tabularnewline
-  \centering \tiny LDPE & \centering \scriptsize Films de LDPE & \scriptsize \centering 3 mois & \centering \scriptsize Pseudomonas aeruoginosa (20\%) & \centering \scriptsize 55 \tabularnewline
-    \centering \scriptsize LDPE & \centering \scriptsize / & \scriptsize \centering 1 mois & \scriptsize \centering Rhodococcus ruber C208 (8\%) & \scriptsize \centering 60 \tabularnewline
-      \centering \scriptsize HDPE et LDPE & \centering \scriptsize / & \centering \scriptsize 2 mois & \scriptsize \centering Bacillus, Micrococcus, Listeria, et Vibrio (5\%) & \centering \scriptsize 63 \tabularnewline
-      \centering \scriptsize Sacs de PE & \centering \scriptsize Agitation, pH 4 et température ambiante & \scriptsize \centering 1 mois & \scriptsize \centering Serretia marscence (22,22\%) &\scriptsize \centering 65 \tabularnewline
-            \centering \scriptsize HDPE & \centering \scriptsize / & \centering \scriptsize 1 mois & \centering \scriptsize Arthrobacter sp. (12\%), Pseudomonas sp. (15\%) & \centering \scriptsize 68 \tabularnewline
-             \centering \scriptsize Sacs et verres de PE & \centering \scriptsize Culture en compost & \centering \scriptsize 12 mois & \centering \scriptsize Bacillus sp., Staphylococcus sp., Streptococuus sp., Diplococcus sp., Micrococcus sp., Pseudomonas sp. and Moraxella sp. et fungi Aspergillus niger, A. ornatus, A. nidulans, A. cremeus, A. flavus, A. candidus and A. Glaucus (11.54\%) & \scriptsize \centering 69 \tabularnewline
-             \centering \scriptsize Sacs et verres de PE & \scriptsize \centering Agitation & \scriptsize \centering 1 mois & \scriptsize \centering Pseudomonas sp. (20.54\%) et Aspergillus glaucus (28.80\%) & \scriptsize \centering 72 \tabularnewline
-              \centering \scriptsize Sacs de PE & \centering \scriptsize Agitation & \scriptsize \centering 8 mois & \scriptsize \centering Aspergillus niger (25\%) & \scriptsize \centering 73 \tabularnewline
-              \centering \scriptsize Sacs de PE & \centering \scriptsize Agitation, pH 4 et température ambiante & \centering \scriptsize 8 mois & \centering \scriptsize Phanerochaete chrysosporium (50\%) et Pseudomonas aeruginosa (35\%) & \scriptsize \centering 47 \tabularnewline
+  \centering {\scriptsize Sacs de PE} & \centering \scriptsize Agitation & \scriptsize \centering 3 mois & \scriptsize \centering Bacilius Cerues et Pseudomonas sp. (12.5\%) & \scriptsize \centering {\citep{aswale2008}} \tabularnewline
+  \centering \scriptsize Sacs et verres de PE & \centering \scriptsize / &\scriptsize \centering 1 mois & \scriptsize \centering Streptococcus lactis (12.5\%) Aspergillus niger (12.25\%) & \scriptsize \centering {\citep{priyanka2011}} \tabularnewline
+  \centering \tiny LDPE & \centering \scriptsize Films de LDPE & \scriptsize \centering 3 mois & \centering \scriptsize Pseudomonas aeruoginosa (20\%) & \centering \scriptsize {\citep{Kyaw2012}} \tabularnewline
+    \centering \scriptsize LDPE & \centering \scriptsize / & \scriptsize \centering 1 mois & \scriptsize \centering Rhodococcus ruber C208 (8\%) & \scriptsize \centering {\citep{Chandra1997}} \tabularnewline
+      \centering \scriptsize HDPE et LDPE & \centering \scriptsize / & \centering \scriptsize 2 mois & \scriptsize \centering Bacillus, Micrococcus, Listeria, et Vibrio (5\%) & \centering \scriptsize {\citep{Kumar2007}} \tabularnewline
+      \centering \scriptsize Sacs de PE & \centering \scriptsize Agitation, pH 4 et température ambiante & \scriptsize \centering 1 mois & \scriptsize \centering Serretia marscence (22,22\%) &\scriptsize \centering {\citep{aswale2009}} \tabularnewline
+            \centering \scriptsize HDPE & \centering \scriptsize / & \centering \scriptsize 1 mois & \centering \scriptsize Arthrobacter sp. (12\%), Pseudomonas sp. (15\%) & \centering \scriptsize {\citep{Balasubramanian2010}} \tabularnewline
+             \centering \scriptsize Sacs et verres de PE & \centering \scriptsize Culture en compost & \centering \scriptsize 12 mois & \centering \scriptsize Bacillus sp., Staphylococcus sp., Streptococuus sp., Diplococcus sp., Micrococcus sp., Pseudomonas sp. and Moraxella sp. et fungi Aspergillus niger, A. ornatus, A. nidulans, A. cremeus, A. flavus, A. candidus and A. Glaucus (11.54\%) & \scriptsize \centering {\citep{Vijaya2008}}\tabularnewline
+             \centering \scriptsize Sacs et verres de PE & \scriptsize \centering Agitation & \scriptsize \centering 1 mois & \scriptsize \centering Pseudomonas sp. (20.54\%) et Aspergillus glaucus (28.80\%) & \scriptsize \centering {\citep{Kathiresan2003}} \tabularnewline
+              \centering \scriptsize Sacs de PE & \centering \scriptsize Agitation & \scriptsize \centering 8 mois & \scriptsize \centering Aspergillus niger (25\%) & \scriptsize \centering {\citep{aswale2011}} \tabularnewline
+              \centering \scriptsize Sacs de PE & \centering \scriptsize Agitation, pH 4 et température ambiante & \centering \scriptsize 8 mois & \centering \scriptsize Phanerochaete chrysosporium (50\%) et Pseudomonas aeruginosa (35\%) & \scriptsize \centering {\citep{aswale2010}} \tabularnewline
       		\bottomrule
 	\end{tabularx}
-	\caption {Taux de dégradation du PE (calculé sous forme de pertes massiques sur la durée d'exposition) sous forme brute (synthétique non traité)}
+	\caption {Taux de dégradation (calculé sous forme de pertes massiques sur la durée d'exposition) du PE  sous forme brute (synthétique non traité)}
 	\end{center}
 \end{table}
-
-
-
+}
 Les études in vivo ont, quant à elle, rencontré des rendements très faibles ce compris sur des temps très longs d'exposition {\citep{Otake1995}}. 
 
 \subsection{Polyesters}

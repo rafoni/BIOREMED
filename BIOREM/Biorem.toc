@@ -10,13 +10,17 @@
 \contentsline {section}{\numberline {3}Utilisation, production, sources de pollution et types d'environnements contamin\'es}{8}{section.3}
 \contentsline {subsection}{\numberline {3.1}Utilisation}{8}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Production du plastique}{10}{subsection.3.2}
-\contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{11}{section.4}
-\contentsline {section}{\numberline {5}Aspects l\'egislatifs}{11}{section.5}
-\contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{11}{section.6}
-\contentsline {subsection}{\numberline {6.1}Poly\'ethyl\`ene}{11}{subsection.6.1}
-\contentsline {subsubsection}{\numberline {6.1.1}M\'echanisme global de biod\'egradation}{12}{subsubsection.6.1.1}
-\contentsline {subsubsection}{\numberline {6.1.2}Phenol oxidases (laccases)}{15}{subsubsection.6.1.2}
-\contentsline {subsubsection}{\numberline {6.1.3}H\`eme peroxidases}{15}{subsubsection.6.1.3}
-\contentsline {subsubsection}{\numberline {6.1.4}Produits de d\'egradation}{15}{subsubsection.6.1.4}
-\contentsline {subsubsection}{\numberline {6.1.5}Efficacit\'e de d\'egradation}{16}{subsubsection.6.1.5}
-\contentsline {subsection}{\numberline {6.2}Polyesters}{18}{subsection.6.2}
+\contentsline {subsection}{\numberline {3.3}Sources de pollution et types d'environnements contamin\'es}{10}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Dans les oc\'eans}{10}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Dans l'eau douce}{11}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Dans les sols}{12}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{12}{section.4}
+\contentsline {section}{\numberline {5}Aspects l\'egislatifs}{12}{section.5}
+\contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{12}{section.6}
+\contentsline {subsection}{\numberline {6.1}Poly\'ethyl\`ene}{12}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}M\'echanisme global de biod\'egradation}{14}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Phenol oxidases (laccases)}{16}{subsubsection.6.1.2}
+\contentsline {subsubsection}{\numberline {6.1.3}H\`eme peroxidases}{16}{subsubsection.6.1.3}
+\contentsline {subsubsection}{\numberline {6.1.4}Produits de d\'egradation}{16}{subsubsection.6.1.4}
+\contentsline {subsubsection}{\numberline {6.1.5}Efficacit\'e de d\'egradation}{17}{subsubsection.6.1.5}
+\contentsline {subsection}{\numberline {6.2}Polyesters}{19}{subsection.6.2}

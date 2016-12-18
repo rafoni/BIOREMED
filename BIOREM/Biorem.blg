@@ -5,49 +5,53 @@ The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
 Warning--I'm ignoring domin2013's extra "note" field
 --line 538 of file Bibliography/Plastics.bib
+Repeated entry---line 611 of file Bibliography/Plastics.bib
+ : @incollection{lambert2014occurrence
+ :                                    ,
+I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
 Warning--can't use both volume and number fields in Martinez2005
 Warning--empty publisher in Piringer2008
-You've used 32 entries,
+You've used 37 entries,
             1935 wiz_defined-function locations,
-            682 strings with 9874 characters,
-and the built_in function-call counts, 11670 in all, are:
-= -- 1143
-> -- 523
-< -- 23
-+ -- 177
-- -- 176
-* -- 968
-:= -- 2104
-add.period$ -- 90
-call.type$ -- 32
-change.case$ -- 245
-chr.to.int$ -- 31
-cite$ -- 36
-duplicate$ -- 429
-empty$ -- 750
-format.name$ -- 218
-if$ -- 2222
+            712 strings with 11062 characters,
+and the built_in function-call counts, 13646 in all, are:
+= -- 1340
+> -- 617
+< -- 24
++ -- 211
+- -- 208
+* -- 1150
+:= -- 2461
+add.period$ -- 105
+call.type$ -- 37
+change.case$ -- 286
+chr.to.int$ -- 36
+cite$ -- 41
+duplicate$ -- 490
+empty$ -- 870
+format.name$ -- 255
+if$ -- 2588
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 20
-newline$ -- 156
-num.names$ -- 96
-pop$ -- 209
+missing$ -- 24
+newline$ -- 181
+num.names$ -- 111
+pop$ -- 234
 preamble$ -- 1
-purify$ -- 248
+purify$ -- 289
 quote$ -- 0
-skip$ -- 333
+skip$ -- 384
 stack$ -- 0
-substring$ -- 717
-swap$ -- 44
+substring$ -- 864
+swap$ -- 48
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 188
+type$ -- 218
 warning$ -- 4
-while$ -- 92
+while$ -- 110
 width$ -- 0
-write$ -- 388
-(There were 5 warnings)
+write$ -- 452
+(There was 1 error message)

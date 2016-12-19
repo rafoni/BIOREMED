@@ -14,6 +14,7 @@
 \contentsline {subsubsection}{\numberline {3.3.1}Dans les oc\'eans}{9}{subsubsection.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.2}Dans l'eau douce}{10}{subsubsection.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.3}Dans les sols}{10}{subsubsection.3.3.3}
+<<<<<<< HEAD
 \contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{11}{section.4}
 \contentsline {section}{\numberline {5}Aspects l\'egislatifs}{11}{section.5}
 \contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{11}{section.6}
@@ -26,3 +27,23 @@
 \contentsline {subsubsection}{\numberline {6.3.1}Produits de d\'egradation}{16}{subsubsection.6.3.1}
 \contentsline {subsubsection}{\numberline {6.3.2}Efficacit\'e de d\'egradation}{16}{subsubsection.6.3.2}
 \contentsline {subsection}{\numberline {6.4}Polyester-PUR}{17}{subsection.6.4}
+=======
+\contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Impact sur le littoral et les oc\'eans}{10}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Enchev\^etrement}{11}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Ingestion}{11}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Ingestion de polluants organiques persistants (POP)}{11}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Les additifs}{12}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Invasion potentielle d'esp\`eces \'etrang\`eres}{12}{subsection.4.6}
+\contentsline {section}{\numberline {5}Aspects l\'egislatifs}{13}{section.5}
+\contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{13}{section.6}
+\contentsline {subsection}{\numberline {6.1}M\'ecanismes et difficult\'es li\'es \`a la d\'egradation du plastique}{13}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Biod\'egradation des biopolym\`eres}{13}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Introduction}{13}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Biod\'et\'erioration}{13}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Biofragmentation}{14}{subsubsection.6.2.3}
+\contentsline {subsection}{\numberline {6.3}Poly\'ethyl\`ene}{17}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Produits de d\'egradation}{17}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Efficacit\'e de d\'egradation}{18}{subsubsection.6.3.2}
+\contentsline {subsection}{\numberline {6.4}Polyester-PUR}{18}{subsection.6.4}
+>>>>>>> 07ad6f80b72397fbac5c6e4cd39c841034fbaa16

@@ -27,52 +27,56 @@ Repeated entry---line 801 of file Bibliography/Plastics.bib
  : @incollection{lambert2014occurrence
  :                                    ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Wang2011"
+Warning--I didn't find a database entry for "Banerjee2014"
 Warning--empty journal in allsopp2006plastic
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
+Warning--empty journal in dussudr63
 Warning--there's a number but no volume in galgani2016macro
 Warning--empty journal in henry2010pollution
 Warning--can't use both volume and number fields in Martinez2005
+Warning--there's a number but no volume in monsaingeon2016plastiques
 Warning--empty publisher in Piringer2008
-You've used 50 entries,
+You've used 56 entries,
             1935 wiz_defined-function locations,
-            781 strings with 12822 characters,
-and the built_in function-call counts, 17903 in all, are:
-= -- 1762
-> -- 746
-< -- 37
-+ -- 255
-- -- 248
-* -- 1488
-:= -- 3231
-add.period$ -- 142
-call.type$ -- 50
-change.case$ -- 371
-chr.to.int$ -- 49
-cite$ -- 57
-duplicate$ -- 665
-empty$ -- 1182
-format.name$ -- 314
-if$ -- 3399
+            815 strings with 13927 characters,
+and the built_in function-call counts, 20045 in all, are:
+= -- 1969
+> -- 841
+< -- 40
++ -- 289
+- -- 280
+* -- 1672
+:= -- 3622
+add.period$ -- 159
+call.type$ -- 56
+change.case$ -- 417
+chr.to.int$ -- 55
+cite$ -- 65
+duplicate$ -- 743
+empty$ -- 1321
+format.name$ -- 352
+if$ -- 3798
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 37
-newline$ -- 244
-num.names$ -- 150
-pop$ -- 291
+missing$ -- 42
+newline$ -- 273
+num.names$ -- 168
+pop$ -- 329
 preamble$ -- 1
-purify$ -- 374
+purify$ -- 420
 quote$ -- 0
-skip$ -- 529
+skip$ -- 588
 stack$ -- 0
-substring$ -- 1150
-swap$ -- 59
+substring$ -- 1281
+swap$ -- 63
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 296
-warning$ -- 7
-while$ -- 148
+type$ -- 332
+warning$ -- 9
+while$ -- 166
 width$ -- 0
-write$ -- 614
+write$ -- 687
 (There were 6 error messages)

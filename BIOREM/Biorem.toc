@@ -20,11 +20,14 @@
 \contentsline {subsection}{\numberline {6.1}Difficult\'es li\'ees \`a la d\'egradation des plastiques}{11}{subsection.6.1}
 \contentsline {subsection}{\numberline {6.2}D\'egradation abiotique des plastiques}{11}{subsection.6.2}
 \contentsline {subsection}{\numberline {6.3}M\'ecanismes de biod\'egradation des polym\`eres biologiques}{11}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Introduction}{11}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}M\'ecanisme g\'en\'eral de biod\'egradation}{11}{subsubsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3}Biod\'egradation de la lignine}{11}{subsubsection.6.3.3}
 \contentsline {subsection}{\numberline {6.4}Analyses des produits de d\'egradation}{11}{subsection.6.4}
 \contentsline {subsection}{\numberline {6.5}Poly\'ethyl\`ene}{11}{subsection.6.5}
 \contentsline {subsubsection}{\numberline {6.5.1}M\'echanisme global de biod\'egradation}{12}{subsubsection.6.5.1}
-\contentsline {subsubsection}{\numberline {6.5.2}Phenol oxidases (laccases)}{14}{subsubsection.6.5.2}
-\contentsline {subsubsection}{\numberline {6.5.3}H\`eme peroxidases}{14}{subsubsection.6.5.3}
-\contentsline {subsubsection}{\numberline {6.5.4}Produits de d\'egradation}{14}{subsubsection.6.5.4}
-\contentsline {subsubsection}{\numberline {6.5.5}Efficacit\'e de d\'egradation}{14}{subsubsection.6.5.5}
-\contentsline {subsection}{\numberline {6.6}Polyester-PUR}{16}{subsection.6.6}
+\contentsline {subsubsection}{\numberline {6.5.2}Phenol oxidases (laccases)}{15}{subsubsection.6.5.2}
+\contentsline {subsubsection}{\numberline {6.5.3}H\`eme peroxidases}{15}{subsubsection.6.5.3}
+\contentsline {subsubsection}{\numberline {6.5.4}Produits de d\'egradation}{15}{subsubsection.6.5.4}
+\contentsline {subsubsection}{\numberline {6.5.5}Efficacit\'e de d\'egradation}{15}{subsubsection.6.5.5}
+\contentsline {subsection}{\numberline {6.6}Polyester-PUR}{17}{subsection.6.6}

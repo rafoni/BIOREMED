@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  20 DEC 2016 00:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  20 DEC 2016 00:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1322,7 +1322,7 @@ ored
 <to be read again> 
                    \relax 
 l.288 \section{PET}
-                    [19] <Pictures/PET.png, id=630, 350.30875pt x 395.4775pt>
+                    [19] <Pictures/PET.png, id=631, 350.30875pt x 395.4775pt>
 File: Pictures/PET.png Graphic file (type png)
 
 <use Pictures/PET.png>
@@ -1371,10 +1371,10 @@ pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (26 pages, 1245131 bytes).
+Output written on Biorem.pdf (26 pages, 1245153 bytes).
 PDF statistics:
- 785 PDF objects out of 1000 (max. 8388607)
- 663 compressed objects within 7 object streams
+ 786 PDF objects out of 1000 (max. 8388607)
+ 664 compressed objects within 7 object streams
  142 named destinations out of 1000 (max. 500000)
  357 words of extra memory for PDF output out of 10000 (max. 10000000)
 

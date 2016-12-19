@@ -22,7 +22,6 @@
 \contentsline {subsubsection}{\numberline {6.2.1}Introduction}{11}{subsubsection.6.2.1}
 \contentsline {subsubsection}{\numberline {6.2.2}Biod\'et\'erioration}{11}{subsubsection.6.2.2}
 \contentsline {subsubsection}{\numberline {6.2.3}Biofragmentation}{12}{subsubsection.6.2.3}
-\contentsline {subsubsection}{\numberline {6.2.4}Assimilation}{15}{subsubsection.6.2.4}
 \contentsline {subsection}{\numberline {6.3}Poly\'ethyl\`ene}{15}{subsection.6.3}
 \contentsline {subsubsection}{\numberline {6.3.1}Produits de d\'egradation}{15}{subsubsection.6.3.1}
 \contentsline {subsubsection}{\numberline {6.3.2}Efficacit\'e de d\'egradation}{16}{subsubsection.6.3.2}

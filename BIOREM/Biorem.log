@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  19 DEC 2016 09:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  19 DEC 2016 14:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -689,7 +689,7 @@ LaTeX Info: Redefining \nameref on input line 62.
 \openout5 = `Biorem.out'.
 
 
-<Pictures/ULB.jpeg, id=120, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=116, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
 Package pdftex.def Info: Pictures/ULB.jpeg used on input line 71.
@@ -742,21 +742,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
 ) (./Description.tex [3
 
 ]
-<Pictures/Structurepoly.png, id=188, 295.3434pt x 149.8398pt>
+<Pictures/Structurepoly.png, id=185, 295.3434pt x 149.8398pt>
 File: Pictures/Structurepoly.png Graphic file (type png)
 
 <use Pictures/Structurepoly.png>
 Package pdftex.def Info: Pictures/Structurepoly.png used on input line 13.
 (pdftex.def)             Requested size: 236.27502pt x 119.87198pt.
 
-<Pictures/Chainepoly.png, id=192, 267.399pt x 98.769pt>
+<Pictures/Chainepoly.png, id=189, 267.399pt x 98.769pt>
 File: Pictures/Chainepoly.png Graphic file (type png)
 
 <use Pictures/Chainepoly.png>
 Package pdftex.def Info: Pictures/Chainepoly.png used on input line 24.
 (pdftex.def)             Requested size: 213.91948pt x 79.01529pt.
 
-<Pictures/poly3d.png, id=199, 333.8874pt x 132.0132pt>
+<Pictures/poly3d.png, id=196, 333.8874pt x 132.0132pt>
 File: Pictures/poly3d.png Graphic file (type png)
 
 <use Pictures/poly3d.png>
@@ -764,7 +764,7 @@ Package pdftex.def Info: Pictures/poly3d.png used on input line 34.
 (pdftex.def)             Requested size: 267.11028pt x 105.61069pt.
  [4 <./Pictures/Structurepoly.png> <./Pictures/Chainepoly.png>] [5 <./Pictures/
 poly3d.png>]) (./Utilisation.tex
-<Pictures/Secteurs.png, id=237, 330.5148pt x 120.9318pt>
+<Pictures/Secteurs.png, id=234, 330.5148pt x 120.9318pt>
 File: Pictures/Secteurs.png Graphic file (type png)
 
 <use Pictures/Secteurs.png>
@@ -774,7 +774,7 @@ Package pdftex.def Info: Pictures/Secteurs.png used on input line 12.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6] <Pictures/Diffpoly.png, id=250, 455.301pt x 441.3288pt>
+[6] <Pictures/Diffpoly.png, id=247, 455.301pt x 441.3288pt>
 File: Pictures/Diffpoly.png Graphic file (type png)
 
 <use Pictures/Diffpoly.png>
@@ -785,7 +785,7 @@ Package pdftex.def Info: Pictures/Diffpoly.png used on input line 24.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./Pictures/Secteurs.png>]
-<Pictures/Fabrication.png, id=265, 283.7802pt x 271.7352pt>
+<Pictures/Fabrication.png, id=262, 283.7802pt x 271.7352pt>
 File: Pictures/Fabrication.png Graphic file (type png)
 
 <use Pictures/Fabrication.png>
@@ -795,68 +795,107 @@ Package pdftex.def Info: Pictures/Fabrication.png used on input line 37.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./Pictures/Diffpoly.png>] [9 <./Pictures/Fabrication.png>])
-./Biorem.tex:159: Misplaced alignment tab character &.
-l.159 ...72. Ecologie Microbienne du Sol. Masson &
-                                                   Cie, Paris.). La première...
+[8 <./Pictures/Diffpoly.png>] [9 <./Pictures/Fabrication.png>]) [10]
 
-? 
-[10] [11] <Pictures/Lignol.png, id=337, 592.2125pt x 338.26375pt>
+Package natbib Warning: Citation `Wang2011' on page 11 undefined on input line 
+164.
+
+
+Package natbib Warning: Citation `Banerjee2014' on page 11 undefined on input l
+ine 168.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--169
+
+ []
+
+[11] <Pictures/Lignol.png, id=323, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
-Package pdftex.def Info: Pictures/Lignol.png used on input line 176.
+Package pdftex.def Info: Pictures/Lignol.png used on input line 179.
 (pdftex.def)             Requested size: 507.88533pt x 290.10628pt.
- [12 <./Pictures/Lignol.png>]
-<Pictures/Lign.png, id=367, 508.90125pt x 626.34pt>
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--188
+
+ []
+
+<Pictures/Lign.png, id=347, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 191.
+Package pdftex.def Info: Pictures/Lign.png used on input line 195.
 (pdftex.def)             Requested size: 507.88533pt x 625.11513pt.
 
-[13]
-Overfull \hbox (19.38824pt too wide) in paragraph at lines 199--200
+[13 <./Pictures/Lignol.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--202
+
+ []
+
+[14 <./Pictures/Lign.png>]
+Overfull \hbox (19.38824pt too wide) in paragraph at lines 203--207
 []\OT1/cmr/m/n/10.95 Ces oxydo-r^^Seductases gly-co-syl^^Sees uti-lisent de l'o
 xyg^^Rene mol^^Seculaire pour oxy-der des com-pos^^Ses (non-)aromatiques
  []
 
-[14 <./Pictures/Lign.png>] [15] [16] (./Biorem.bbl [17] [18])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 272.
- [19]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 272.
 
-(./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 272.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 272.
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
 
 
-Package rerunfilecheck Warning: File `Biorem.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
 
-Package rerunfilecheck Info: Checksums for `Biorem.out':
-(rerunfilecheck)             Before: 67205EB0E4691DBBA5AA656482B721A6;2377
-(rerunfilecheck)             After:  25DB9E236CB2F119C0ED9BE762E147DF;2647.
+ []
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 272.
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+
+ []
+
+[15] (./Biorem.bbl [16] [17] [18] [19])
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+[20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+ (./Biorem.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package rerunfilecheck Info: File `Biorem.out' has not changed.
+(rerunfilecheck)             Checksum: FCC6409BBA8AAF767DF00019DCFD6F8A;2221.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
  )
 (\end occurred inside a group at level 4)
 
-### simple group (level 4) entered at line 187 ({)
-### simple group (level 3) entered at line 181 ({)
-### simple group (level 2) entered at line 170 ({)
-### simple group (level 1) entered at line 170 ({)
+### simple group (level 4) entered at line 220 ({)
+### simple group (level 3) entered at line 220 ({)
+### simple group (level 2) entered at line 191 ({)
+### simple group (level 1) entered at line 184 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11290 strings out of 493014
- 165313 string characters out of 6133350
- 310938 words of memory out of 5000000
- 14477 multiletter control sequences out of 15000+600000
+ 11296 strings out of 493014
+ 165331 string characters out of 6133350
+ 309019 words of memory out of 5000000
+ 14484 multiletter control sequences out of 15000+600000
  11726 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,12n,43p,1877b,713s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,43p,1877b,726s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
@@ -871,10 +910,10 @@ pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (20 pages, 977035 bytes).
+Output written on Biorem.pdf (21 pages, 980320 bytes).
 PDF statistics:
- 616 PDF objects out of 1000 (max. 8388607)
- 511 compressed objects within 6 object streams
- 115 named destinations out of 1000 (max. 500000)
- 278 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 612 PDF objects out of 1000 (max. 8388607)
+ 506 compressed objects within 6 object streams
+ 114 named destinations out of 1000 (max. 500000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 

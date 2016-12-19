@@ -55,6 +55,7 @@
 \usepackage{longtable}
 \usepackage{afterpage}
 \usepackage[section,subsection,subsubsection]{extraplaceins}%rajouts des sections
+ \usepackage[version=3]{mhchem}
 
 
 \setcitestyle{square}
@@ -146,78 +147,91 @@ Dr. Isabelle \textsc{George} \\
 \input{Description.tex}
 \input{Utilisation.tex}
 \input{Dangers.tex}
-\section{Aspects législatifs}
-
-\section{Biorémédiation des milieux contaminés}
-\subsection{Mécanismes et difficultés liés à la dégradation du plastique}
-\subsection{Biodégradation des biopolymères}
-\subsubsection{Introduction}
+\part{Aspects législatifs}
+\setcounter{section}{0}
+\part{Biorémédiation des milieux contaminés}
+\setcounter{section}{0}
+\section{Mécanismes et difficultés liés à la dégradation du plastique}
+\section{Biodégradation des biopolymères}
+\subsection{Introduction}
 
 C'est dans le courant des années 1970 qu'est défini pour la première fois le terme de biodégradation (Dommergues, Y., Mangenot, F., 1972. Ecologie Microbienne du Sol. Masson \& Cie, Paris.). La première ébauche de définition fait statut d'un procédé cyclique où des microorganismes dégradent des composés carbonés en accroissant leur biomasse jusqu'à l'état primaire minéral des éléments à savoir du \chemform{CO_2}, de l' \chemform{H_2O} et des sels. C'est par le biais de ces réactions que le carbone est recyclé. Des décennies de travaux scientifiques ont progressivement étoffé cette vision cyclique simpliste de la biodégradation. En effet, la complexité de la dégradation biotique devient proportionnelle à la diversité métabolique des organismes qui la perpétue. C'est dans cette dynamique que de nombreux travaux ont démontré que le recyclage de polymères complexes comportait de nombreuses étapes qui pouvaient s'arrêter à n'importe quel intermédiaire et utilisaient aussi bien des enzymes que des facteurs abiotiques comme principaux acteurs de ces dégradations (Pelmont, J., 1995. Enzymes. Catalyseurs du monde vivant. EDP Sciences, Les Ulis). Une telle dégradation peut être structurée comme proposé par (Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., and Nava-Saucedo, J.-E. (2008). Polymer biodegradation: Mechanisms and estimation techniques ? A review. Chemosphere 73, 429?442.)
 
-\subsubsection{Biodétérioration}
+\subsection{Biodétérioration}
 
 L'étape de biodétérioration débute par la croissance des microorganismes à la surface ou à l'intérieur du matériau  (Hueck, 2001; Walsh, 2001). Le matériau se recouvre progressivement d'un biofilm constitué d'un consortia structuré de microorganismes divers (Wallström et al., 2005). Ces derniers vont modifier progressivement les propriétés  mécaniques et physico-chimiques du substrat par des actions séquentielles d'ordre physique et chimico-enzymatique (Gu, 2003).
-\\
-\emph{Facteurs physiques et chimiques de dégradation}
-\\ \\
+
+\subsubsection{Facteurs physiques et chimiques de dégradation}
+
 La sécrétion d'une glue formée d'une matrice polymérique par laquelle les microorganismes adhèrent à la surface du matériau entraine progressivement par infiltration la modification, l'élargissement et l'affaiblissement des pores. Certains organismes développent également des filaments qui pénètrent la surface et provoquent des fissures. Tous ces phénomènes entrainent la fragilisation du matériau (Bonhomme et al., 2003). Ces polymères sécretés agissent également comme surfactants, facilitant les échanges entre phases aqueuses et hydrophobes ce qui permet une pénétration plus rapide des microorganismes {\citep{Wang2011}}.
 \\
 Par la suite, l'utilisation de molécules organiques (PLA, PBS, etc.) ou inorganiques (ammonium, nitrites, composés soufrés, etc.) comme accepteur d'électrons ou source d'énergie par les microorganismes entraine leurs dégradations successives et coopératives en sous-produits actifs, le plus souvent acides. (Regnault, J.-P., 1990. Microbiologie Générale. Décarie Editeur Inc., Montreal.) (Göpferich, A., 1996. Mechanism of polymer degradation and erosion. Biomaterials 17, 103?114.). Ces acides peuvent soit réagir de manière directe avec la surface du matériau soit former des complexes stables avec des ions de la matrice. La stabilisation par cations d'acides organiques et considérée comme la première cause de biodégradation (Warscheid, T., Braams, J., 2000. Biodeterioration of stone: a review. Int. Biodeter. Biodegr. 46, 343?368.)
 \\
 La détérioration de certains polymères fait également intervenir des enzymes extracellulaires qui affaiblissent certains liens au sein de la molécule. Ces dernières sont extrêmement variées suivant leur substrat, leur optimum d'activité ou leur spécificité. {\citep{Banerjee2014}}
 
-\subsubsection{Biofragmentation}
+\subsection{Biofragmentation}
 
 Afin d'assimiler de larges molécules, une fragmentation est nécessaire. Les acteurs de cette décomposition sont principalement des enzymes et chacune d'elle possède un mode de clivage bien particulier. Dans la décomposition des polymères, on distinguera deux modes principaux d'action enzymatique : les enzymes hydrolytiques (dégradation de la cellulose, de l'amidon, etc.) et les enzymes d'oxydation (dégradation de la lignine, etc.).
 Les enzymes hydrolytiques (hydrolysases) agissent de manière ciblée et spécifique sur des liens particuliers comme les estérases (liens esters) ou les peptidases (lien peptidique). Les enzymes d'oxydation (oxydo-réductases, peroxydases, oxydases) catalysent des réactions d'oxydation facilitant la dégradation de molécules. %faut trouver une source).  
-Avec des polymères complexes où l'action enzymatique spécifique est parfois compliquée (zones hydrophobes, cristallines ou avec des encombrements stériques empêchant la fixation de l'enzyme sur son substrat) les organismes ont recours préférentiellement à des enzymes d'oxydation comme observé dans la dégradation de la lignine. (Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., and Nava-Saucedo, J.-E. (2008). Polymer biodegradation: Mechanisms and estimation techniques ? A review. Chemosphere 73, 429?442.)
 
-Ces dernières étant peu spécifiques, des études ont démontré une similarité entre la dégradation d'un biopolymère récalcitrant et celle d'un polymère synthétique tel que le PE {\citep{Pometto1992,Iiyoshi1998}}. 
-\\ \\
-\emph{La lignine et son mécanisme de biodégradation}
-\\ \\ 
+\subsubsection{Dépolymérisation aspécifique - biodégradation de la lignine}
+
 La lignine diffère sensiblement entre les espèces végétales mais sa base structurelle est un polymère de composés organiques (monomères de monolignols) {\citep{Whetten1995}}.
+Avec un polymère aussi complexe où l'action enzymatique spécifique est parfois compliquée (zones hydrophobes, cristallines ou avec des encombrements stériques empêchant la fixation de l'enzyme sur son substrat) les organismes ont recours préférentiellement à des enzymes d'oxydation. (Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., and Nava-Saucedo, J.-E. (2008). Polymer biodegradation: Mechanisms and estimation techniques ? A review. Chemosphere 73, 429?442.)
+Ces dernières étant peu spécifiques, des études ont démontré que la biodégradation d'un biopolymère récalcitrant tel que la lignine et celle d'un polymère synthétique tel que le PE employaient les mêmes enzymes {\citep{Pometto1992,Iiyoshi1998}}. 
 
-\begin{center}
 \begin{figure}[H]
-\includegraphics[width= \textwidth]{Lignol.png}
+\centering
+\includegraphics[width= 0.7\textwidth]{Lignol.png}
 \caption {Exemple de monolignols et des résidus de lignine conséquents. {\citep{Whetten1995}}} 
 \end{figure}
-\end{center}
+
 
 Le mécanisme global de dégradation de la lignine suit deux voies différentes. La première est non-enzymatique (abiotique et chimique principalement; non représentée dans la figure ~\ref{fig:diagschematique}) et la deuxième est enzymatique, faisant intervenir, entre autres, des enzymes précédemment mentionnées {\citep{Dashtban2010}}.
 
-\begin{center}
+
 \begin{figure}[H]
-\includegraphics[width= \textwidth]{Lign.png}
-\caption {Diagramme schématique de la dégradation de la lignine par un basidiomycète (fungi à pourriture blanche) : les étapes principales et les enzymes concernées. Seule la partie enzymatique a été conservée {\citep{Dashtban2010}}}
+\centering
+\includegraphics[width= 0.5\textwidth]{Lign.png}
+\caption {Diagramme schématique de la biodégradation de la lignine par un basidiomycète (fungi à pourriture blanche) : les étapes principales et les enzymes concernées. {\citep{Dashtban2010}}}
 \label{fig:diagschematique}
 \end{figure}
-\end{center}
 
-Ce complexe enzymatique extracellulaire secreté lors de la dégradation de la lignine est communément appelé le système ligninolytique {\citep{Crawford1980}}. Parmi ces enzymes, le mode d'action priviliégié demeure l'utilisation de péroxidases (enzymes d'oxydation) qui aboutit à la formation de peroxyde d'hydrogène, un puissant oxydant. On retrouve aussi bien chez les bactéries que les fungi, l'emploi récurrent de lignine peroxidase (LiP), manganese peroxidase (MnP) (appelées les hèmes péroxidases) ainsi que des phénols-oxydases, au méchanisme d'action sensiblement différent, tels que les laccases utilisant le cuivre comme cofacteur {\citep{Martinez2005}}.
+
+Ce complexe enzymatique extracellulaire secreté lors de la dégradation de la lignine est communément appelé le système ligninolytique {\citep{Crawford1980}}. Parmi ces enzymes, le mode d'action priviliégié demeure l'utilisation de péroxidases (enzymes d'oxydation) qui aboutit à la formation de peroxyde d'hydrogène, un puissant oxydant. On retrouve aussi bien chez les bactéries que les fungi, l'emploi récurrent de lignine peroxidase (LiP), manganese peroxidase (MnP) (appelées les hèmes péroxidases) ainsi que des phénols-oxydases, au méchanisme d'action sensiblement différent, tels que les laccases utilisant le cuivre comme cofacteur {\citep{Martinez2005}}. 
 \\ \\
 \emph{Phenol oxidases (laccases)}
 \\ \\
-Ces oxydo-réductases glycosylées utilisent de l'oxygène moléculaire pour oxyder des composés (non-)aromatiques tels que des phenols, des thiols, des arylamines, etc. La réduction de l'oxygène à travers cette réaction produit deux molécules d'eau. Les produits de cette oxydo-réduction sont des radicaux libres qui peuvent servir de substrats intermédiaires à d'autres enzymes {\citep{Baldrian2006,Claus2004,Ferraroni2007,Thurston1994}}.
+Ces oxydo-réductases glycosylées utilisent de l'oxygène moléculaire pour oxyder des composés (non-)aromatiques tels que des phenols, des thiols, des arylamines, etc. La réduction de l'oxygène à travers cette réaction produit deux molécules d'eau. Les produits de cette oxydo-réduction sont des radicaux libres qui peuvent servir de substrats intermédiaires (médiateurs) à d'autres enzymes {\citep{Baldrian2006,Claus2004,Ferraroni2007,Thurston1994}}.
 \\ \\
 \emph{Hème peroxidases}
 \\ \\
-Cette famille d'enzymes comprend les LiP et les MnP précédemment décrites.
+Cette famille d'enzymes comprend les LiP et les MnP précédemment décrites. 
 \begin{itemize}
-\item LiP : glycoprotéines qui catalysent l'oxydation d'une série de composés non-phénoliques par l'intermédiaire de péroxyde d'hydrogène. Le substrat est dépolymérisé (les liens C-C et éther sont clivés) et forme des radicaux intermédiaires réactifs. Ces derniers subissent des réactions non-enzymatiques de dégradation et d'arrangement pour aboutir à la formation de nouveaux composés. Contrairement aux autres peroxidases de la même famille, les LiP sont capables également de dégrader certains composés sans intermédiaires grâce à un potentiel redox particulièrement élevé {\citep{Wong2009}}.
+\item LiP : glycoprotéines qui catalysent l'oxydation d'une série de composés non-phénoliques par l'intermédiaire de péroxyde d'hydrogène. Le substrat est dépolymérisé (les liens C-C et éther sont clivés) et forme des radicaux intermédiaires réactifs. Ces derniers subissent des réactions non-enzymatiques de dégradation et d'arrangement pour aboutir à la formation de nouveaux composés. La formation de nouvelles fonctions (groupes hydroxyle, carbonyle ou carboxyle) augmente le caractère polaire du polymère ce qui favorise les attaques microbiennes (Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., and Nava-Saucedo, J.-E. (2008). Polymer biodegradation: Mechanisms and estimation techniques ? A review. Chemosphere 73, 429?442.). Contrairement aux autres peroxidases de la même famille, les LiP sont capables également de dégrader certains composés sans intermédiaires grâce à un potentiel redox particulièrement élevé {\citep{Wong2009}}.
 \item MnP :  glycoprotéines qui catalysent la réduction du substrat et l'oxydation de Mn(II) en Mn(III) qui agit par la suite comme médiateur rédox lorsqu'il est chélaté. Ce dernier peut alors oxyder des substrats phénoliques. Pour l'oxydation de substrats non-phénoliques par Mn(III), un second médiateur doit être formé en radical réactif {\citep{Wong2009,Dashtban2010}}. %Ici j'ai mis dashtban par flemme, on devrait mettre les trois articles au lieu de la review%
 \end{itemize}
 
-\subsection{Polyéthylène}
+\subsubsection{Dépolymérisation spécifique - biodégradation d'un polyester}
+
+De manière sensiblement identique à l'excrétion des enzymes lignolytiques, certains microorganismes sécrètent également des enzymes extracellulaires, dites enzymes hydrolytiques ou hydrolases. Cette famille enzymatique comporte de nombreux sous-types en fonction du lien spécifique qu'elles clivent comme mentionné ci-dessus. De telles enzymes agissent de manière spécifique sur des polymères peu encombrés comme le PHB (polyhydroxybutarate) ou le PEA (polyéthylène adipate) {\citep{Scherer1999}}. Ces enzymes possèdent de manière générale une triade catalytique (3 résidus d'acides aminés : asparate, histidine et sérine). La déprotonation du résidu de sérine génère un groupement alcoolate (\ce{RO^{}-}, nucléophile très réactif) qui attaque le lien ester dans le cas des esterases {\citep{Dodson1998}}.
+La dépolymérisation produit des composés organiques (un alcool et un acide carboxylique par lien ester d'un polyester), aboutissant parfois aux monomères qui constituaient précédemment le polymère de base.
+\begin{figure}[H]
+\centering
+\includegraphics[width= 0.5\textwidth]{polye.png}
+\caption {Schéma de dégradation d'un polyester par l'action de la triade catalytique d'une hydrolase (esterase) (Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., and Nava-Saucedo, J.-E. (2008). Polymer biodegradation: Mechanisms and estimation techniques ? A review. Chemosphere 73, 429?442.)}
+\label{fig:polye}
+\end{figure}
+Ces derniers ne sont pas toujours assimilables par ces microorganismes dépolymérisateurs mais bien par d'autres organismes. Ces mécanismes de dégradation coopérative démontrent bien que la minéralisation d'un polymère résulte, tout comme pour la lignine, d'une synergie microbienne {\citep{Witt2001}}. 
+
+\section{Polyéthylène}
 
 Avec une production mondiale globale avoisinant les 80 millions de tonnes annuelles, le polyéthylène est considéré comme le plastique le plus répandu dans le monde {\citep{Piringer2008}}. Dégrader ce composé aussi répandu que stable devient un véritable challenge qui explique une littérature scientifique particulièrement fournie à ce sujet. On retrouve parmi les voies de dégradation du polymère, les voies de photodegradation, de thermo-oxidation et de biodégradation {\citep{Shah2008}. Cette dernière voie, inconnue il y a quelques années, a rencontré un essort considérable dans la littérature scientifique. L'efficacité de dégradation microbienne reste limitée mais présente les avantages d'être peu chère et surtout écologique {\citep{Shah2008}.
-Le mécanisme moléculaire précis agissant sur le polyéthylène demeure inconnu à ce jour, mais on peut supposer une dégradation polymérique globale semblable à celle étudiée sur la lignine (développée ci-dessus). Chaque enzyme intervient à un moment précis de la dégradation de manière aspécifique et produit des radicaux qui facilitent la dégradation ou servent de substrats à d'autres enzymes/ organismes. Ces biodégradations coopératives contribuent au morcellement des polymères {\citep{Dashtban2010}}. 
+Le mécanisme moléculaire précis agissant sur le polyéthylène demeure inconnu à ce jour, mais on peut supposer une dégradation polymérique globale semblable à celle étudiée sur la lignine (développée ci-dessus). Chaque enzyme intervient à un moment précis de la dégradation de manière aspécifique et produit des radicaux qui facilitent la dégradation ou servent de substrats à d'autres enzymes/ organismes. Ces biodégradations coopératives contribuent au morcellement du polymère {\citep{Dashtban2010}}. 
 
-\subsubsection{Produits de dégradation}
+\subsection{Produits de dégradation}
 
-Les composés formés dépendent fortement du milieu de dégradation. De nombreux composés organiques ont été observés {\citep{Kyaw2012}} mais ne représente pas les composés les plus fréquents. Ces derniers, retrouvés par la majorité des organismes étudiés, sont repris dans le tableau ~\ref{tab:prodprincipaux}. 
+Les composés formés dépendent fortement du milieu de dégradation. De nombreux composés organiques ont été observés {\citep{Kyaw2012}} mais constituent principalement des intermédiaires de réaction. Les produits finaux, retrouvés par la majorité des organismes étudiés, sont repris dans le tableau ~\ref{tab:prodprincipaux}. 
 
 \begin {table} [H]
 	\begin{center}
@@ -234,15 +248,15 @@ Les composés formés dépendent fortement du milieu de dégradation. De nombreux co
 	\end{center}
 \end {table}
 
-\subsubsection{Efficacité de dégradation}
+\subsection{Efficacité de dégradation}
 
 L'inventaire des composés issus de microdestructions du polyéthylène est établi à l'aide de spectres FT-IR. Cette technique permet de réaliser une collection de spectres de la surface de l'échantillon permettant ainsi d'en étudier la composition {\citep{Prati2010}}. De nombreux paramètres sont ensuite utilisés afin de déceler les éventuelles pertes massiques ou changement de propriétés physique de l'échantillon (perte de masse, pourcentage d'élongation ou des changements dans la force de tension). Les produits de dégradation sont également analysés par chromatographie à travers la littérature.
 \\
 Les études comparatives entre les organismes, les milieux (in vivo ou in vitro) et les traitements préalables du plastique (pré-dégradation par oxydation, irradiation calorifique ou UV) ont rapporté de manière générale des rendements très variables, souvent faibles voir même négatifs (production de polyéthylène enregistré dans certains cas). 
 \\
-De manière générale, les PE préalablement traités ou polymérisés partiellement à partir d'amidon (Natural PE) ont rencontré des taux de dégradation significativement plus élevés que leurs équivalents purement synthétiques (Synthetic PE). Un taux de dégradation maximum du polyéthylène (perte massique) de 47,3\%   a été mesuré en conditions in vitro. Ce taux assez élevé a été réalisé par Aspergillus oryzae (un champignon microscopique) suite à une incubation de seulement 3 mois. Le polyéthylène concerné était du LDPE de masse moyenne de 180 kDa préalablement oxydé par irradiation UV et traité avec du stearate de manganese {\citep{Konduri2011}}. Récapitulatif présenté dans le tableau ~\ref{tab:degrad}.
+De manière générale, les PE préalablement traités ou polymérisés partiellement à partir d'amidon (Natural PE) ont rencontré des taux de dégradation significativement plus élevés que leurs équivalents purement synthétiques (Synthetic PE). Un taux de dégradation maximum du polyéthylène (perte massique) de 47,3\%   a été mesuré en conditions in vitro. Ce taux assez élevé a été réalisé par Aspergillus oryzae (un champignon microscopique) suite à une incubation de seulement 3 mois. Le polyéthylène concerné était du LDPE de masse moyenne de 180 kDa préalablement oxydé par irradiation UV et traité avec du stearate de manganese {\citep{Konduri2011}}. 
 \\
-Les études in vitro à partir de PE (synthétique) non traité ont donné des rendements en pertes massiques nettement plus contrastés, dépendant fortement des conditions d'incubation (temps d'incubation, pH, température, agitation, etc.) et de l'organisme concerné. Des taux variant entre 8 et 50\% de pertes massiques ont été enregistrés à travers la littérature {\citep{Sangale2012}}.
+Les études in vitro à partir de PE (synthétique) non traité ont donné des rendements en pertes massiques nettement plus contrastés, dépendant fortement des conditions d'incubation (temps d'incubation, pH, température, agitation, etc.) et de l'organisme concerné. Des taux variant entre 8 et 50\% de pertes massiques ont été enregistrés à travers la littérature {\citep{Sangale2012}}. Voir récapitulatif présenté dans le tableau ~\ref{tab:degrad}.
 \afterpage{%
 \thispagestyle{empty}
 \begin{table} [H]
@@ -271,10 +285,24 @@ Les études in vitro à partir de PE (synthétique) non traité ont donné des rendem
 }
 Les études in vivo ont, quant à elle, rencontré des rendements très faibles ce compris sur des temps très longs d'exposition {\citep{Otake1995}}. 
 
-\subsection{Polyester-PUR}
+\section{PET}
 
+Le PET est un polymère d'éthylène téréphtalate faisant partie de la grande famille des polyester. Son haut taux de composés aromatiques en fait un composé chimiquement inerte et par conséquent difficilement biodégradable {\citep{Muller2001,Kint1999}}. 
+Avec 56 millions de tonnes produites par an à travers le monde, de nombreuses études ont tenté de trouver des microorganismes capables de décomposer ce plastique sans vraiment de net succès. Seuls des fungi filamenteux ont démontré une aptitude à croître sur un milieu composé de fibres de PET et à dépolymériser efficacement ce composé à l'aide d'hydrolases {\citep{Nimchua2007,Nimchua2008}}. 
+D'autres études avaient précédemment montré l'aptitudes de certaines bactéries à modifier de manière limitée le PET à l'aide d'hydrolases, de cutinases, de lipases ou d'esterases {\citep{Sharon2012}}, (Production of heterologous cutinases by E. coli and improved enzyme formulation for application on plastic degradation Daniela S. Gomes*1 · Teresa Matamá2 · Artur Cavaco-Paulo2 · Galba M. Campos-Takaki1 · Alexandra A. Salgueiro1){\citep{Sulaiman2012,Roth2014}}
+\\ 
+Récemment, une étude a découvert une souche de bactérie, Ideonella sakaiensis 201-F6, capable d'utiliser le PET comme source de carbone et d'énergie. C'est grâce à deux enzymes hydrolitiques coopératives (PETase et MHETase) que cette souche décompose efficacement le PET et son intermédiaire de réaction, l'acide mono(2-hydroxyethyl) terephthalique (MHET). Des études métagénomique de comparaison et des analyses des transcriptomes ont mis en évidence d'une part, une lipase particulièrement efficace contre le PET (PETase) et d'autres part, une esterase agissant exclusivement sur l'intermédiaire MHET (MHETase) comportant des similarités structurelles avec la famille des tannases, connues pour cliver les liens de type ester de composés aromatiques {\citep{Suzuki2014}}.
 
+\begin{figure}[H]
+\centering
+\includegraphics[width= 0.5\textwidth]{PET.png}
+\caption {Schéma de dégradation du PET par l'action coopérative de deux hydrolases (PETase et MHETase) 	{\citep{Yoshida2016}}}
+\label{fig:pet}
+\end{figure}
 
+\subsection{Efficacité de dégradation}
+
+Cultivée 40 jours à 30° en présence d'un film de PET comme unique source de carbone, Ideonella sakaiensis 201-F6 a réduit de presque 100\% la masse du film plastique. Le polymère a été réduit sous sa forme monomérique, à savoir de l'acide téréphtalique et de l'éthylène glycol {\citep{Yoshida2016}. Comparativement, les études précédentes étaient arrivées à 8\% de perte massique après 200 jours d'incubation {\citep{Sharon2012}}. 
 
 \bibliography{Bibliography/Plastics}
 

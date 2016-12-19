@@ -1,49 +1,38 @@
 \select@language {french}
-\contentsline {section}{Liste des abr\'eviations et acronymes}{2}{section*.2}
-\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
-\contentsline {section}{\numberline {2}Description du plastique}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Caract\'eristiques chimiques}{4}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Caract\'eristiques physiques}{5}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Propri\'et\'es thermiques}{5}{subsubsection.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2}Propri\'et\'es m\'ecaniques}{6}{subsubsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.3}Autres propri\'et\'es}{6}{subsubsection.2.2.3}
-\contentsline {section}{\numberline {3}Utilisation, production, sources de pollution et types d'environnements contamin\'es}{6}{section.3}
-\contentsline {subsection}{\numberline {3.1}Utilisation}{6}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Production du plastique}{8}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Sources de pollution et types d'environnements contamin\'es}{9}{subsection.3.3}
-\contentsline {subsubsection}{\numberline {3.3.1}Dans les oc\'eans}{9}{subsubsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.2}Dans l'eau douce}{10}{subsubsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3}Dans les sols}{10}{subsubsection.3.3.3}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{11}{section.4}
-\contentsline {section}{\numberline {5}Aspects l\'egislatifs}{11}{section.5}
-\contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{11}{section.6}
-\contentsline {subsection}{\numberline {6.1}M\'ecanismes et difficult\'es li\'es \`a la d\'egradation du plastique}{11}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Biod\'egradation des biopolym\`eres}{11}{subsection.6.2}
-\contentsline {subsubsection}{\numberline {6.2.1}Introduction}{11}{subsubsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.2}Biod\'et\'erioration}{11}{subsubsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.3}Biofragmentation}{12}{subsubsection.6.2.3}
-\contentsline {subsection}{\numberline {6.3}Poly\'ethyl\`ene}{15}{subsection.6.3}
-\contentsline {subsubsection}{\numberline {6.3.1}Produits de d\'egradation}{16}{subsubsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.2}Efficacit\'e de d\'egradation}{16}{subsubsection.6.3.2}
-\contentsline {subsection}{\numberline {6.4}Polyester-PUR}{17}{subsection.6.4}
-=======
-\contentsline {section}{\numberline {4}Dangers potentiels pour l'environnement}{10}{section.4}
-\contentsline {subsection}{\numberline {4.1}Impact sur le littoral et les oc\'eans}{10}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Enchev\^etrement}{11}{subsection.4.2}
-\contentsline {subsection}{\numberline {4.3}Ingestion}{11}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Ingestion de polluants organiques persistants (POP)}{11}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Les additifs}{12}{subsection.4.5}
-\contentsline {subsection}{\numberline {4.6}Invasion potentielle d'esp\`eces \'etrang\`eres}{12}{subsection.4.6}
-\contentsline {section}{\numberline {5}Aspects l\'egislatifs}{13}{section.5}
-\contentsline {section}{\numberline {6}Bior\'em\'ediation des milieux contamin\'es}{13}{section.6}
-\contentsline {subsection}{\numberline {6.1}M\'ecanismes et difficult\'es li\'es \`a la d\'egradation du plastique}{13}{subsection.6.1}
-\contentsline {subsection}{\numberline {6.2}Biod\'egradation des biopolym\`eres}{13}{subsection.6.2}
-\contentsline {subsubsection}{\numberline {6.2.1}Introduction}{13}{subsubsection.6.2.1}
-\contentsline {subsubsection}{\numberline {6.2.2}Biod\'et\'erioration}{13}{subsubsection.6.2.2}
-\contentsline {subsubsection}{\numberline {6.2.3}Biofragmentation}{14}{subsubsection.6.2.3}
-\contentsline {subsection}{\numberline {6.3}Poly\'ethyl\`ene}{17}{subsection.6.3}
-\contentsline {subsubsection}{\numberline {6.3.1}Produits de d\'egradation}{17}{subsubsection.6.3.1}
-\contentsline {subsubsection}{\numberline {6.3.2}Efficacit\'e de d\'egradation}{18}{subsubsection.6.3.2}
-\contentsline {subsection}{\numberline {6.4}Polyester-PUR}{18}{subsection.6.4}
->>>>>>> 07ad6f80b72397fbac5c6e4cd39c841034fbaa16
+\contentsline {section}{Liste des abr\'eviations et acronymes}{3}{section*.2}
+\contentsline {part}{I\hspace {1em}Introduction}{4}{part.1}
+\contentsline {part}{II\hspace {1em}Description du plastique}{4}{part.2}
+\contentsline {section}{\numberline {1}Caract\'eristiques chimiques}{5}{section.1}
+\contentsline {section}{\numberline {2}Caract\'eristiques physiques}{6}{section.2}
+\contentsline {subsection}{\numberline {2.1}Propri\'et\'es thermiques}{6}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Propri\'et\'es m\'ecaniques}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Autres propri\'et\'es}{7}{subsection.2.3}
+\contentsline {part}{III\hspace {1em}Utilisation, production, sources de pollution et types d'environnements contamin\'es}{7}{part.3}
+\contentsline {section}{\numberline {1}Utilisation}{7}{section.1}
+\contentsline {section}{\numberline {2}Production du plastique}{9}{section.2}
+\contentsline {section}{\numberline {3}Sources de pollution et types d'environnements contamin\'es}{10}{section.3}
+\contentsline {subsection}{\numberline {3.1}Dans les oc\'eans}{10}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Dans l'eau douce}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Dans les sols}{11}{subsection.3.3}
+\contentsline {part}{IV\hspace {1em}Dangers potentiels pour l'environnement}{11}{part.4}
+\contentsline {section}{\numberline {1}Impact sur le littoral et les oc\'eans}{11}{section.1}
+\contentsline {section}{\numberline {2}Enchev\^etrement}{12}{section.2}
+\contentsline {section}{\numberline {3}Ingestion}{12}{section.3}
+\contentsline {section}{\numberline {4}Ingestion de polluants organiques persistants (POP)}{12}{section.4}
+\contentsline {section}{\numberline {5}Les additifs}{13}{section.5}
+\contentsline {section}{\numberline {6}Invasion potentielle d'esp\`eces \'etrang\`eres}{14}{section.6}
+\contentsline {part}{V\hspace {1em}Aspects l\'egislatifs}{14}{part.5}
+\contentsline {part}{VI\hspace {1em}Bior\'em\'ediation des milieux contamin\'es}{14}{part.6}
+\contentsline {section}{\numberline {1}M\'ecanismes et difficult\'es li\'es \`a la d\'egradation du plastique}{14}{section.1}
+\contentsline {section}{\numberline {2}Biod\'egradation des biopolym\`eres}{14}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{14}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Biod\'et\'erioration}{14}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Facteurs physiques et chimiques de d\'egradation}{15}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {2.3}Biofragmentation}{15}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}D\'epolym\'erisation asp\'ecifique - biod\'egradation de la lignine}{15}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}D\'epolym\'erisation sp\'ecifique - biod\'egradation d'un polyester}{17}{subsubsection.2.3.2}
+\contentsline {section}{\numberline {3}Poly\'ethyl\`ene}{18}{section.3}
+\contentsline {subsection}{\numberline {3.1}Produits de d\'egradation}{19}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Efficacit\'e de d\'egradation}{19}{subsection.3.2}
+\contentsline {section}{\numberline {4}PET}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation}{21}{subsection.4.1}

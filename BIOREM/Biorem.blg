@@ -1,82 +1,79 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
-I was expecting an "="---line 637 of file Bibliography/Plastics.bib
- : <<<<<<< 
- :         HEAD
-I'm skipping whatever remains of this entry
-Repeated entry---line 665 of file Bibliography/Plastics.bib
+Repeated entry---line 904 of file Bibliography/Plastics.bib
  : @incollection{lambert2014occurrence
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 726 of file Bibliography/Plastics.bib
+Repeated entry---line 954 of file Bibliography/Plastics.bib
  : @misc{Plasticseurope2
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 732 of file Bibliography/Plastics.bib
+Repeated entry---line 960 of file Bibliography/Plastics.bib
  : @misc{SCF
  :          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 738 of file Bibliography/Plastics.bib
+Repeated entry---line 966 of file Bibliography/Plastics.bib
  : @misc{Europetrole
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 801 of file Bibliography/Plastics.bib
- : @incollection{lambert2014occurrence
- :                                    ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Wang2011"
-Warning--I didn't find a database entry for "Banerjee2014"
-Warning--empty journal in allsopp2006plastic
+Warning--I didn't find a database entry for "henry2010pollution"
+Warning--I didn't find a database entry for "derraik2002pollution"
+Warning--I didn't find a database entry for "garric20127e"
+Warning--I didn't find a database entry for "corcoran2014anthropogenic"
+Warning--I didn't find a database entry for "sigler2014effects"
+Warning--I didn't find a database entry for "allsopp2006plastic"
+Warning--I didn't find a database entry for "galgani2016macro"
+Warning--I didn't find a database entry for "dussudr63"
+Warning--I didn't find a database entry for "cravedi2007concept"
+Warning--I didn't find a database entry for "el2012bisphenol"
+Warning--I didn't find a database entry for "Greenpeace"
+Warning--I didn't find a database entry for "monsaingeon2016plastiques"
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
-Warning--empty journal in dussudr63
-Warning--there's a number but no volume in galgani2016macro
-Warning--empty journal in henry2010pollution
 Warning--can't use both volume and number fields in Martinez2005
-Warning--there's a number but no volume in monsaingeon2016plastiques
 Warning--empty publisher in Piringer2008
-You've used 56 entries,
+You've used 58 entries,
             1935 wiz_defined-function locations,
-            815 strings with 13927 characters,
-and the built_in function-call counts, 20045 in all, are:
-= -- 1969
-> -- 841
-< -- 40
-+ -- 289
-- -- 280
-* -- 1672
-:= -- 3622
-add.period$ -- 159
-call.type$ -- 56
-change.case$ -- 417
-chr.to.int$ -- 55
-cite$ -- 65
-duplicate$ -- 743
-empty$ -- 1321
-format.name$ -- 352
-if$ -- 3798
+            860 strings with 15736 characters,
+and the built_in function-call counts, 22721 in all, are:
+= -- 2215
+> -- 1089
+< -- 35
++ -- 377
+- -- 374
+* -- 2000
+:= -- 4074
+add.period$ -- 166
+call.type$ -- 58
+change.case$ -- 474
+chr.to.int$ -- 57
+cite$ -- 62
+duplicate$ -- 772
+empty$ -- 1436
+format.name$ -- 452
+if$ -- 4293
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 42
-newline$ -- 273
-num.names$ -- 168
-pop$ -- 329
+missing$ -- 43
+newline$ -- 284
+num.names$ -- 174
+pop$ -- 373
 preamble$ -- 1
-purify$ -- 420
+purify$ -- 477
 quote$ -- 0
-skip$ -- 588
+skip$ -- 604
 stack$ -- 0
-substring$ -- 1281
-swap$ -- 63
+substring$ -- 1509
+swap$ -- 67
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 332
-warning$ -- 9
-while$ -- 166
+type$ -- 344
+warning$ -- 4
+while$ -- 182
 width$ -- 0
-write$ -- 687
-(There were 6 error messages)
+write$ -- 718
+(There were 4 error messages)

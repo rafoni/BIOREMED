@@ -23,49 +23,56 @@ Repeated entry---line 738 of file Bibliography/Plastics.bib
  : @misc{Europetrole
  :                  ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 801 of file Bibliography/Plastics.bib
+ : @incollection{lambert2014occurrence
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in allsopp2006plastic
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
+Warning--there's a number but no volume in galgani2016macro
+Warning--empty journal in henry2010pollution
 Warning--can't use both volume and number fields in Martinez2005
 Warning--empty publisher in Piringer2008
-You've used 44 entries,
+You've used 50 entries,
             1935 wiz_defined-function locations,
-            750 strings with 11869 characters,
-and the built_in function-call counts, 15918 in all, are:
-= -- 1568
-> -- 682
-< -- 32
-+ -- 231
-- -- 228
-* -- 1326
-:= -- 2874
-add.period$ -- 126
-call.type$ -- 44
-change.case$ -- 331
-chr.to.int$ -- 43
-cite$ -- 48
-duplicate$ -- 584
-empty$ -- 1038
-format.name$ -- 286
-if$ -- 3024
+            781 strings with 12822 characters,
+and the built_in function-call counts, 17903 in all, are:
+= -- 1762
+> -- 746
+< -- 37
++ -- 255
+- -- 248
+* -- 1488
+:= -- 3231
+add.period$ -- 142
+call.type$ -- 50
+change.case$ -- 371
+chr.to.int$ -- 49
+cite$ -- 57
+duplicate$ -- 665
+empty$ -- 1182
+format.name$ -- 314
+if$ -- 3399
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 31
-newline$ -- 216
-num.names$ -- 132
-pop$ -- 259
+missing$ -- 37
+newline$ -- 244
+num.names$ -- 150
+pop$ -- 291
 preamble$ -- 1
-purify$ -- 334
+purify$ -- 374
 quote$ -- 0
-skip$ -- 465
+skip$ -- 529
 stack$ -- 0
-substring$ -- 1017
-swap$ -- 55
+substring$ -- 1150
+swap$ -- 59
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 260
-warning$ -- 4
-while$ -- 130
+type$ -- 296
+warning$ -- 7
+while$ -- 148
 width$ -- 0
-write$ -- 542
-(There were 5 error messages)
+write$ -- 614
+(There were 6 error messages)

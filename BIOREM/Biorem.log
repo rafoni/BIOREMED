@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  20 DEC 2016 15:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  20 DEC 2016 16:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1133,7 +1133,7 @@ l.10 \section{Enchev\^etrement}
                    \relax 
 l.14 \section{Ingestion}
                          [10]
-<Pictures/Effets.png, id=404, 360.8682pt x 250.0542pt>
+<Pictures/Effets.png, id=406, 360.8682pt x 250.0542pt>
 File: Pictures/Effets.png Graphic file (type png)
 
 <use Pictures/Effets.png>
@@ -1152,7 +1152,7 @@ n already used, duplicate ignored
                    \relax 
 l.158 \section{Biodégradation des biopolymères}
                                                 [13] [14]
-<Pictures/Lignol.png, id=532, 592.2125pt x 338.26375pt>
+<Pictures/Lignol.png, id=536, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
@@ -1164,7 +1164,7 @@ Overfull \hbox (3.5484pt too wide) in paragraph at lines 193--194
 uit deux voies diff^^Serentes. La premi^^Rere est non-enzymatique
  []
 
-<Pictures/Lign.png, id=538, 508.90125pt x 626.34pt>
+<Pictures/Lign.png, id=542, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
 Package pdftex.def Info: Pictures/Lign.png used on input line 198.
@@ -1197,7 +1197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 204--213
  []
 
 [16 <./Pictures/Lign.png>]
-<Pictures/polye.png, id=588, 518.93875pt x 613.29124pt>
+<Pictures/polye.png, id=593, 518.93875pt x 613.29124pt>
 File: Pictures/polye.png Graphic file (type png)
 
 <use Pictures/polye.png>
@@ -1231,7 +1231,7 @@ licate ignored
 <to be read again> 
                    \relax 
 l.292 \section{PET}
-                    <Pictures/PET.png, id=744, 350.30875pt x 395.4775pt>
+                    <Pictures/PET.png, id=749, 350.30875pt x 395.4775pt>
 File: Pictures/PET.png Graphic file (type png)
 
 <use Pictures/PET.png>
@@ -1272,10 +1272,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
 ### simple group (level 1) entered at line 232 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 19720 strings out of 493089
- 338642 string characters out of 6134843
- 471728 words of memory out of 5000000
- 22725 multiletter control sequences out of 15000+600000
+ 19724 strings out of 493089
+ 338751 string characters out of 6134843
+ 471760 words of memory out of 5000000
+ 22728 multiletter control sequences out of 15000+600000
  12400 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,14n,43p,10348b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1291,10 +1291,10 @@ b></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (28 pages, 1240809 bytes).
+Output written on Biorem.pdf (28 pages, 1241757 bytes).
 PDF statistics:
- 907 PDF objects out of 1000 (max. 8388607)
- 784 compressed objects within 8 object streams
- 174 named destinations out of 1000 (max. 500000)
+ 913 PDF objects out of 1000 (max. 8388607)
+ 790 compressed objects within 8 object streams
+ 175 named destinations out of 1000 (max. 500000)
  397 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -88,14 +88,6 @@ Dashtban, M., Schraft, H., Syed, T.~A., and Qin, W. (2010).
 Dodson, G. and Wlodawer, A. (1998).
 \newblock {Catalytic triads and their relatives}.
 
-\bibitem[Dominguez, 2013]{domin2013}
-Dominguez, S. (2013).
-\newblock {\em Relation structure/propri\'et\'es de polym\`eres et m\'elanges
-  thermoplastiques thermostables - Applications A\'eronautiques Hautes
-  Temp\'eratures}.
-\newblock PhD thesis.
-\newblock 2013PAUU3031.
-
 \bibitem[Dommergues and Mangenot, 1970]{dom1970}
 Dommergues, Y. and Mangenot, F. (1970).
 \newblock {\em Ecologie microbienne du sol}.
@@ -112,11 +104,6 @@ El~Cadi, M.~A., Bouslimane, Y., El~Jaoudi, R., Bouklouze, A., and Cherrah, Y.
 \newblock Bisph{\'e}nol a: {\`a} nouveau risque, nouveau d{\'e}fi!
 \newblock {\em M{\'e}decine th{\'e}rapeutique/M{\'e}decine de la reproduction,
   gyn{\'e}cologie et endocrinologie}, 14(2):151--155.
-
-\bibitem[Europ\'etrole, 2016]{Europetrole}
-Europ\'etrole (Consult\'e le 17 novembre 2016).
-\newblock Vapocraquage.
-\newblock \url{http://www.euro-petrole.com/re_05_details_mot.php?idMot=43}.
 
 \bibitem[Ferraroni et~al., 2007]{Ferraroni2007}
 Ferraroni, M., Myasoedova, N.~M., Schmatchenko, V., Leontievsky, A.~A.,
@@ -236,17 +223,15 @@ Mart{\'{i}}nez, {\'{A}}.~T., Speranza, M., Ruiz-Due{\~{n}}as, F.~J., Ferreira,
   enzymatic aspects of the fungal attack of lignin}.
 \newblock In {\em International Microbiology}, volume~8, pages 195--204.
 
-<<<<<<< HEAD
 \bibitem[Meerts et~al., 2013]{meerts2013}
 Meerts, P., George, I., and Danis, B. (2013).
 \newblock Ecologie g{\'e}n{\'e}rale (biol-f306).
 \newblock Cours ex-cathedra, Universit{\'e} Libre de Bruxelles.
-=======
+
 \bibitem[Monsaingeon, 2016]{monsaingeon2016plastiques}
 Monsaingeon, B. (2016).
 \newblock Plastiques: ce continent qui cache nos d{\'e}chets.
 \newblock {\em Mouvements}, (3):48--58.
->>>>>>> 8b0fa9ef883d22d20d80b1bdcc37554b092c5603
 
 \bibitem[M{\"u}ller et~al., 2001]{Muller2001}
 M{\"u}ller, R.~J., Kleeberg, I., and Deckwer, W.~D. (2001).
@@ -278,8 +263,6 @@ Otake, Y., Kobayashi, T., Asabe, H., Murakami, N., and Ono, K. (1995).
   chloride, and urea formaldehyde resin buried under soil for over 32 years}.
 \newblock {\em Journal of Applied Polymer Science}, 56(13):1789--1796.
 
-<<<<<<< HEAD
-=======
 \bibitem[PE, 2004]{PE2}
 PE (11 février 2004).
 \newblock Directive du parlement européen et du conseil modifiant la directive
@@ -312,21 +295,16 @@ PE (29 avril 2015).
 \newblock
   \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX\%3A32015L0720}.
 
-\bibitem[Pelmont, 1995]{pel1995}
-Pelmont, J. (1995).
-\newblock Enzymes. catalyseurs du monde vivant.
-
->>>>>>> 8b0fa9ef883d22d20d80b1bdcc37554b092c5603
 \bibitem[Piringer and Baner, 2008]{Piringer2008}
 Piringer, O.~G. and Baner, A.~L. (2008).
 \newblock {\em {Plastic Packaging: Interactions with Food and Pharmaceuticals,
   Second Edition}}.
 
-\bibitem[Plan\'etoscope, 2016]{Planetoscope}
-Plan\'etoscope (Consult\'e le 09 novembre 2016).
-\newblock Production mondiale de plastique. consogloble.
+\bibitem[Plasticseurope, 2015]{plast2015}
+Plasticseurope (2015).
+\newblock Types of plastic - polystyrene (ps).
 \newblock
-  \url{http://www.planetoscope.com/petrole/989-production-mondiale-de-plastique.html}.
+  http://www.plasticseurope.org/what-is-plastic/types-of-plastics-11148/polystyrene.aspx.
 
 \bibitem[Plasticseurope, 2016a]{Plasticseurope2}
 Plasticseurope (Consult\'e le 09 novembre 2016a).
@@ -369,6 +347,14 @@ PW (08 juillet 2016).
   de l'eau et divers décrets en matière de déchets et de permis d'environnement
   (moniteur belge).
 \newblock \url{http://www.ejustice.just.fgov.be/doc/rech_f.htm}.
+
+\bibitem[Rabetafika et~al., 2006]{rabetafika2006polymeres}
+Rabetafika, H.~N., Paquot, M., and Dubois, P. (2006).
+\newblock Les polym{\`e}res issus du v{\'e}g{\'e}tal: mat{\'e}riaux {\`a}
+  propri{\'e}t{\'e}s sp{\'e}cifiques pour des applications cibl{\'e}es en
+  industrie plastique.
+\newblock {\em Biotechnologie, agronomie, soci{\'e}t{\'e} et environnement},
+  10(3):185--196.
 
 \bibitem[Ramone, 2015]{ramone2015evolutions}
 Ramone, A. (2015).

@@ -1,45 +1,45 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
-Repeated entry---line 1053 of file Bibliography/Plastics.bib
+Repeated entry---line 1151 of file Bibliography/Plastics.bib
  : @incollection{lambert2014occurrence
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1103 of file Bibliography/Plastics.bib
+Repeated entry---line 1201 of file Bibliography/Plastics.bib
  : @misc{Plasticseurope2
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1109 of file Bibliography/Plastics.bib
+Repeated entry---line 1207 of file Bibliography/Plastics.bib
  : @misc{SCF
  :          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1296 of file Bibliography/Plastics.bib
+Repeated entry---line 1375 of file Bibliography/Plastics.bib
  : @article{dussudr63
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1304 of file Bibliography/Plastics.bib
+Repeated entry---line 1380 of file Bibliography/Plastics.bib
  : @article{cravedi2007concept
  :                            ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1312 of file Bibliography/Plastics.bib
+Repeated entry---line 1387 of file Bibliography/Plastics.bib
  : @article{el2012bisphenol
  :                         ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1322 of file Bibliography/Plastics.bib
+Repeated entry---line 1396 of file Bibliography/Plastics.bib
  : @misc{Greenpeace
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1329 of file Bibliography/Plastics.bib
+Repeated entry---line 1402 of file Bibliography/Plastics.bib
  : @article{corcoran2014anthropogenic
  :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1339 of file Bibliography/Plastics.bib
+Repeated entry---line 1411 of file Bibliography/Plastics.bib
  : @article{monsaingeon2016plastiques
  :                                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1373 of file Bibliography/Plastics.bib
+Repeated entry---line 1441 of file Bibliography/Plastics.bib
  : @incollection{lambert2014occurrence
  :                                    ,
 I'm skipping whatever remains of this entry
@@ -50,48 +50,50 @@ Warning--there's a number but no volume in galgani2016macro
 Warning--empty journal in henry2010pollution
 Warning--can't use both volume and number fields in Martinez2005
 Warning--there's a number but no volume in monsaingeon2016plastiques
+Warning--empty year in PE2
 Warning--empty publisher in Piringer2008
+Warning--empty year in PR
 Warning--empty journal in ramone2015evolutions
 Warning--can't use both volume and number fields in Walsh2001
-You've used 91 entries,
+You've used 98 entries,
             1935 wiz_defined-function locations,
-            1013 strings with 21552 characters,
-and the built_in function-call counts, 33833 in all, are:
-= -- 3298
-> -- 1539
-< -- 60
-+ -- 533
-- -- 522
-* -- 2901
-:= -- 6107
-add.period$ -- 258
-call.type$ -- 91
-change.case$ -- 712
-chr.to.int$ -- 90
-cite$ -- 101
-duplicate$ -- 1198
-empty$ -- 2174
-format.name$ -- 639
-if$ -- 6388
-int.to.chr$ -- 2
+            1050 strings with 22239 characters,
+and the built_in function-call counts, 37284 in all, are:
+= -- 3618
+> -- 1750
+< -- 61
++ -- 610
+- -- 598
+* -- 3238
+:= -- 6714
+add.period$ -- 274
+call.type$ -- 98
+change.case$ -- 780
+chr.to.int$ -- 96
+cite$ -- 110
+duplicate$ -- 1295
+empty$ -- 2381
+format.name$ -- 724
+if$ -- 7034
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 69
-newline$ -- 442
-num.names$ -- 273
-pop$ -- 562
+missing$ -- 76
+newline$ -- 472
+num.names$ -- 294
+pop$ -- 641
 preamble$ -- 1
-purify$ -- 716
+purify$ -- 789
 quote$ -- 0
-skip$ -- 943
+skip$ -- 999
 stack$ -- 0
-substring$ -- 2172
-swap$ -- 96
+substring$ -- 2432
+swap$ -- 103
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 538
-warning$ -- 10
-while$ -- 273
+type$ -- 580
+warning$ -- 12
+while$ -- 298
 width$ -- 0
-write$ -- 1117
+write$ -- 1195
 (There were 10 error messages)

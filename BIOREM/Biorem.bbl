@@ -35,6 +35,12 @@ Aswale~P, B.~A. (2010).
 \newblock Studies on bio-degradation of polythene.
 \newblock {\em PhD thesis, Marathwada University, Aurangabad, India}.
 
+\bibitem[Atiq et~al., 2010]{Atiq2010}
+Atiq, N., Ahmed, S., Ali, M.~I., Andleeb, S., Ahmad, B., and Robson, G. (2010).
+\newblock Isolation and identification of polystyrene biodegrading bacteria
+  from soil.
+\newblock {\em African Journal of Microbiology Research}, 4(14):1537:1541.
+
 \bibitem[Balasubramanian et~al., 2010]{Balasubramanian2010}
 Balasubramanian, V., Natarajan, K., Hemambika, B., Ramesh, N., Sumathi, C.~S.,
   Kottaimuthu, R., and {Rajesh Kannan}, V. (2010).
@@ -173,6 +179,12 @@ Henry, M. (2010).
   connaissances. perspectives d'implication de l'ifremer en r{\'e}ponse au
   d{\'e}fi de la directive cadre strat{\'e}gie marine et du grenelle de la mer.
 
+\bibitem[Hern{\'a}ndez et~al., 2014]{claud2014}
+Hern{\'a}ndez, C.~F., Guerrero, A.~C., Vel{\'a}zquez, M.~R., and Romero, G.~R.
+  (2014).
+\newblock Microbial degradation of polystyrene.
+\newblock {\em Conference paper, IUMS 2014 Montreal}.
+
 \bibitem[Hueck, 2001]{hue2001}
 Hueck, H. (2001).
 \newblock The biodeterioration of materials: an apraisal.
@@ -254,10 +266,21 @@ Meerts, P., George, I., and Danis, B. (2013).
 \newblock Ecologie g{\'e}n{\'e}rale (biol-f306).
 \newblock Cours ex-cathedra, Universit{\'e} Libre de Bruxelles.
 
+\bibitem[Mohan et~al., 2016]{Mohan2016}
+Mohan, A.~J., Sekhar, V.~C., Bhaskar, T., and Nampoothiri, K.~M. (2016).
+\newblock {Microbial assisted High Impact Polystyrene (HIPS) degradation}.
+\newblock {\em Bioresource Technology}, 213:204--207.
+
 \bibitem[Monsaingeon, 2016]{monsaingeon2016plastiques}
 Monsaingeon, B. (2016).
 \newblock Plastiques: ce continent qui cache nos d{\'e}chets.
 \newblock {\em Mouvements}, (3):48--58.
+
+\bibitem[Mor and Sivan, 2008]{Mor2008}
+Mor, R. and Sivan, A. (2008).
+\newblock {Biofilm formation and partial biodegradation of polystyrene by the
+  actinomycete Rhodococcus ruber: Biodegradation of polystyrene}.
+\newblock {\em Biodegradation}, 19(6):851--858.
 
 \bibitem[Motta et~al., 2009]{motta2009utilization}
 Motta, O., Proto, A., De~Carlo, F., De~Caro, F., Santoro, E., Brunetti, L., and
@@ -297,35 +320,22 @@ Otake, Y., Kobayashi, T., Asabe, H., Murakami, N., and Ono, K. (1995).
   chloride, and urea formaldehyde resin buried under soil for over 32 years}.
 \newblock {\em Journal of Applied Polymer Science}, 56(13):1789--1796.
 
-\bibitem[PE, 2004]{PE2}
-PE (11 février 2004).
-\newblock Directive du parlement européen et du conseil modifiant la directive
-  94/62/ce relative aux emballages et aux déchets d'emballages - déclaration du
-  conseil, de la commission et du parlement européen. journal officiel nl 047
-  du 18/02/2004 p. 0026 - 0032.
+\bibitem[PE, ]{PE2}
+PE.
 \newblock
   \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex\%3A32004L0012}.
 
 \bibitem[PE, 2011]{PE4}
 PE (14 janvier 2011).
-\newblock Règlement (ue) no 10/2011 de la commission du 14 janvier 2011
-  concernant les matériaux et objets en matière plastique destinés à entrer en
-  contact avec des denrées alimentaires.
 \newblock \url{http://eur-lex.europa.eu/eli/reg/2011/10/oj}.
 
 \bibitem[PE, 2014]{PE3}
 PE (14 janvier 2014).
-\newblock Résolution du parlement européen du 14 janvier 2014 sur une stratégie
-  européenne en matière de déchets plastiques dans l'environnement
-  (2013/2113(ini).
 \newblock
   \url{http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2014-0016+0+DOC+XML+V0//FR}.
 
 \bibitem[PE, 2015]{PE}
 PE (29 avril 2015).
-\newblock Directive du parlement européen et du conseil modifiant la directive
-  94/62/ce en ce qui concerne la réduction de la consommation de sacs en
-  plastique légers.
 \newblock
   \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX\%3A32015L0720}.
 
@@ -357,8 +367,8 @@ Pometto, A.~L., Lee, B., and Johnson, K.~E. (1992).
 \newblock {Production of an extracellular polyethylene-degrading enzyme(s) by
   Streptomyces species}.
 
-\bibitem[PR, 2016]{PR}
-PR (Consulté le 12 décembre 2016).
+\bibitem[PR, ]{PR}
+PR.
 \newblock Reach pour l'industrie des polymers. un guide pratique. 2009.
 \newblock
   \url{http://www.adam-europe.eu/prj/5490/prd/6/1/Polymer\%20REACH\%20handbook_FR.pdf}.
@@ -377,9 +387,6 @@ Priyanka~N, A.~T. (2011).
 
 \bibitem[PW, 2016]{PW}
 PW (08 juillet 2016).
-\newblock Décret du 23 juin 2016 modifiant le code de l'environnement, le code
-  de l'eau et divers décrets en matière de déchets et de permis d'environnement
-  (moniteur belge).
 \newblock \url{http://www.ejustice.just.fgov.be/doc/rech_f.htm}.
 
 \bibitem[Rabetafika et~al., 2006]{rabetafika2006polymeres}
@@ -429,6 +436,13 @@ Scherer, T.~M., Fuller, R.~C., Lenz, R.~W., and Goodwin, S. (1999).
 \newblock {Production, purification and activity of an extracellular
   depolymerase from Aspergillus fumigatus}.
 \newblock {\em Journal of Environmental Polymer Degradation}, 7(3):117--125.
+
+\bibitem[Sekhar et~al., 2016]{Sekhar2016}
+Sekhar, V.~C., Nampoothiri, K.~M., Mohan, A.~J., Nair, N.~R., Bhaskar, T., and
+  Pandey, A. (2016).
+\newblock {Microbial degradation of high impact polystyrene (HIPS), an
+  e-plastic with decabromodiphenyl oxide and antimony trioxide}.
+\newblock {\em Journal of Hazardous Materials}, 318:347--354.
 
 \bibitem[Shah et~al., 2008]{Shah2008}
 Shah, A.~A., Hasan, F., Hameed, A., and Ahmed, S. (2008).
@@ -529,6 +543,21 @@ Witt, U., Einig, T., Yamamoto, M., Kleeberg, I., Deckwer, W.~D., and
 \bibitem[Wong, 2009]{Wong2009}
 Wong, D. W.~S. (2009).
 \newblock {Structure and action mechanism of ligninolytic enzymes}.
+
+\bibitem[Yang et~al., 2015a]{Yang2015}
+Yang, Y., Yang, J., Wu, W.~M., Zhao, J., Song, Y., Gao, L., Yang, R., and
+  Jiang, L. (2015a).
+\newblock {Biodegradation and Mineralization of Polystyrene by Plastic-Eating
+  Mealworms: Part 1. Chemical and Physical Characterization and Isotopic
+  Tests}.
+\newblock {\em Environmental Science and Technology}, 49(20):12080--12086.
+
+\bibitem[Yang et~al., 2015b]{Yang2015a}
+Yang, Y., Yang, J., Wu, W.~M., Zhao, J., Song, Y., Gao, L., Yang, R., and
+  Jiang, L. (2015b).
+\newblock {Biodegradation and Mineralization of Polystyrene by Plastic-Eating
+  Mealworms: Part 2. Role of Gut Microorganisms}.
+\newblock {\em Environmental Science and Technology}, 49(20):12087--12093.
 
 \bibitem[Yoshida et~al., 2016]{Yoshida2016}
 Yoshida, S., Hiraga, K., Takehana, T., Taniguchi, I., Yamaji, H., Maeda, Y.,

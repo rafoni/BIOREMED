@@ -65,6 +65,17 @@ Claus, H. (2004).
 \newblock {Laccases: Structure, reactions, distribution}.
 \newblock In {\em Micron}, volume~35, pages 93--96.
 
+\bibitem[Corcoran et~al., 2014]{corcoran2014anthropogenic}
+Corcoran, P.~L., Moore, C.~J., and Jazvac, K. (2014).
+\newblock An anthropogenic marker horizon in the future rock record.
+\newblock {\em GSA Today}, 24(6):4--8.
+
+\bibitem[Cravedi et~al., 2007]{cravedi2007concept}
+Cravedi, J.-P., Zalko, D., Savouret, J.-F., Menuet, A., and J{\'e}gou, B.
+  (2007).
+\newblock Le concept de perturbation endocrinienne et la sant{\'e} humaine.
+\newblock {\em M/S revues}.
+
 \bibitem[Crawford and Crawford, 1980]{Crawford1980}
 Crawford, D.~L. and Crawford, R.~L. (1980).
 \newblock {Microbial degradation of lignin}.
@@ -89,6 +100,18 @@ Dominguez, S. (2013).
 Dommergues, Y. and Mangenot, F. (1970).
 \newblock {\em Ecologie microbienne du sol}.
 \newblock Masson et Cie., Paris.
+
+\bibitem[Dussud, 2014]{dussudr63}
+Dussud, C. (2014).
+\newblock R63 la d{\'e}gradation des plastiques en mer, par c. dussud et jf.
+  ghiglione.
+
+\bibitem[El~Cadi et~al., 2012]{el2012bisphenol}
+El~Cadi, M.~A., Bouslimane, Y., El~Jaoudi, R., Bouklouze, A., and Cherrah, Y.
+  (2012).
+\newblock Bisph{\'e}nol a: {\`a} nouveau risque, nouveau d{\'e}fi!
+\newblock {\em M{\'e}decine th{\'e}rapeutique/M{\'e}decine de la reproduction,
+  gyn{\'e}cologie et endocrinologie}, 14(2):151--155.
 
 \bibitem[Europ\'etrole, 2016]{Europetrole}
 Europ\'etrole (Consult\'e le 17 novembre 2016).
@@ -120,6 +143,12 @@ Gomes, D., Matam{\'a}, T., Cavaco-Paulo, A., Takaki, G., and Salgueiro, A.
 G{\"o}pferich, A. (1996).
 \newblock {Mechanisms of polymer degradation and erosion}.
 \newblock {\em Biomaterials}, 17(2):103--114.
+
+\bibitem[Greenpeace, 2016]{Greenpeace}
+Greenpeace (Consult\'e le 12 novembre 2016).
+\newblock D\'ebris plastiques et pollution des oc\'eans. rapport 2007.
+\newblock
+  \url{http://www.greenpeace.org/luxembourg/Global/luxembourg/report/2007/2/debris-plastiques-et-pollution.pdf}.
 
 \bibitem[Gu, 2003]{Gu2003}
 Gu, J.~D. (2003).
@@ -196,6 +225,11 @@ Mart{\'{i}}nez, {\'{A}}.~T., Speranza, M., Ruiz-Due{\~{n}}as, F.~J., Ferreira,
   enzymatic aspects of the fungal attack of lignin}.
 \newblock In {\em International Microbiology}, volume~8, pages 195--204.
 
+\bibitem[Monsaingeon, 2016]{monsaingeon2016plastiques}
+Monsaingeon, B. (2016).
+\newblock Plastiques: ce continent qui cache nos d{\'e}chets.
+\newblock {\em Mouvements}, (3):48--58.
+
 \bibitem[M{\"u}ller et~al., 2001]{Muller2001}
 M{\"u}ller, R.~J., Kleeberg, I., and Deckwer, W.~D. (2001).
 \newblock {Biodegradation of polyesters containing aromatic constituents}.
@@ -225,6 +259,38 @@ Otake, Y., Kobayashi, T., Asabe, H., Murakami, N., and Ono, K. (1995).
 \newblock {Biodegradation of low-density polyethylene, polystyrene, polyvinyl
   chloride, and urea formaldehyde resin buried under soil for over 32 years}.
 \newblock {\em Journal of Applied Polymer Science}, 56(13):1789--1796.
+
+\bibitem[PE, 2004]{PE2}
+PE (11 février 2004).
+\newblock Directive du parlement européen et du conseil modifiant la directive
+  94/62/ce relative aux emballages et aux déchets d'emballages - déclaration du
+  conseil, de la commission et du parlement européen. journal officiel nl 047
+  du 18/02/2004 p. 0026 - 0032.
+\newblock
+  \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex\%3A32004L0012}.
+
+\bibitem[PE, 2011]{PE4}
+PE (14 janvier 2011).
+\newblock Règlement (ue) no 10/2011 de la commission du 14 janvier 2011
+  concernant les matériaux et objets en matière plastique destinés à entrer en
+  contact avec des denrées alimentaires.
+\newblock \url{http://eur-lex.europa.eu/eli/reg/2011/10/oj}.
+
+\bibitem[PE, 2014]{PE3}
+PE (14 janvier 2014).
+\newblock Résolution du parlement européen du 14 janvier 2014 sur une stratégie
+  européenne en matière de déchets plastiques dans l'environnement
+  (2013/2113(ini).
+\newblock
+  \url{http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2014-0016+0+DOC+XML+V0//FR}.
+
+\bibitem[PE, 2015]{PE}
+PE (29 avril 2015).
+\newblock Directive du parlement européen et du conseil modifiant la directive
+  94/62/ce en ce qui concerne la réduction de la consommation de sacs en
+  plastique légers.
+\newblock
+  \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX\%3A32015L0720}.
 
 \bibitem[Pelmont, 1995]{pel1995}
 Pelmont, J. (1995).
@@ -258,6 +324,12 @@ Pometto, A.~L., Lee, B., and Johnson, K.~E. (1992).
 \newblock {Production of an extracellular polyethylene-degrading enzyme(s) by
   Streptomyces species}.
 
+\bibitem[PR, 2016]{PR}
+PR (Consulté le 12 décembre 2016).
+\newblock Reach pour l'industrie des polymers. un guide pratique. 2009.
+\newblock
+  \url{http://www.adam-europe.eu/prj/5490/prd/6/1/Polymer\%20REACH\%20handbook_FR.pdf}.
+
 \bibitem[Prati et~al., 2010]{Prati2010}
 Prati, S., Joseph, E., Sciutto, G., and Mazzeo, R. (2010).
 \newblock {New advances in the application of FTIR microscopy and spectroscopy
@@ -269,6 +341,13 @@ Priyanka~N, A.~T. (2011).
 \newblock Biodegradability of polythene and plastic by the help of
   microorganism : A way for brighter future.
 \newblock {\em Environment Analytic Toxicol}, 1:111.
+
+\bibitem[PW, 2016]{PW}
+PW (08 juillet 2016).
+\newblock Décret du 23 juin 2016 modifiant le code de l'environnement, le code
+  de l'eau et divers décrets en matière de déchets et de permis d'environnement
+  (moniteur belge).
+\newblock \url{http://www.ejustice.just.fgov.be/doc/rech_f.htm}.
 
 \bibitem[Roth et~al., 2014]{Roth2014}
 Roth, C., Wei, R., Oeser, T., Then, J., F??llner, C., Zimmermann, W., and

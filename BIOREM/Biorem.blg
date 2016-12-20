@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
@@ -22,60 +22,56 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "henry2010pollution"
 Warning--I didn't find a database entry for "derraik2002pollution"
 Warning--I didn't find a database entry for "garric20127e"
-Warning--I didn't find a database entry for "corcoran2014anthropogenic"
 Warning--I didn't find a database entry for "sigler2014effects"
 Warning--I didn't find a database entry for "allsopp2006plastic"
 Warning--I didn't find a database entry for "galgani2016macro"
-Warning--I didn't find a database entry for "dussudr63"
-Warning--I didn't find a database entry for "cravedi2007concept"
-Warning--I didn't find a database entry for "el2012bisphenol"
-Warning--I didn't find a database entry for "Greenpeace"
-Warning--I didn't find a database entry for "monsaingeon2016plastiques"
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
+Warning--empty journal in dussudr63
 Warning--can't use both volume and number fields in Martinez2005
+Warning--there's a number but no volume in monsaingeon2016plastiques
 Warning--empty journal in pel1995
 Warning--empty publisher in Piringer2008
 Warning--can't use both volume and number fields in Walsh2001
-You've used 69 entries,
+You've used 81 entries,
             1935 wiz_defined-function locations,
-            924 strings with 17336 characters,
-and the built_in function-call counts, 26820 in all, are:
-= -- 2610
-> -- 1262
-< -- 44
-+ -- 437
-- -- 432
-* -- 2347
-:= -- 4802
-add.period$ -- 196
-call.type$ -- 69
-change.case$ -- 557
-chr.to.int$ -- 68
-cite$ -- 75
-duplicate$ -- 927
-empty$ -- 1714
-format.name$ -- 525
-if$ -- 5079
+            976 strings with 19818 characters,
+and the built_in function-call counts, 30432 in all, are:
+= -- 2973
+> -- 1399
+< -- 53
++ -- 483
+- -- 476
+* -- 2621
+:= -- 5487
+add.period$ -- 231
+call.type$ -- 81
+change.case$ -- 639
+chr.to.int$ -- 80
+cite$ -- 89
+duplicate$ -- 1065
+empty$ -- 1943
+format.name$ -- 581
+if$ -- 5748
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 53
-newline$ -- 336
-num.names$ -- 207
-pop$ -- 443
+missing$ -- 58
+newline$ -- 395
+num.names$ -- 243
+pop$ -- 499
 preamble$ -- 1
-purify$ -- 561
+purify$ -- 643
 quote$ -- 0
-skip$ -- 726
+skip$ -- 839
 stack$ -- 0
-substring$ -- 1775
-swap$ -- 84
+substring$ -- 1978
+swap$ -- 88
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 408
-warning$ -- 6
-while$ -- 215
+type$ -- 480
+warning$ -- 8
+while$ -- 245
 width$ -- 0
-write$ -- 852
+write$ -- 997
 (There were 4 error messages)

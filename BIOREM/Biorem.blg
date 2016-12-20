@@ -3,123 +3,95 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
-Repeated entry---line 1044 of file Bibliography/Plastics.bib
+Repeated entry---line 1053 of file Bibliography/Plastics.bib
  : @incollection{lambert2014occurrence
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1094 of file Bibliography/Plastics.bib
+Repeated entry---line 1103 of file Bibliography/Plastics.bib
  : @misc{Plasticseurope2
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1100 of file Bibliography/Plastics.bib
+Repeated entry---line 1109 of file Bibliography/Plastics.bib
  : @misc{SCF
  :          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1106 of file Bibliography/Plastics.bib
- : @misc{Europetrole
- :                  ,
+Repeated entry---line 1296 of file Bibliography/Plastics.bib
+ : @article{dussudr63
+ :                   ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "henry2010pollution"
-Warning--I didn't find a database entry for "derraik2002pollution"
-Warning--I didn't find a database entry for "garric20127e"
-Warning--I didn't find a database entry for "sigler2014effects"
-Warning--I didn't find a database entry for "allsopp2006plastic"
-Warning--I didn't find a database entry for "galgani2016macro"
+Repeated entry---line 1304 of file Bibliography/Plastics.bib
+ : @article{cravedi2007concept
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1312 of file Bibliography/Plastics.bib
+ : @article{el2012bisphenol
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1322 of file Bibliography/Plastics.bib
+ : @misc{Greenpeace
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1329 of file Bibliography/Plastics.bib
+ : @article{corcoran2014anthropogenic
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1339 of file Bibliography/Plastics.bib
+ : @article{monsaingeon2016plastiques
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1373 of file Bibliography/Plastics.bib
+ : @incollection{lambert2014occurrence
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in allsopp2006plastic
 Warning--can't use both volume and number fields in Claus2004
-Warning--empty school in domin2013
 Warning--empty journal in dussudr63
+Warning--there's a number but no volume in galgani2016macro
+Warning--empty journal in henry2010pollution
 Warning--can't use both volume and number fields in Martinez2005
-<<<<<<< HEAD
-=======
 Warning--there's a number but no volume in monsaingeon2016plastiques
-Warning--empty journal in pel1995
->>>>>>> 8b0fa9ef883d22d20d80b1bdcc37554b092c5603
 Warning--empty publisher in Piringer2008
 Warning--empty journal in ramone2015evolutions
 Warning--can't use both volume and number fields in Walsh2001
-<<<<<<< HEAD
-You've used 70 entries,
+You've used 91 entries,
             1935 wiz_defined-function locations,
-            927 strings with 17488 characters,
-and the built_in function-call counts, 27112 in all, are:
-= -- 2643
-> -- 1280
-< -- 44
-+ -- 443
-- -- 438
-* -- 2369
-:= -- 4862
-add.period$ -- 200
-call.type$ -- 70
-change.case$ -- 565
-chr.to.int$ -- 69
-cite$ -- 75
-duplicate$ -- 934
-empty$ -- 1724
-format.name$ -- 532
-if$ -- 5131
+            1013 strings with 21552 characters,
+and the built_in function-call counts, 33833 in all, are:
+= -- 3298
+> -- 1539
+< -- 60
++ -- 533
+- -- 522
+* -- 2901
+:= -- 6107
+add.period$ -- 258
+call.type$ -- 91
+change.case$ -- 712
+chr.to.int$ -- 90
+cite$ -- 101
+duplicate$ -- 1198
+empty$ -- 2174
+format.name$ -- 639
+if$ -- 6388
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 52
-newline$ -- 342
-num.names$ -- 210
-pop$ -- 445
+missing$ -- 69
+newline$ -- 442
+num.names$ -- 273
+pop$ -- 562
 preamble$ -- 1
-purify$ -- 569
+purify$ -- 716
 quote$ -- 0
-skip$ -- 732
+skip$ -- 943
 stack$ -- 0
-substring$ -- 1787
-swap$ -- 84
-text.length$ -- 7
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 414
-warning$ -- 5
-while$ -- 217
-width$ -- 0
-write$ -- 866
-=======
-You've used 83 entries,
-            1935 wiz_defined-function locations,
-            983 strings with 20201 characters,
-and the built_in function-call counts, 30982 in all, are:
-= -- 3023
-> -- 1413
-< -- 56
-+ -- 487
-- -- 480
-* -- 2659
-:= -- 5589
-add.period$ -- 236
-call.type$ -- 83
-change.case$ -- 650
-chr.to.int$ -- 82
-cite$ -- 92
-duplicate$ -- 1092
-empty$ -- 1986
-format.name$ -- 587
-if$ -- 5853
-int.to.chr$ -- 2
-int.to.str$ -- 0
-missing$ -- 61
-newline$ -- 404
-num.names$ -- 249
-pop$ -- 513
-preamble$ -- 1
-purify$ -- 655
-quote$ -- 0
-skip$ -- 861
-stack$ -- 0
-substring$ -- 2002
-swap$ -- 90
+substring$ -- 2172
+swap$ -- 96
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 490
-warning$ -- 9
-while$ -- 249
+type$ -- 538
+warning$ -- 10
+while$ -- 273
 width$ -- 0
-write$ -- 1020
->>>>>>> 8b0fa9ef883d22d20d80b1bdcc37554b092c5603
-(There were 4 error messages)
+write$ -- 1117
+(There were 10 error messages)

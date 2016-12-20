@@ -1,5 +1,9 @@
 \begin{thebibliography}{}
 
+\bibitem[Allsopp et~al., 2006]{allsopp2006plastic}
+Allsopp, M., Walters, A., Santillo, D., and Johnston, P. (2006).
+\newblock Plastic debris in the world?s oceans.
+
 \bibitem[Andrady and Neal, 2009]{andrady2009applications}
 Andrady, A.~L. and Neal, M.~A. (2009).
 \newblock Applications and societal benefits of plastics.
@@ -84,17 +88,14 @@ Crawford, D.~L. and Crawford, R.~L. (1980).
 Dashtban, M., Schraft, H., Syed, T.~A., and Qin, W. (2010).
 \newblock {Fungal biodegradation and enzymatic modification of lignin}.
 
+\bibitem[Derraik, 2002]{derraik2002pollution}
+Derraik, J.~G. (2002).
+\newblock The pollution of the marine environment by plastic debris: a review.
+\newblock {\em Marine pollution bulletin}, 44(9):842--852.
+
 \bibitem[Dodson and Wlodawer, 1998]{Dodson1998}
 Dodson, G. and Wlodawer, A. (1998).
 \newblock {Catalytic triads and their relatives}.
-
-\bibitem[Dominguez, 2013]{domin2013}
-Dominguez, S. (2013).
-\newblock {\em Relation structure/propri\'et\'es de polym\`eres et m\'elanges
-  thermoplastiques thermostables - Applications A\'eronautiques Hautes
-  Temp\'eratures}.
-\newblock PhD thesis.
-\newblock 2013PAUU3031.
 
 \bibitem[Dommergues and Mangenot, 1970]{dom1970}
 Dommergues, Y. and Mangenot, F. (1970).
@@ -113,11 +114,6 @@ El~Cadi, M.~A., Bouslimane, Y., El~Jaoudi, R., Bouklouze, A., and Cherrah, Y.
 \newblock {\em M{\'e}decine th{\'e}rapeutique/M{\'e}decine de la reproduction,
   gyn{\'e}cologie et endocrinologie}, 14(2):151--155.
 
-\bibitem[Europ\'etrole, 2016]{Europetrole}
-Europ\'etrole (Consult\'e le 17 novembre 2016).
-\newblock Vapocraquage.
-\newblock \url{http://www.euro-petrole.com/re_05_details_mot.php?idMot=43}.
-
 \bibitem[Ferraroni et~al., 2007]{Ferraroni2007}
 Ferraroni, M., Myasoedova, N.~M., Schmatchenko, V., Leontievsky, A.~A.,
   Golovleva, L.~A., Scozzafava, A., and Briganti, F. (2007).
@@ -130,6 +126,17 @@ Ferraroni, M., Myasoedova, N.~M., Schmatchenko, V., Leontievsky, A.~A.,
 Fontanille, M. and Gnanou, Y. (2014).
 \newblock {\em Chimie et physico-chimie des polym{\`e}res}.
 \newblock Dunod.
+
+\bibitem[Galgani and Loubersac, 2016]{galgani2016macro}
+Galgani, F. and Loubersac, L. (2016).
+\newblock Les macro-d{\'e}chets en mer.
+\newblock {\em Tai Kona}, (16):26--49.
+
+\bibitem[Garric, 2012]{garric20127e}
+Garric, A. (2012).
+\newblock Le 7e continent de plastique: ces tourbillons de d{\'e}chets dans les
+  oc{\'e}ans.
+\newblock {\em Journal Lemonde. fr}, 9.
 
 \bibitem[George, 2014]{georg2014}
 George, I. (2014).
@@ -159,6 +166,12 @@ Greenpeace (Consult\'e le 12 novembre 2016).
 Gu, J.~D. (2003).
 \newblock {Microbiological deterioration and degradation of synthetic polymeric
   materials: Recent research advances}.
+
+\bibitem[Henry, 2010]{henry2010pollution}
+Henry, M. (2010).
+\newblock Pollution du milieu marin par les d{\'e}chets solides: Etat des
+  connaissances. perspectives d'implication de l'ifremer en r{\'e}ponse au
+  d{\'e}fi de la directive cadre strat{\'e}gie marine et du grenelle de la mer.
 
 \bibitem[Hueck, 2001]{hue2001}
 Hueck, H. (2001).
@@ -236,17 +249,23 @@ Mart{\'{i}}nez, {\'{A}}.~T., Speranza, M., Ruiz-Due{\~{n}}as, F.~J., Ferreira,
   enzymatic aspects of the fungal attack of lignin}.
 \newblock In {\em International Microbiology}, volume~8, pages 195--204.
 
-<<<<<<< HEAD
 \bibitem[Meerts et~al., 2013]{meerts2013}
 Meerts, P., George, I., and Danis, B. (2013).
 \newblock Ecologie g{\'e}n{\'e}rale (biol-f306).
 \newblock Cours ex-cathedra, Universit{\'e} Libre de Bruxelles.
-=======
+
 \bibitem[Monsaingeon, 2016]{monsaingeon2016plastiques}
 Monsaingeon, B. (2016).
 \newblock Plastiques: ce continent qui cache nos d{\'e}chets.
 \newblock {\em Mouvements}, (3):48--58.
->>>>>>> 8b0fa9ef883d22d20d80b1bdcc37554b092c5603
+
+\bibitem[Motta et~al., 2009]{motta2009utilization}
+Motta, O., Proto, A., De~Carlo, F., De~Caro, F., Santoro, E., Brunetti, L., and
+  Capunzo, M. (2009).
+\newblock Utilization of chemically oxidized polystyrene as co-substrate by
+  filamentous fungi.
+\newblock {\em International journal of hygiene and environmental health},
+  212(1):61--66.
 
 \bibitem[M{\"u}ller et~al., 2001]{Muller2001}
 M{\"u}ller, R.~J., Kleeberg, I., and Deckwer, W.~D. (2001).
@@ -278,8 +297,6 @@ Otake, Y., Kobayashi, T., Asabe, H., Murakami, N., and Ono, K. (1995).
   chloride, and urea formaldehyde resin buried under soil for over 32 years}.
 \newblock {\em Journal of Applied Polymer Science}, 56(13):1789--1796.
 
-<<<<<<< HEAD
-=======
 \bibitem[PE, 2004]{PE2}
 PE (11 février 2004).
 \newblock Directive du parlement européen et du conseil modifiant la directive
@@ -312,21 +329,16 @@ PE (29 avril 2015).
 \newblock
   \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX\%3A32015L0720}.
 
-\bibitem[Pelmont, 1995]{pel1995}
-Pelmont, J. (1995).
-\newblock Enzymes. catalyseurs du monde vivant.
-
->>>>>>> 8b0fa9ef883d22d20d80b1bdcc37554b092c5603
 \bibitem[Piringer and Baner, 2008]{Piringer2008}
 Piringer, O.~G. and Baner, A.~L. (2008).
 \newblock {\em {Plastic Packaging: Interactions with Food and Pharmaceuticals,
   Second Edition}}.
 
-\bibitem[Plan\'etoscope, 2016]{Planetoscope}
-Plan\'etoscope (Consult\'e le 09 novembre 2016).
-\newblock Production mondiale de plastique. consogloble.
+\bibitem[Plasticseurope, 2015]{plast2015}
+Plasticseurope (2015).
+\newblock Types of plastic - polystyrene (ps).
 \newblock
-  \url{http://www.planetoscope.com/petrole/989-production-mondiale-de-plastique.html}.
+  http://www.plasticseurope.org/what-is-plastic/types-of-plastics-11148/polystyrene.aspx.
 
 \bibitem[Plasticseurope, 2016a]{Plasticseurope2}
 Plasticseurope (Consult\'e le 09 novembre 2016a).
@@ -370,11 +382,24 @@ PW (08 juillet 2016).
   (moniteur belge).
 \newblock \url{http://www.ejustice.just.fgov.be/doc/rech_f.htm}.
 
+\bibitem[Rabetafika et~al., 2006]{rabetafika2006polymeres}
+Rabetafika, H.~N., Paquot, M., and Dubois, P. (2006).
+\newblock Les polym{\`e}res issus du v{\'e}g{\'e}tal: mat{\'e}riaux {\`a}
+  propri{\'e}t{\'e}s sp{\'e}cifiques pour des applications cibl{\'e}es en
+  industrie plastique.
+\newblock {\em Biotechnologie, agronomie, soci{\'e}t{\'e} et environnement},
+  10(3):185--196.
+
 \bibitem[Ramone, 2015]{ramone2015evolutions}
 Ramone, A. (2015).
 \newblock Evolutions mol{\'e}culaires au cours de la d{\'e}gradation biotique
   et abiotique de polym{\`e}res biosourc{\'e}s (pla et pbs) et fossiles (pp)
   {\`a} l?aide de la visco{\'e}lasticit{\'e} {\`a} l?{\'e}tat fondu.
+
+\bibitem[Regnault, 1990]{regnault1990paris}
+Regnault, J. (1990).
+\newblock , paris, dacaire-vigot.
+\newblock {\em Microbiologie g{\'e}n{\'e}rale}.
 
 \bibitem[Roth et~al., 2014]{Roth2014}
 Roth, C., Wei, R., Oeser, T., Then, J., F??llner, C., Zimmermann, W., and
@@ -382,12 +407,6 @@ Roth, C., Wei, R., Oeser, T., Then, J., F??llner, C., Zimmermann, W., and
 \newblock {Structural and functional studies on a thermostable polyethylene
   terephthalate degrading hydrolase from Thermobifida fusca}.
 \newblock {\em Applied Microbiology and Biotechnology}, 98(18):7815--7823.
-
-\bibitem[Ryan et~al., 2009]{ryan2009monitoring}
-Ryan, P.~G., Moore, C.~J., van Franeker, J.~A., and Moloney, C.~L. (2009).
-\newblock Monitoring the abundance of plastic debris in the marine environment.
-\newblock {\em Philosophical Transactions of the Royal Society of London B:
-  Biological Sciences}, 364(1526):1999--2012.
 
 \bibitem[Sangale et~al., 2012]{Sangale2012}
 Sangale, M.~K., Shahnawaz, M., and Ade, a.~B. (2012).
@@ -422,6 +441,12 @@ Sharon, C. and Sharon, M. (2012).
 \newblock {\em Journal of Microbiology and Biotechnology Research Scholars
   Research Library J. Microbiol. Biotech. Res}, 2(2):248--257.
 
+\bibitem[Sigler, 2014]{sigler2014effects}
+Sigler, M. (2014).
+\newblock The effects of plastic pollution on aquatic wildlife: current
+  situations and future solutions.
+\newblock {\em Water, Air, \& Soil Pollution}, 225(11):1--9.
+
 \bibitem[Sulaiman et~al., 2012]{Sulaiman2012}
 Sulaiman, S., Yamato, S., Kanaya, E., Kim, J.~J., Koga, Y., Takano, K., and
   Kanaya, S. (2012).
@@ -447,6 +472,12 @@ Thurston, C.~F. (1994).
 Valorplast (Consult\'e le 10 novembre 2016).
 \newblock La chimie des plastiques: l'atome aux polym\`eres.
 \newblock \url{http://www.valorplast.com/le-campus/lycee/option-chimie/}.
+
+\bibitem[Vermeiren et~al., 2016]{vermeiren2016sources}
+Vermeiren, P., Mu{\~n}oz, C.~C., and Ikejima, K. (2016).
+\newblock Sources and sinks of plastic debris in estuaries: A conceptual model
+  integrating biological, physical and chemical distribution mechanisms.
+\newblock {\em Marine Pollution Bulletin}.
 
 \bibitem[Vijaya and {Mallikarjuna Reddy}, 2008]{Vijaya2008}
 Vijaya, C. and {Mallikarjuna Reddy}, R. (2008).

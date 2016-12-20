@@ -15,58 +15,83 @@ Repeated entry---line 1109 of file Bibliography/Plastics.bib
  : @misc{SCF
  :          ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "henry2010pollution"
-Warning--I didn't find a database entry for "derraik2002pollution"
-Warning--I didn't find a database entry for "garric20127e"
-Warning--I didn't find a database entry for "sigler2014effects"
-Warning--I didn't find a database entry for "allsopp2006plastic"
-Warning--I didn't find a database entry for "galgani2016macro"
+Repeated entry---line 1296 of file Bibliography/Plastics.bib
+ : @article{dussudr63
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1304 of file Bibliography/Plastics.bib
+ : @article{cravedi2007concept
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1312 of file Bibliography/Plastics.bib
+ : @article{el2012bisphenol
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1322 of file Bibliography/Plastics.bib
+ : @misc{Greenpeace
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1329 of file Bibliography/Plastics.bib
+ : @article{corcoran2014anthropogenic
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1339 of file Bibliography/Plastics.bib
+ : @article{monsaingeon2016plastiques
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1373 of file Bibliography/Plastics.bib
+ : @incollection{lambert2014occurrence
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in allsopp2006plastic
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty journal in dussudr63
+Warning--there's a number but no volume in galgani2016macro
+Warning--empty journal in henry2010pollution
 Warning--can't use both volume and number fields in Martinez2005
 Warning--there's a number but no volume in monsaingeon2016plastiques
 Warning--empty publisher in Piringer2008
 Warning--empty journal in ramone2015evolutions
 Warning--can't use both volume and number fields in Walsh2001
-You've used 84 entries,
+You've used 90 entries,
             1935 wiz_defined-function locations,
-            984 strings with 20394 characters,
-and the built_in function-call counts, 31313 in all, are:
-= -- 3055
-> -- 1437
-< -- 55
-+ -- 495
-- -- 488
-* -- 2684
-:= -- 5654
-add.period$ -- 239
-call.type$ -- 84
-change.case$ -- 660
-chr.to.int$ -- 83
-cite$ -- 91
-duplicate$ -- 1103
-empty$ -- 2002
-format.name$ -- 596
-if$ -- 5915
+            1007 strings with 21243 characters,
+and the built_in function-call counts, 33298 in all, are:
+= -- 3249
+> -- 1501
+< -- 60
++ -- 519
+- -- 508
+* -- 2846
+:= -- 6011
+add.period$ -- 255
+call.type$ -- 90
+change.case$ -- 700
+chr.to.int$ -- 89
+cite$ -- 100
+duplicate$ -- 1184
+empty$ -- 2146
+format.name$ -- 624
+if$ -- 6290
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 62
-newline$ -- 409
-num.names$ -- 252
-pop$ -- 520
+missing$ -- 68
+newline$ -- 437
+num.names$ -- 270
+pop$ -- 552
 preamble$ -- 1
-purify$ -- 664
+purify$ -- 704
 quote$ -- 0
-skip$ -- 869
+skip$ -- 933
 stack$ -- 0
-substring$ -- 2008
-swap$ -- 91
+substring$ -- 2141
+swap$ -- 95
 text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 496
-warning$ -- 7
-while$ -- 251
+type$ -- 532
+warning$ -- 10
+while$ -- 269
 width$ -- 0
-write$ -- 1032
-(There were 3 error messages)
+write$ -- 1104
+(There were 10 error messages)

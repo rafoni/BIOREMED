@@ -3,19 +3,19 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
-Repeated entry---line 1028 of file Bibliography/Plastics.bib
+Repeated entry---line 1044 of file Bibliography/Plastics.bib
  : @incollection{lambert2014occurrence
  :                                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1078 of file Bibliography/Plastics.bib
+Repeated entry---line 1094 of file Bibliography/Plastics.bib
  : @misc{Plasticseurope2
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1084 of file Bibliography/Plastics.bib
+Repeated entry---line 1100 of file Bibliography/Plastics.bib
  : @misc{SCF
  :          ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1090 of file Bibliography/Plastics.bib
+Repeated entry---line 1106 of file Bibliography/Plastics.bib
  : @misc{Europetrole
  :                  ,
 I'm skipping whatever remains of this entry
@@ -34,48 +34,47 @@ Warning--I didn't find a database entry for "monsaingeon2016plastiques"
 Warning--can't use both volume and number fields in Claus2004
 Warning--empty school in domin2013
 Warning--can't use both volume and number fields in Martinez2005
-Warning--empty journal in pel1995
 Warning--empty publisher in Piringer2008
 Warning--can't use both volume and number fields in Walsh2001
-You've used 69 entries,
+You've used 70 entries,
             1935 wiz_defined-function locations,
-            924 strings with 17336 characters,
-and the built_in function-call counts, 26820 in all, are:
-= -- 2610
-> -- 1262
+            927 strings with 17488 characters,
+and the built_in function-call counts, 27112 in all, are:
+= -- 2643
+> -- 1280
 < -- 44
-+ -- 437
-- -- 432
-* -- 2347
-:= -- 4802
-add.period$ -- 196
-call.type$ -- 69
-change.case$ -- 557
-chr.to.int$ -- 68
++ -- 443
+- -- 438
+* -- 2369
+:= -- 4862
+add.period$ -- 200
+call.type$ -- 70
+change.case$ -- 565
+chr.to.int$ -- 69
 cite$ -- 75
-duplicate$ -- 927
-empty$ -- 1714
-format.name$ -- 525
-if$ -- 5079
+duplicate$ -- 934
+empty$ -- 1724
+format.name$ -- 532
+if$ -- 5131
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 53
-newline$ -- 336
-num.names$ -- 207
-pop$ -- 443
+missing$ -- 52
+newline$ -- 342
+num.names$ -- 210
+pop$ -- 445
 preamble$ -- 1
-purify$ -- 561
+purify$ -- 569
 quote$ -- 0
-skip$ -- 726
+skip$ -- 732
 stack$ -- 0
-substring$ -- 1775
+substring$ -- 1787
 swap$ -- 84
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 408
-warning$ -- 6
-while$ -- 215
+type$ -- 414
+warning$ -- 5
+while$ -- 217
 width$ -- 0
-write$ -- 852
+write$ -- 866
 (There were 4 error messages)

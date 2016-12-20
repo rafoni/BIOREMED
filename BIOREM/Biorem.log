@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  20 DEC 2016 00:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  20 DEC 2016 10:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1244,7 +1244,7 @@ nored
                    \relax 
 l.172 \subsection{Biofragmentation}
                                    
-<Pictures/Lignol.png, id=426, 592.2125pt x 338.26375pt>
+<Pictures/Lignol.png, id=429, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
@@ -1256,7 +1256,7 @@ Overfull \hbox (3.5484pt too wide) in paragraph at lines 190--191
 uit deux voies diff^^Serentes. La premi^^Rere est non-enzymatique
  []
 
-<Pictures/Lign.png, id=445, 508.90125pt x 626.34pt>
+<Pictures/Lign.png, id=448, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
 Package pdftex.def Info: Pictures/Lign.png used on input line 195.
@@ -1288,7 +1288,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--210
  []
 
 [16 <./Pictures/Lignol.png> <./Pictures/Lign.png>]
-<Pictures/polye.png, id=482, 518.93875pt x 613.29124pt>
+<Pictures/polye.png, id=485, 518.93875pt x 613.29124pt>
 File: Pictures/polye.png Graphic file (type png)
 
 <use Pictures/polye.png>
@@ -1304,9 +1304,9 @@ on des en-zymes li-gno-ly-tiques, cer-tains mi-croor-ga-nismes s^^Secr^^Retent
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.227 \section{Polyéthylène}
-                            pdfTeX warning (ext4): destination with the same id
-entifier (name{subsection.3.1}) has been already used, duplicate ignored
+l.227 \section{PE}
+                  pdfTeX warning (ext4): destination with the same identifier (
+name{subsection.3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.232 \subsection{Produits de dégradation}
@@ -1321,42 +1321,42 @@ with the same identifier (name{section.4}) has been already used, duplicate ign
 ored
 <to be read again> 
                    \relax 
-l.288 \section{PET}
-                    [19] <Pictures/PET.png, id=631, 350.30875pt x 395.4775pt>
+l.289 \section{PET}
+                    [19] <Pictures/PET.png, id=634, 350.30875pt x 395.4775pt>
 File: Pictures/PET.png Graphic file (type png)
 
 <use Pictures/PET.png>
-Package pdftex.def Info: Pictures/PET.png used on input line 298.
+Package pdftex.def Info: Pictures/PET.png used on input line 299.
 (pdftex.def)             Requested size: 253.94266pt x 286.69272pt.
  [20] (./Biorem.bbl [21 <./Pictures/PET.png>] [22]
-[23] [24])
+[23] [24] [25])
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 309.
-[25]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 309.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 310.
+[26]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 310.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 309.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 309.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 310.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 310.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: 4E7E6BD963B8CF447CD61D8798C47734;2840.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 309.
+(rerunfilecheck)             Checksum: 58F4B17EBA49746521F5A47503B936EA;2838.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 310.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 305 ({)
+### simple group (level 3) entered at line 306 ({)
 ### simple group (level 2) entered at line 229 ({)
 ### simple group (level 1) entered at line 229 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 20642 strings out of 493014
- 356524 string characters out of 6133350
- 493849 words of memory out of 5000000
- 23740 multiletter control sequences out of 15000+600000
+ 20647 strings out of 493014
+ 356608 string characters out of 6133350
+ 493881 words of memory out of 5000000
+ 23743 multiletter control sequences out of 15000+600000
  12400 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,14n,44p,10348b,698s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,14n,44p,10348b,730s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1371,10 +1371,10 @@ pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (26 pages, 1245153 bytes).
+Output written on Biorem.pdf (27 pages, 1245862 bytes).
 PDF statistics:
- 786 PDF objects out of 1000 (max. 8388607)
- 664 compressed objects within 7 object streams
- 142 named destinations out of 1000 (max. 500000)
+ 793 PDF objects out of 1000 (max. 8388607)
+ 670 compressed objects within 7 object streams
+ 144 named destinations out of 1000 (max. 500000)
  357 words of extra memory for PDF output out of 10000 (max. 10000000)
 

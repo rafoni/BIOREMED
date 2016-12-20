@@ -27,12 +27,12 @@
 \contentsline {section}{\numberline {2}Biod\'egradation des biopolym\`eres}{14}{section.2}
 \contentsline {subsection}{\numberline {2.1}Introduction}{14}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Biod\'et\'erioration}{14}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Facteurs physiques et chimiques de d\'egradation}{15}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.1}Facteurs physiques, chimiques et enzymatiques de d\'egradation}{15}{subsubsection.2.2.1}
 \contentsline {subsection}{\numberline {2.3}Biofragmentation}{15}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}D\'epolym\'erisation asp\'ecifique - biod\'egradation de la lignine}{15}{subsubsection.2.3.1}
 \contentsline {subsubsection}{\numberline {2.3.2}D\'epolym\'erisation sp\'ecifique - biod\'egradation d'un polyester}{17}{subsubsection.2.3.2}
-\contentsline {section}{\numberline {3}Poly\'ethyl\`ene}{18}{section.3}
+\contentsline {section}{\numberline {3}PE}{18}{section.3}
 \contentsline {subsection}{\numberline {3.1}Produits de d\'egradation}{19}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Efficacit\'e de d\'egradation}{19}{subsection.3.2}
-\contentsline {section}{\numberline {4}PET}{19}{section.4}
+\contentsline {section}{\numberline {4}PET}{20}{section.4}
 \contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation}{21}{subsection.4.1}

@@ -3,6 +3,7 @@
 \bibitem[Allsopp et~al., 2006]{allsopp2006plastic}
 Allsopp, M., Walters, A., Santillo, D., and Johnston, P. (2006).
 \newblock Plastic debris in the world?s oceans.
+\newblock {\em United Nations Environment Program}.
 
 \bibitem[Andrady and Neal, 2009]{andrady2009applications}
 Andrady, A.~L. and Neal, M.~A. (2009).
@@ -72,8 +73,8 @@ Chandra, R. and Rustgi, R. (1997).
 
 \bibitem[Claus, 2004]{Claus2004}
 Claus, H. (2004).
-\newblock {Laccases: Structure, reactions, distribution}.
-\newblock In {\em Micron}, volume~35, pages 93--96.
+\newblock Laccases: Structure, reactions, distribution.
+\newblock {\em Micron}, 35(1):93--96.
 
 \bibitem[Corcoran et~al., 2014]{corcoran2014anthropogenic}
 Corcoran, P.~L., Moore, C.~J., and Jazvac, K. (2014).
@@ -112,6 +113,7 @@ Dommergues, Y. and Mangenot, F. (1970).
 Dussud, C. (2014).
 \newblock R63 la d{\'e}gradation des plastiques en mer, par c. dussud et jf.
   ghiglione.
+\newblock {\em Soci{\'e}t{\'e} Fran{\c c}aise d'{\'e}cologie}.
 
 \bibitem[El~Cadi et~al., 2012]{el2012bisphenol}
 El~Cadi, M.~A., Bouslimane, Y., El~Jaoudi, R., Bouklouze, A., and Cherrah, Y.
@@ -136,7 +138,7 @@ Fontanille, M. and Gnanou, Y. (2014).
 \bibitem[Galgani and Loubersac, 2016]{galgani2016macro}
 Galgani, F. and Loubersac, L. (2016).
 \newblock Les macro-d{\'e}chets en mer.
-\newblock {\em Tai Kona}, (16):26--49.
+\newblock {\em Tai Kona}, 10(16):26--49.
 
 \bibitem[Garric, 2012]{garric20127e}
 Garric, A. (2012).
@@ -243,8 +245,8 @@ Lambert, S., Sinclair, C., and Boxall, A. (2014).
 
 \bibitem[Lecomte-Beckers, 2009]{lecomte2009physique}
 Lecomte-Beckers, J. (2009).
-\newblock Physique des mat\`eriaux: partie polym\`eres.
-\newblock {\em Universit\'e de Li\`ege, Belgique}.
+\newblock Physique des mat{\'e}riaux: partie polym{\`e}res.
+\newblock {\em Universit{\'e} de Li{\`e}ege, Belgique}.
 
 \bibitem[Lucas et~al., 2008]{lucas2008}
 Lucas, N., Bienaime, C., Belloy, C., Queneudec, M., Silvestre, F., and
@@ -259,7 +261,14 @@ Mart{\'{i}}nez, {\'{A}}.~T., Speranza, M., Ruiz-Due{\~{n}}as, F.~J., Ferreira,
   A., and {Del R{\'{i}}o}, J.~C. (2005).
 \newblock {Biodegradation of lignocellulosics: Microbial, chemical, and
   enzymatic aspects of the fungal attack of lignin}.
-\newblock In {\em International Microbiology}, volume~8, pages 195--204.
+\newblock {\em Int Microbiol}, 8(3):195--204.
+
+\bibitem[MB, 2016]{PW}
+MB (08 juillet 2016).
+\newblock D{\'e}cret du 23 juin 2016 modifiant le code de l'environnement, le
+  code de l'eau et divers d{\'e}crets en mati{\`e}re de d{\'e}chets et de
+  permis d'environnement (moniteur belge du 08/07/2016).
+\newblock Technical report, Le moniteur belge.
 
 \bibitem[Meerts et~al., 2013]{meerts2013}
 Meerts, P., George, I., and Danis, B. (2013).
@@ -274,7 +283,7 @@ Mohan, A.~J., Sekhar, V.~C., Bhaskar, T., and Nampoothiri, K.~M. (2016).
 \bibitem[Monsaingeon, 2016]{monsaingeon2016plastiques}
 Monsaingeon, B. (2016).
 \newblock Plastiques: ce continent qui cache nos d{\'e}chets.
-\newblock {\em Mouvements}, (3):48--58.
+\newblock {\em Mouvements}, 87(3):48--58.
 
 \bibitem[Mor and Sivan, 2008]{Mor2008}
 Mor, R. and Sivan, A. (2008).
@@ -308,11 +317,10 @@ Nimchua, T., Punnapayak, H., and Zimmermann, W. (2007).
 \newblock {\em Biotechnology Journal}, 2(3):361--364.
 
 \bibitem[OMI, 2016]{OMI}
-OMI (Consult\'e le 09 novembre 2016).
-\newblock Convention internationale pour la pr\'evention de la pollution par
+OMI (Consult{\'e} le 09 novembre 2016).
+\newblock Convention internationale pour la pr{\'e}vention de la pollution par
   les navires.
-\newblock
-  \url{http://www.imo.org/fr/About/Conventions/ListOfConventions/Pages/International-Convention-for-the-Prevention-of-Pollution-from-Ships-(MARPOL).aspx}.
+\newblock Technical report, Organisation Maritime Internationale.
 
 \bibitem[Otake et~al., 1995]{Otake1995}
 Otake, Y., Kobayashi, T., Asabe, H., Murakami, N., and Ono, K. (1995).
@@ -320,29 +328,25 @@ Otake, Y., Kobayashi, T., Asabe, H., Murakami, N., and Ono, K. (1995).
   chloride, and urea formaldehyde resin buried under soil for over 32 years}.
 \newblock {\em Journal of Applied Polymer Science}, 56(13):1789--1796.
 
-\bibitem[PE, ]{PE2}
-PE.
-\newblock
-  \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex\%3A32004L0012}.
-
-\bibitem[PE, 2011]{PE4}
+\bibitem[PE, 2011]{PE2}
 PE (14 janvier 2011).
-\newblock \url{http://eur-lex.europa.eu/eli/reg/2011/10/oj}.
+\newblock R{\`e}glement (ue) no 10/2011 de la commission du 14 janvier 2011
+  concernant les mat{\'e}riaux et objets en mati{\`e}re plastique destin{\'e}s
+  {\`a} entrer en contact avec des denr{\'e}es alimentaires.
+\newblock Technical report, Parlement europ{\'e}en.
 
-\bibitem[PE, 2014]{PE3}
+\bibitem[PE, 2014]{PE}
 PE (14 janvier 2014).
-\newblock
-  \url{http://www.europarl.europa.eu/sides/getDoc.do?pubRef=-//EP//TEXT+TA+P7-TA-2014-0016+0+DOC+XML+V0//FR}.
-
-\bibitem[PE, 2015]{PE}
-PE (29 avril 2015).
-\newblock
-  \url{http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX\%3A32015L0720}.
+\newblock R{\'e}solution du parlement europ{\'e}en du 14 janvier 2014 sur une
+  strat{\'e}gie europ{\'e}enne en mati{\`e}re de d{\'e}chets plastiques dans
+  l'environnement (2013/2113(ini).
+\newblock Technical report, Parlement europ{\'e}en.
 
 \bibitem[Piringer and Baner, 2008]{Piringer2008}
 Piringer, O.~G. and Baner, A.~L. (2008).
 \newblock {\em {Plastic Packaging: Interactions with Food and Pharmaceuticals,
   Second Edition}}.
+\newblock John Wiley \& Sons.
 
 \bibitem[Plasticseurope, 2015]{plast2015}
 Plasticseurope (2015).
@@ -351,14 +355,14 @@ Plasticseurope (2015).
   http://www.plasticseurope.org/what-is-plastic/types-of-plastics-11148/polystyrene.aspx.
 
 \bibitem[Plasticseurope, 2016a]{Plasticseurope2}
-Plasticseurope (Consult\'e le 09 novembre 2016a).
+Plasticseurope (Consult{\'e} le 09 novembre 2016a).
 \newblock Plastics - the facts 2016 an analysis of european plastics
   production, demand and waste data.
 \newblock
   \url{http://www.plasticseurope.org/Document/plastics---the-facts-2016-15787.aspx}.
 
 \bibitem[Plasticseurope, 2016b]{Plasticseurope}
-Plasticseurope (Consult\'e le 12 novembre 2016b).
+Plasticseurope (Consult{\'e} le 12 novembre 2016b).
 \newblock Utilisation du plastique.
 \newblock \url{http://www.plasticseurope.fr/utilisation-du-plastique.aspx}.
 
@@ -367,11 +371,10 @@ Pometto, A.~L., Lee, B., and Johnson, K.~E. (1992).
 \newblock {Production of an extracellular polyethylene-degrading enzyme(s) by
   Streptomyces species}.
 
-\bibitem[PR, ]{PR}
-PR.
-\newblock Reach pour l'industrie des polymers. un guide pratique. 2009.
-\newblock
-  \url{http://www.adam-europe.eu/prj/5490/prd/6/1/Polymer\%20REACH\%20handbook_FR.pdf}.
+\bibitem[PR, 2009]{PR}
+PR (2009).
+\newblock Reach pour l'industrie des polymers. un guide pratique.
+\newblock Technical report, Polymer REACH.
 
 \bibitem[Prati et~al., 2010]{Prati2010}
 Prati, S., Joseph, E., Sciutto, G., and Mazzeo, R. (2010).
@@ -385,10 +388,6 @@ Priyanka~N, A.~T. (2011).
   microorganism : A way for brighter future.
 \newblock {\em Environment Analytic Toxicol}, 1:111.
 
-\bibitem[PW, 2016]{PW}
-PW (08 juillet 2016).
-\newblock \url{http://www.ejustice.just.fgov.be/doc/rech_f.htm}.
-
 \bibitem[Rabetafika et~al., 2006]{rabetafika2006polymeres}
 Rabetafika, H.~N., Paquot, M., and Dubois, P. (2006).
 \newblock Les polym{\`e}res issus du v{\'e}g{\'e}tal: mat{\'e}riaux {\`a}
@@ -397,11 +396,13 @@ Rabetafika, H.~N., Paquot, M., and Dubois, P. (2006).
 \newblock {\em Biotechnologie, agronomie, soci{\'e}t{\'e} et environnement},
   10(3):185--196.
 
-\bibitem[Ramone, 2015]{ramone2015evolutions}
+\bibitem[Ramone, 2015]{ramon2015}
 Ramone, A. (2015).
-\newblock Evolutions mol{\'e}culaires au cours de la d{\'e}gradation biotique
-  et abiotique de polym{\`e}res biosourc{\'e}s (pla et pbs) et fossiles (pp)
-  {\`a} l?aide de la visco{\'e}lasticit{\'e} {\`a} l?{\'e}tat fondu.
+\newblock {\em Evolutions mol{\'e}culaires au cours de la d{\'e}gradation
+  biotique et abiotique de polym{\`e}res biosourc{\'e}s (PLA et PBS) et
+  fossiles (PP) {\`a} l'aide de la visco{\'e}lasticit{\'e} {\`a} l'{\'e}tat
+  fondu}.
+\newblock PhD thesis, Clermont-Ferrand 2.
 
 \bibitem[Regnault, 1990]{regnault1990paris}
 Regnault, J. (1990).
@@ -421,13 +422,13 @@ Sangale, M.~K., Shahnawaz, M., and Ade, a.~B. (2012).
 \newblock {\em Journal of Bioremediation {\&} Biodegradation}, 3(10):1--9.
 
 \bibitem[SCF, 2016]{SCF}
-SCF (Consult\'e le 17 novembre 2016).
-\newblock Mati\`eres plastiques.
+SCF (Consult{\'e} le 17 novembre 2016).
+\newblock Mati{\`e}res plastiques.
 \newblock
   \url{http://www.societechimiquedefrance.fr/extras/Donnees/mater/plast/matplast[3].htm}.
 
-\bibitem[Schafer, 2015]{Schafer2015}
-Schafer, A. (2015).
+\bibitem[Sch{\"a}fer, 2015]{Schafer2015}
+Sch{\"a}fer, A. (2015).
 \newblock Les microplastiques dans l'environnement.
 \newblock {\em Centre Suisse d'\'ecotoxicologie appliqu\'ee}.
 
@@ -483,8 +484,8 @@ Thurston, C.~F. (1994).
 \newblock {The structure and function of fungal laccases}.
 
 \bibitem[Valorplast, 2016]{Valorplast}
-Valorplast (Consult\'e le 10 novembre 2016).
-\newblock La chimie des plastiques: l'atome aux polym\`eres.
+Valorplast (Consult{\'e} le 20 novembre 2016).
+\newblock La chimie des plastiques: l'atome aux polym{\`e}res.
 \newblock \url{http://www.valorplast.com/le-campus/lycee/option-chimie/}.
 
 \bibitem[Vermeiren et~al., 2016]{vermeiren2016sources}
@@ -508,8 +509,8 @@ Wallstr{\"{o}}m, S., Str{\"{o}}mberg, E., and Karlsson, S. (2005).
 \bibitem[Walsh, 2001]{Walsh2001}
 Walsh, J.~H. (2001).
 \newblock {Ecological considerations of biodeterioration}.
-\newblock In {\em International Biodeterioration and Biodegradation},
-  volume~48, pages 16--25.
+\newblock {\em International Biodeterioration \& Biodegradation},
+  48(1-4):16--25.
 
 \bibitem[Wang et~al., 2016]{wang2016behaviors}
 Wang, J., Tan, Z., Peng, J., Qiu, Q., and Li, M. (2016).

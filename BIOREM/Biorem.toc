@@ -40,3 +40,6 @@
 \contentsline {section}{\numberline {4}PET}{19}{section.4}
 \contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{20}{subsection.4.1}
 \contentsline {section}{\numberline {5}PS}{20}{section.5}
+\contentsline {subsection}{\numberline {5.1}Efficacit\'e de d\'egradation}{21}{subsection.5.1}
+\contentsline {section}{\numberline {6}PUR}{22}{section.6}
+\contentsline {section}{\numberline {7}Efficacit\'e de d\'egradation}{22}{section.7}

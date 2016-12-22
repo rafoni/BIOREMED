@@ -55,7 +55,13 @@
 \usepackage{longtable}
 \usepackage{afterpage}
 \usepackage[section,subsection,subsubsection]{extraplaceins}%rajouts des sections
- \usepackage[version=3]{mhchem}
+\usepackage[version=3]{mhchem}
+\usepackage{calc}
+\usepackage{ifthen}
+\usepackage{tikz}
+
+%%%<
+\usepackage{verbatim}
 
 
 \setcitestyle{square}
@@ -147,6 +153,7 @@ Dr. Isabelle \textsc{George} \\
 
 \input{introduction.tex}
 \input{Description.tex}
+\newpage
 \input{Utilisation.tex}
 \input{Dangers.tex}
 \input{Legislation.tex}
@@ -192,7 +199,7 @@ Le mécanisme global de dégradation de la lignine suit deux voies différentes. La
 \end{figure}
 
 
-Ce complexe enzymatique extracellulaire secreté lors de la dégradation de la lignine est communément appelé le système ligninolytique {\citep{Crawford1980}}. Parmi ces enzymes, le mode d'action priviliégié demeure l'utilisation de péroxidases (enzymes d'oxydation) qui aboutit à la formation de peroxyde d'hydrogène, un puissant oxydant. On retrouve aussi bien chez les bactéries que les fungi, l'emploi récurrent de lignine peroxidase (LiP), manganese peroxidase (MnP) (appelées les hèmes péroxidases) ainsi que des phénols-oxydases, au méchanisme d'action sensiblement différent, tels que les laccases utilisant le cuivre comme cofacteur {\citep{Martinez2005}}. En effet, les phénols-oxidases utilisent l'oxygène moléculaire pour oxyder des composés (non-)aromatiques tels que des phénols, par exemple, ce qui produit des des radicaux libres qui peuvent servir de substrats intermédiaires (médiateurs) à d'autres enzymes {\citep{Baldrian2006,Claus2004,Ferraroni2007,Thurston1994}}, tandis que certaines hèmes péroxidases catalysent l'oxydation d'une série de composés non-phénoliques par l'intermédiaire du péroxyde d'hydrogène, produisant des intermédiaires réactifs qui seront réarranger et qui favoriseront l'attaque microbienne {\citep{lucas2008}} (LiP), et d'autres catalysent la réduction du substrat et l'oxydation de Mn(II) en Mn(III) qui agit par la suite comme médiateur rédox lorsqu'il est chélaté pour oxyder des substrats phénolitiques {\citep{Wong2009,Dashtban2010}}.
+Ce complexe enzymatique extracellulaire secreté lors de la dégradation de la lignine est communément appelé le système ligninolytique {\citep{Crawford1980}}. Parmi ces enzymes, le mode d'action priviliégié demeure l'utilisation de péroxidases (enzymes d'oxydation) qui aboutit à la formation de peroxyde d'hydrogène, un puissant oxydant. On retrouve aussi bien chez les bactéries que les fungi, l'emploi récurrent de lignine peroxidase (LiP), manganese peroxidase (MnP) (appelées les hèmes péroxidases) ainsi que des phénols-oxydases, au méchanisme d'action sensiblement différent, tels que les laccases utilisant le cuivre comme cofacteur {\citep{Martinez2005}}. En effet, les phénols-oxidases utilisent l'oxygène moléculaire pour oxyder des composés (non-)aromatiques tels que des phénols, par exemple, ce qui produit des des radicaux libres qui peuvent servir de substrats intermédiaires (médiateurs) à d'autres enzymes {\citep{Baldrian2006,Claus2004,Ferraroni2007,Thurston1994}}, tandis que certaines hèmes péroxidases catalysent l'oxydation d'une série de composés non-phénoliques par l'intermédiaire du péroxyde d'hydrogène, produisant des intermédiaires réactifs qui seront réarrangés et qui favoriseront l'attaque microbienne {\citep{lucas2008}} (LiP), et d'autres catalysent la réduction du substrat et l'oxydation de Mn(II) en Mn(III) qui agit par la suite comme médiateur rédox lorsqu'il est chélaté pour oxyder des substrats phénolitiques {\citep{Wong2009,Dashtban2010}}.
 
 \subsubsection{Dépolymérisation spécifique - biodégradation d'un polyester}
 
@@ -336,7 +343,7 @@ Ces enzymes sont, par conséquent, des variations de lipases naturellement présen
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.8\textwidth]{pur.png}
+\includegraphics[width=0.7\textwidth]{pur.png}
 \caption {Schéma de dégradation du PUR de type polyester et sous-produits de dégradation du polymère par l'action coopérative d'esterases chez les bactéries Pseudomonas {\citep{Howard2012}}}
 \label{fig:pur}
 \end{figure}
@@ -365,10 +372,12 @@ Pour le nylon 66, il semblerait que celui-ci soit dégradable par le fungi IZU-15
 \end{table}
 \FloatBarrier
 
+\newpage
 \part{Conclusion et perspectives}
 
 La solidité, la flexibilité, la plasticité et le prix avantageux du plastique sont autant de caractéristiques qui expliquent une telle utilisation de ce matériau à travers le monde. Ces polymères sont synthétisés dans un soucis de durabilité (au sens purement technique du terme) avec des résistances chimiques et physiques prononcées. Ces propriétés font également du plastique une des premières causes de pollution dans le monde. Cette forme de matière chimiquement inerte paraît très peu compatible avec une biodégradabilité usant principalement des composés enzymatiques. Toutefois, de nombreux organismes semblent démontrer certaines aptitudes, limitées certes, à dégrader des matières plastiques. Ces dégradations présentent des rendements in vitro variables et dépendent fortement du polymère. En effet, pour certains plastiques, des taux de dégradation convaincants ont été observés sous des conditions optimales in vitro (films fin de plastiques, souches purifiées, longues incubations, température, agitation, etc.). Ces dégradations sont l'oeuvre d'enzymes extracelullaires secrétées par les microorganismes qui permettent, dans un premier temps, de morceler le polymère et d'en oxyder les produits de dégradation comme source de carbone de la respiration. Bien que les mécanismes de dégradation ne soient pas encore complètement élucidés, ces protéines représentent un espoir grandissant pour la biorémédiation des milieux contaminés par le plastique. Des études génomiques et protéomiques plus poussées devront être réalisées à l'avenir afin de créer des microorganismes génétiquement spécialisés dans la biodégradation des polymères récalcitrants. Enfin, dans un plus court terme, de nombreux polymères hybrides (synthétiques et biologiques) ont démontré des facultés de biodégradabilité accrues. Ces derniers semblent se présenter comme une alternative tangible à la substitution des plastiques synthétiques même si de plus amples études doivent être réalisées afin d'égaler parfaitement les propriétés physico-chimiques des ses équivalents purement synthétiques. 
 
+\newpage
 \bibliography{Bibliography/Plastics}
 
 \end{document}

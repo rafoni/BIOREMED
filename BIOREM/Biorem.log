@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  22 DEC 2016 15:21
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  22 DEC 2016 15:34
+>>>>>>> 0ea49e6721d99c2cdf68e3d2abc8f22b63b91342
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1328,6 +1332,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 392.
 ### simple group (level 1) entered at line 232 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  20837 strings out of 493014
  359986 string characters out of 6133350
  494554 words of memory out of 5000000
@@ -1350,6 +1355,30 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on Biorem.pdf (33 pages, 1686454 bytes).
+=======
+ 19809 strings out of 493089
+ 340072 string characters out of 6134843
+ 472705 words of memory out of 5000000
+ 22786 multiletter control sequences out of 15000+600000
+ 12400 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,14n,43p,10348b,824s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
+pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Biorem.pdf (32 pages, 1684597 bytes).
+>>>>>>> 0ea49e6721d99c2cdf68e3d2abc8f22b63b91342
 PDF statistics:
  1054 PDF objects out of 1200 (max. 8388607)
  889 compressed objects within 9 object streams

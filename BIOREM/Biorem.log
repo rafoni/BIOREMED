@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  22 DEC 2016 18:11
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  22 DEC 2016 18:34
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.21)  22 DEC 2016 21:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -882,317 +878,311 @@ istry (CN)
 \mhchem@option@minustextsidebearingleft=\dimen275
 \mhchem@option@minustextsidebearingright=\dimen276
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+(./pgf-pie.sty
+Package: pgf-pie 2011/10/02 v0.2 Some LaTeX macros for pie chart by using PGF/T
+ikz package.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
-\pgfutil@everybye=\toks37
-\pgfutil@tempdima=\dimen221
-\pgfutil@tempdimb=\dimen222
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen277
+\pgfutil@tempdimb=\dimen278
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box58
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
-Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
- (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks38
-\pgfkeys@temptoks=\toks39
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
 ode.tex
-\pgfkeys@tmptoks=\toks40
+\pgfkeys@tmptoks=\toks41
 ))
-\pgf@x=\dimen223
-\pgf@y=\dimen224
-\pgf@xa=\dimen225
-\pgf@ya=\dimen226
-\pgf@xb=\dimen227
-\pgf@yb=\dimen228
-\pgf@xc=\dimen229
-\pgf@yc=\dimen230
+\pgf@x=\dimen279
+\pgf@y=\dimen280
+\pgf@xa=\dimen281
+\pgf@ya=\dimen282
+\pgf@xb=\dimen283
+\pgf@yb=\dimen284
+\pgf@xc=\dimen285
+\pgf@yc=\dimen286
 \w@pgf@writea=\write5
 \r@pgf@reada=\read1
-\c@pgf@counta=\count225
-\c@pgf@countb=\count226
-\c@pgf@countc=\count227
-\c@pgf@countd=\count228
-\t@pgf@toka=\toks41
-\t@pgf@tokb=\toks42
-\t@pgf@tokc=\toks43
+\c@pgf@counta=\count291
+\c@pgf@countb=\count292
+\c@pgf@countc=\count293
+\c@pgf@countd=\count294
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
 ef
-File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
 df.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count229
-\pgfsyssoftpath@bigbuffer@items=\count230
+\pgfsyssoftpath@smallbuffer@items=\count295
+\pgfsyssoftpath@bigbuffer@items=\count296
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen231
-\pgfmath@count=\count231
-\pgfmath@box=\box59
-\pgfmath@toks=\toks44
-\pgfmath@stack@operand=\toks45
-\pgfmath@stack@operation=\toks46
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen287
+\pgfmath@count=\count297
+\pgfmath@box=\box60
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
 tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
 .code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
 nometric.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
 m.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
 rison.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
 code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
 .code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
 code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count232
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count298
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen232
-\pgf@picmaxx=\dimen233
-\pgf@picminy=\dimen256
-\pgf@picmaxy=\dimen257
-\pgf@pathminx=\dimen258
-\pgf@pathmaxx=\dimen259
-\pgf@pathminy=\dimen260
-\pgf@pathmaxy=\dimen261
-\pgf@xx=\dimen262
-\pgf@xy=\dimen263
-\pgf@yx=\dimen264
-\pgf@yy=\dimen265
-\pgf@zx=\dimen266
-\pgf@zy=\dimen267
+\pgf@picminx=\dimen288
+\pgf@picmaxx=\dimen289
+\pgf@picminy=\dimen290
+\pgf@picmaxy=\dimen291
+\pgf@pathminx=\dimen292
+\pgf@pathmaxx=\dimen293
+\pgf@pathminy=\dimen294
+\pgf@pathmaxy=\dimen295
+\pgf@xx=\dimen296
+\pgf@xy=\dimen297
+\pgf@yx=\dimen298
+\pgf@yy=\dimen299
+\pgf@zx=\dimen300
+\pgf@zy=\dimen301
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen268
-\pgf@path@lasty=\dimen269
+\pgf@path@lastx=\dimen302
+\pgf@path@lasty=\dimen303
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
-File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
-\pgf@shorten@end@additional=\dimen270
-\pgf@shorten@start@additional=\dimen271
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen304
+\pgf@shorten@start@additional=\dimen305
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
-File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
-\pgfpic=\box60
-\pgf@hbox=\box61
-\pgf@layerbox@main=\box62
-\pgf@picture@serial@count=\count233
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count299
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
-File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
-\pgflinewidth=\dimen272
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen306
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
-File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
-\pgf@pt@x=\dimen273
-\pgf@pt@y=\dimen274
-\pgf@pt@temp=\dimen275
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen307
+\pgf@pt@y=\dimen308
+\pgf@pt@temp=\dimen309
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
 ode.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
 ssing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
-File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
-\pgfarrowsep=\dimen276
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen310
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen277
-\pgf@sys@shading@range@num=\count266
+\pgf@max=\dimen311
+\pgf@sys@shading@range@num=\count300
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
 code.tex
-File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
-\pgfexternal@startupbox=\box63
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box64
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
 de.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
 ncy.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
 code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
 e.tex
-File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
-\pgfnodeparttextbox=\box64
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box65
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
 tex
-File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen278
-\pgf@nodesepend=\dimen279
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen312
+\pgf@nodesepend=\dimen313
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen280
-\pgffor@skip=\dimen281
-\pgffor@stack=\toks47
-\pgffor@toks=\toks48
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen314
+\pgffor@skip=\dimen315
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
 e.tex
-Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
-\pgf@plot@mark@count=\count267
-\pgfplotmarksize=\dimen282
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count301
+\pgfplotmarksize=\dimen316
 )
-\tikz@lastx=\dimen283
-\tikz@lasty=\dimen284
-\tikz@lastxsaved=\dimen285
-\tikz@lastysaved=\dimen286
-\tikzleveldistance=\dimen287
-\tikzsiblingdistance=\dimen288
-\tikz@figbox=\box65
-\tikz@figbox@bg=\box66
-\tikz@tempbox=\box67
-\tikz@tempbox@bg=\box68
-\tikztreelevel=\count268
-\tikznumberofchildren=\count269
-\tikznumberofcurrentchild=\count270
-\tikz@fig@count=\count271
+\tikz@lastx=\dimen317
+\tikz@lasty=\dimen318
+\tikz@lastxsaved=\dimen319
+\tikz@lastysaved=\dimen320
+\tikzleveldistance=\dimen321
+\tikzsiblingdistance=\dimen322
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count272
-\pgfmatrixcurrentcolumn=\count273
-\pgf@matrix@numberofcolumns=\count274
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
 )
-\tikz@expandcount=\count275
+\tikz@expandcount=\count309
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
+\pgfpie@angleEnd=\skip92
+\c@pgfpie@explodeLength=\count310
+\c@pgfpie@colorLength=\count311
+\c@pgfpie@sliceLength=\count312
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings
+.code.tex
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+))) (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks49
-\verbatim@line=\toks50
+\every@verbatim=\toks50
+\verbatim@line=\toks51
 \verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybabel.code.tex
+File: tikzlibrarybabel.code.tex 2013/06/24 v3.0.1a (rcs-revision 1.1)
 ) (./Biorem.aux
-
-./Biorem.aux:264: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.264 <
-       <<<<<< HEAD
-? 
-
-LaTeX Warning: Label `diffpoly' multiply defined.
-
 
 LaTeX Warning: Label `diffpoly' multiply defined.
 
 )
 \openout1 = `Biorem.aux'.
 
-<<<<<<< HEAD
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 63.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
-=======
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
@@ -1207,8 +1197,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 69.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 69.
@@ -1264,53 +1253,23 @@ Package frenchb.ldf Warning: OT1 encoding should not be used for French.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-Overfull \hbox (142.72191pt too wide) in paragraph at lines 264--13
-[]\OT1/cmr/m/n/10.95 <<<<<<< HEAD     =======   >>>>>>> 7fcabc1805f11b2bb5e5bdc
-806cfc2ab23a5be64                                                              
-                                              [][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--13
-
- []
-
 [Loading MPS to PDF converter (version 2006.09.02).]
-<<<<<<< HEAD
-\scratchcounter=\count291
-\scratchdimen=\dimen277
-\scratchbox=\box59
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen278
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count313
+\scratchdimen=\dimen323
+\scratchbox=\box70
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen324
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks53
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-=======
-\scratchcounter=\count276
-\scratchdimen=\dimen289
-\scratchbox=\box69
-\nofMPsegments=\count277
-\nofMParguments=\count278
-\everyMPshowfont=\toks51
-\MPscratchCnt=\count279
-\MPscratchDim=\dimen290
-\MPnumerator=\count280
-\makeMPintoPDFobject=\count281
-\everyMPtoPDFconversion=\toks52
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
@@ -1322,8 +1281,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-<<<<<<< HEAD
-\AtBeginShipoutBox=\box60
+\AtBeginShipoutBox=\box71
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
@@ -1333,11 +1291,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Link coloring OFF on input line 63.
-=======
-\AtBeginShipoutBox=\box70
 Package hyperref Info: Link coloring OFF on input line 69.
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1345,11 +1299,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-<<<<<<< HEAD
-\c@section@level=\count297
-=======
-\c@section@level=\count282
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+\c@section@level=\count319
 )
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
@@ -1364,45 +1314,26 @@ LaTeX Info: Redefining \nameref on input line 69.
 . 
 . Activating mapping `default' on line 69.
 .................................................
- [1
 
-<<<<<<< HEAD
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <Pictur
-es/ULB.jpeg, id=182, 788.4657pt x 119.2455pt>
-File: Pictures/ULB.jpeg Graphic file (type jpg)
-
-<use Pictures/ULB.jpeg>
-Package pdftex.def Info: Pictures/ULB.jpeg used on input line 72.
-=======
-<Pictures/ULB.jpeg, id=179, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=204, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
 Package pdftex.def Info: Pictures/ULB.jpeg used on input line 78.
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 (pdftex.def)             Requested size: 507.88533pt x 76.81358pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Pictu
+res/ULB.jpeg>] (./Biorem.tocpdfTeX warning (ext4): destination with the same id
+entifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.112 \end{titlepage}
-                      [1 <./Pictures/ULB.jpeg>] (./Biorem.tocpdfTeX warning (ex
-t4): destination with the same identifier (name{page.1}) has been already used,
- duplicate ignored
-<to be read again> 
-                   \relax 
-<<<<<<< HEAD
-l.27 ...adation par oxydation}{13}{subsection.1.3}
-                                                   [1] [2])
-\tf@toc=\write6
-\openout6 = `Biorem.toc'.
-=======
 l.27 ...adation par oxydation}{14}{subsection.1.3}
                                                    [1])
 \tf@toc=\write7
 \openout7 = `Biorem.toc'.
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 
- [3] [4]
+ [2] [3]
 (./introduction.tex
 Underfull \hbox (badness 10000) in paragraph at lines 5--7
 
@@ -1428,36 +1359,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
 
  []
 
-) (./Description.tex [5
+) (./Description.tex [4
 
 ]
-<<<<<<< HEAD
-<Pictures/Structurepoly.png, id=286, 295.3434pt x 149.8398pt>
-=======
-<Pictures/Structurepoly.png, id=269, 295.3434pt x 149.8398pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/Structurepoly.png, id=293, 295.3434pt x 149.8398pt>
 File: Pictures/Structurepoly.png Graphic file (type png)
 
 <use Pictures/Structurepoly.png>
 Package pdftex.def Info: Pictures/Structurepoly.png used on input line 10.
 (pdftex.def)             Requested size: 236.27502pt x 119.87198pt.
 
-<<<<<<< HEAD
-<Pictures/Chainepoly.png, id=290, 267.399pt x 98.769pt>
-=======
-<Pictures/Chainepoly.png, id=273, 267.399pt x 98.769pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/Chainepoly.png, id=297, 267.399pt x 98.769pt>
 File: Pictures/Chainepoly.png Graphic file (type png)
 
 <use Pictures/Chainepoly.png>
 Package pdftex.def Info: Pictures/Chainepoly.png used on input line 21.
 (pdftex.def)             Requested size: 213.91948pt x 79.01529pt.
 
-<<<<<<< HEAD
-<Pictures/poly3d.png, id=297, 333.8874pt x 132.0132pt>
-=======
-<Pictures/poly3d.png, id=280, 333.8874pt x 132.0132pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/poly3d.png, id=304, 333.8874pt x 132.0132pt>
 File: Pictures/poly3d.png Graphic file (type png)
 
 <use Pictures/poly3d.png>
@@ -1467,43 +1386,62 @@ Package pdftex.def Info: Pictures/poly3d.png used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<<<<<<< HEAD
-[6 <./Pictures/Structurepoly.png> <./Pictures/Chainepoly.png>])
-(./Utilisation.texpdfTeX warning (ext4): destination with the same identifier (
-name{section.1}) has been already used, duplicate ignored
-=======
 [5 <./Pictures/Structurepoly.png> <./Pictures/Chainepoly.png>]) [6 <./Pictures/
 poly3d.png>] (./Utilisation.texpdfTeX warning (ext4): destination with the same
  identifier (name{section.1}) has been already used, duplicate ignored
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 <to be read again> 
                    \relax 
 l.3 \section{Utilisation du plastique}
                                       
-<<<<<<< HEAD
-<Pictures/Secteurs.png, id=321, 330.5148pt x 120.9318pt>
-File: Pictures/Secteurs.png Graphic file (type png)
-
-<use Pictures/Secteurs.png>
-Package pdftex.def Info: Pictures/Secteurs.png used on input line 10.
-(pdftex.def)             Requested size: 330.51398pt x 120.93149pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <./Pictures/poly3d.png>]
-<Pictures/Diffpoly.png, id=336, 455.301pt x 441.3288pt>
-=======
-\cyclecount=\count283
-\ind=\count284
-Missing character: There is no ; in font nullfont!
-
-<Pictures/Diffpoly.png, id=318, 455.301pt x 441.3288pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+Runaway argument?
+./Utilisation.tex:139: Paragraph ended before \pgfkeys@addpath was complete.
+<to be read again> 
+                   \par 
+l.139 ...reen,61/blue,79/red,51/orange,144/yellow}
+                                                  
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+./Utilisation.tex:139: Missing \endcsname inserted.
+<to be read again> 
+                   \par 
+l.139 ...reen,61/blue,79/red,51/orange,144/yellow}
+                                                  
+? 
+./Utilisation.tex:139: Missing \endcsname inserted.
+<to be read again> 
+                   \par 
+l.139 ...reen,61/blue,79/red,51/orange,144/yellow}
+                                                  
+? 
+Runaway argument?
+./Utilisation.tex:139: Paragraph ended before \pgfkeys@splitter was complete.
+<to be read again> 
+                   \par 
+l.139 ...reen,61/blue,79/red,51/orange,144/yellow}
+                                                  
+? 
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+<Pictures/Diffpoly.png, id=357, 455.301pt x 441.3288pt>
 File: Pictures/Diffpoly.png Graphic file (type png)
 
 <use Pictures/Diffpoly.png>
-Package pdftex.def Info: Pictures/Diffpoly.png used on input line 54.
+Package pdftex.def Info: Pictures/Diffpoly.png used on input line 161.
 (pdftex.def)             Requested size: 364.24129pt x 353.0635pt.
 
 
@@ -1513,25 +1451,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 ) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.28 \section{Production du plastique}
-                                       [8 <./Pictures/Secteurs.png> <./Pictures
-/Diffpoly.png>] <Pictures/Fabrication.png, id=355, 283.7802pt x 271.7352pt>
-=======
-l.60 \section{Production du plastique}
-                                      
-<Pictures/Fabrication.png, id=334, 283.7802pt x 271.7352pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+l.167 \section{Production du plastique}
+                                       
+<Pictures/Fabrication.png, id=372, 283.7802pt x 271.7352pt>
 File: Pictures/Fabrication.png Graphic file (type png)
 
 <use Pictures/Fabrication.png>
-Package pdftex.def Info: Pictures/Fabrication.png used on input line 67.
+Package pdftex.def Info: Pictures/Fabrication.png used on input line 174.
 (pdftex.def)             Requested size: 283.7795pt x 271.73451pt.
-<<<<<<< HEAD
- [9 <./Pictures/Fabrication.png>]) (./Dangers.texpdfTeX warning (ext4): destina
-tion with the same identifier (name{section.1}) has been already used, duplicat
-e ignored
-=======
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1539,7 +1466,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [8 <./Pictures/Diffpoly.png>] [9 <./Pictures/Fabrication.png>]) (./Dangers.texp
 dfTeX warning (ext4): destination with the same identifier (name{section.1}) ha
 s been already used, duplicate ignored
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 <to be read again> 
                    \relax 
 l.6 \section{Impact sur le littoral et les océans}
@@ -1555,11 +1481,7 @@ l.10 \section{Enchev\^etrement}
                    \relax 
 l.14 \section{Ingestion}
                          [11]
-<<<<<<< HEAD
-<Pictures/Effets.png, id=447, 360.8682pt x 250.0542pt>
-=======
-<Pictures/Effets.png, id=432, 360.8682pt x 250.0542pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/Effets.png, id=471, 360.8682pt x 250.0542pt>
 File: Pictures/Effets.png Graphic file (type png)
 
 <use Pictures/Effets.png>
@@ -1576,15 +1498,9 @@ destination with the same identifier (name{section.2}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.157 \section{Biodégradation des biopolymères}
-                                                [14]
-Underfull \hbox (badness 10000) in paragraph at lines 181--185
-=======
 l.164 \section{Biodégradation des biopolymères}
                                                 [14]
 Underfull \hbox (badness 10000) in paragraph at lines 188--192
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 
  []
 
@@ -1594,22 +1510,14 @@ Overfull \hbox (3.5484pt too wide) in paragraph at lines 188--192
 t deux voies diff^^Serentes. La premi^^Rere est non-enzymatique
  []
 
-<<<<<<< HEAD
-[15] <Pictures/Lign.png, id=568, 508.90125pt x 626.34pt>
-=======
-[15] <Pictures/Lign.png, id=554, 508.90125pt x 626.34pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+[15] <Pictures/Lign.png, id=593, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
 
 <use Pictures/Lign.png>
 Package pdftex.def Info: Pictures/Lign.png used on input line 196.
 (pdftex.def)             Requested size: 253.94266pt x 312.548pt.
 
-<<<<<<< HEAD
-<Pictures/polye.png, id=595, 518.93875pt x 613.29124pt>
-=======
-<Pictures/polye.png, id=581, 518.93875pt x 613.29124pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/polye.png, id=620, 518.93875pt x 613.29124pt>
 File: Pictures/polye.png Graphic file (type png)
 
 <use Pictures/polye.png>
@@ -1625,33 +1533,20 @@ on des en-zymes li-gno-ly-tiques, cer-tains mi-croor-ga-nismes s^^Secr^^Retent
 tifier (name{section.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.209 \section{PE}
-=======
 l.216 \section{PE}
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
                    [17 <./Pictures/polye.png>]pdfTeX warning (ext4): destinatio
 n with the same identifier (name{subsection.3.1}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.214 ...e dégradation et produits de dégradation}
-=======
 l.221 ...e dégradation et produits de dégradation}
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
                                                    [18]pdfTeX warning (ext4): d
 estination with the same identifier (name{section.4}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-<<<<<<< HEAD
-l.268 \section{PET}
-                    [19] <Pictures/PET.png, id=775, 350.30875pt x 395.4775pt>
-=======
 l.275 \section{PET}
-                    [19] <Pictures/PET.png, id=762, 350.30875pt x 395.4775pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+                    [19] <Pictures/PET.png, id=800, 350.30875pt x 395.4775pt>
 File: Pictures/PET.png Graphic file (type png)
 
 <use Pictures/PET.png>
@@ -1667,11 +1562,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 296--300
 
  []
 
-<<<<<<< HEAD
-<Pictures/psgut.png, id=804, 658.46pt x 409.53pt>
-=======
-<Pictures/psgut.png, id=791, 658.46pt x 409.53pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/psgut.png, id=829, 658.46pt x 409.53pt>
 File: Pictures/psgut.png Graphic file (type png)
  <use Pictures/psgut.png>
 Package pdftex.def Info: Pictures/psgut.png used on input line 303.
@@ -1688,38 +1579,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 337--343
  []
 
 [22 <./Pictures/psgut.png>]
-<<<<<<< HEAD
-<Pictures/pur.png, id=878, 741.77126pt x 326.21875pt>
-=======
-<Pictures/pur.png, id=865, 741.77126pt x 326.21875pt>
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+<Pictures/pur.png, id=903, 741.77126pt x 326.21875pt>
 File: Pictures/pur.png Graphic file (type png)
  <use Pictures/pur.png>
 Package pdftex.def Info: Pictures/pur.png used on input line 346.
 (pdftex.def)             Requested size: 355.51817pt x 156.35423pt.
 
-<<<<<<< HEAD
-[23 <./Pictures/pur.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 350--354
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--354
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 357--359
-
- []
-
-<Pictures/polyamides.png, id=915, 731.73375pt x 353.32pt>
-File: Pictures/polyamides.png Graphic file (type png)
-
-<use Pictures/polyamides.png>
-Package pdftex.def Info: Pictures/polyamides.png used on input line 362.
-=======
 Underfull \hbox (badness 10000) in paragraph at lines 357--361
 
  []
@@ -1734,22 +1599,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 364--366
 
  []
 
-<Pictures/polyamides.png, id=901, 731.73375pt x 353.32pt>
+<Pictures/polyamides.png, id=939, 731.73375pt x 353.32pt>
 File: Pictures/polyamides.png Graphic file (type png)
 
 <use Pictures/polyamides.png>
 Package pdftex.def Info: Pictures/polyamides.png used on input line 369.
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 (pdftex.def)             Requested size: 365.86598pt x 176.65956pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<<<<<<< HEAD
-[24] (./Biorem.bbl [25 <./Pictures/polyamides.png>] [26]
-=======
 [24] [25 <./Pictures/polyamides.png>] (./Biorem.bbl [26]
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 Underfull \hbox (badness 5741) in paragraph at lines 178--182
 []\OT1/cmr/m/n/10.95 Greenpeace (Consult^^Se le 12 no-vembre 2016).  D^^Sebris 
 plas-tiques et pol-lu-tion des oc^^Seans.
@@ -1761,33 +1621,19 @@ Underfull \hbox (badness 7451) in paragraph at lines 178--182
 npeace . org / luxembourg / Global / luxembourg / report / 2007 / 2 /
  []
 
-<<<<<<< HEAD
-[27] [28] [29] [30] [31])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 374.
- [32]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 374.
- (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 374.
-=======
 [27] [28] [29] [30] [31]) [32]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
  (./Biorem.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
 (rerunfilecheck)             Checksum: 226E3975E6083C47DE0F9580E5D104D8;3508.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 374.
-=======
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
  )
 (\end occurred inside a group at level 4)
 
@@ -1797,14 +1643,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
 ### simple group (level 1) entered at line 4 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
- 20831 strings out of 493014
- 359806 string characters out of 6133350
- 493600 words of memory out of 5000000
- 23863 multiletter control sequences out of 15000+600000
+ 30673 strings out of 493014
+ 576035 string characters out of 6133350
+ 676846 words of memory out of 5000000
+ 33491 multiletter control sequences out of 15000+600000
  12400 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,14n,44p,10348b,840s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,14n,78p,10365b,950s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1819,40 +1664,10 @@ pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (34 pages, 1657786 bytes).
+Output written on Biorem.pdf (33 pages, 1631462 bytes).
 PDF statistics:
- 1063 PDF objects out of 1200 (max. 8388607)
- 898 compressed objects within 9 object streams
+ 1089 PDF objects out of 1200 (max. 8388607)
+ 903 compressed objects within 10 object streams
  199 named destinations out of 1000 (max. 500000)
- 439 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
- 29346 strings out of 493089
- 549195 string characters out of 6134843
- 644851 words of memory out of 5000000
- 32124 multiletter control sequences out of 15000+600000
- 12705 words of font info for 45 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 55i,14n,55p,10365b,908s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmcsc10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
-sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></us
-r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr
-/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (33 pages, 1636247 bytes).
-PDF statistics:
- 1053 PDF objects out of 1200 (max. 8388607)
- 890 compressed objects within 9 object streams
- 199 named destinations out of 1000 (max. 500000)
- 446 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
+ 584 words of extra memory for PDF output out of 10000 (max. 10000000)
 

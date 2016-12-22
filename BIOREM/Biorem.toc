@@ -1,17 +1,9 @@
 \select@language {french}
-<<<<<<< HEAD
-\contentsline {section}{Liste des abr\'eviations et acronymes}{4}{section*.2}
-\contentsline {part}{I\hspace {1em}Introduction}{5}{part.1}
-\contentsline {part}{II\hspace {1em}Description du plastique}{5}{part.2}
-\contentsline {section}{\numberline {1}Caract\'eristiques chimiques}{6}{section.1}
-\contentsline {section}{\numberline {2}Caract\'eristiques physiques}{7}{section.2}
-=======
 \contentsline {section}{Liste des abr\'eviations et acronymes}{3}{section*.2}
 \contentsline {part}{I\hspace {1em}Introduction}{4}{part.1}
 \contentsline {part}{II\hspace {1em}Description du plastique}{4}{part.2}
 \contentsline {section}{\numberline {1}Caract\'eristiques chimiques}{5}{section.1}
 \contentsline {section}{\numberline {2}Caract\'eristiques physiques}{6}{section.2}
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 \contentsline {part}{III\hspace {1em}Utilisation, production, sources de pollution et types d'environnements contamin\'es}{7}{part.3}
 \contentsline {section}{\numberline {1}Utilisation du plastique}{7}{section.1}
 \contentsline {section}{\numberline {2}Production du plastique}{8}{section.2}
@@ -25,11 +17,7 @@
 \contentsline {section}{\numberline {2}Enchev\^etrement}{11}{section.2}
 \contentsline {section}{\numberline {3}Ingestion}{11}{section.3}
 \contentsline {section}{\numberline {4}Ingestion de polluants organiques persistants (POP)}{11}{section.4}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {5}Les additifs}{12}{section.5}
-=======
 \contentsline {section}{\numberline {5}Les additifs}{11}{section.5}
->>>>>>> 10d3a4fa5a86ea58055fd47709251fc5a7b9c69f
 \contentsline {section}{\numberline {6}Invasion potentielle d'esp\`eces \'etrang\`eres}{12}{section.6}
 \contentsline {part}{V\hspace {1em}Aspects l\'egislatifs}{13}{part.5}
 \contentsline {part}{VI\hspace {1em}Bior\'em\'ediation des milieux contamin\'es}{13}{part.6}

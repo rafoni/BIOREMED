@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  22 DEC 2016 15:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  22 DEC 2016 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1012,7 +1012,7 @@ LaTeX Info: Redefining \nameref on input line 63.
 . Activating mapping `default' on line 63.
 .................................................
 
-<Pictures/ULB.jpeg, id=176, 788.4657pt x 119.2455pt>
+<Pictures/ULB.jpeg, id=172, 788.4657pt x 119.2455pt>
 File: Pictures/ULB.jpeg Graphic file (type jpg)
  <use Pictures/ULB.jpeg>
 Package pdftex.def Info: Pictures/ULB.jpeg used on input line 72.
@@ -1025,7 +1025,7 @@ res/ULB.jpeg>] (./Biorem.tocpdfTeX warning (ext4): destination with the same id
 entifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.27 ...dation thermique}{13}{subsubsection.1.1.2}
+l.27 ...adation par oxydation}{13}{subsection.1.3}
                                                    [1])
 \tf@toc=\write6
 \openout6 = `Biorem.toc'.
@@ -1059,21 +1059,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
 ) (./Description.tex [4
 
 ]
-<Pictures/Structurepoly.png, id=266, 295.3434pt x 149.8398pt>
+<Pictures/Structurepoly.png, id=261, 295.3434pt x 149.8398pt>
 File: Pictures/Structurepoly.png Graphic file (type png)
 
 <use Pictures/Structurepoly.png>
 Package pdftex.def Info: Pictures/Structurepoly.png used on input line 10.
 (pdftex.def)             Requested size: 236.27502pt x 119.87198pt.
 
-<Pictures/Chainepoly.png, id=270, 267.399pt x 98.769pt>
+<Pictures/Chainepoly.png, id=265, 267.399pt x 98.769pt>
 File: Pictures/Chainepoly.png Graphic file (type png)
 
 <use Pictures/Chainepoly.png>
 Package pdftex.def Info: Pictures/Chainepoly.png used on input line 21.
 (pdftex.def)             Requested size: 213.91948pt x 79.01529pt.
 
-<Pictures/poly3d.png, id=277, 333.8874pt x 132.0132pt>
+<Pictures/poly3d.png, id=272, 333.8874pt x 132.0132pt>
 File: Pictures/poly3d.png Graphic file (type png)
 
 <use Pictures/poly3d.png>
@@ -1090,7 +1090,7 @@ name{section.1}) has been already used, duplicate ignored
                    \relax 
 l.3 \section{Utilisation du plastique}
                                       
-<Pictures/Secteurs.png, id=300, 330.5148pt x 120.9318pt>
+<Pictures/Secteurs.png, id=295, 330.5148pt x 120.9318pt>
 File: Pictures/Secteurs.png Graphic file (type png)
 
 <use Pictures/Secteurs.png>
@@ -1101,7 +1101,7 @@ Package pdftex.def Info: Pictures/Secteurs.png used on input line 10.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6 <./Pictures/poly3d.png>]
-<Pictures/Diffpoly.png, id=317, 455.301pt x 441.3288pt>
+<Pictures/Diffpoly.png, id=312, 455.301pt x 441.3288pt>
 File: Pictures/Diffpoly.png Graphic file (type png)
 
 <use Pictures/Diffpoly.png>
@@ -1113,7 +1113,7 @@ as been already used, duplicate ignored
                    \relax 
 l.28 \section{Production du plastique}
                                        [7 <./Pictures/Secteurs.png> <./Pictures
-/Diffpoly.png>] <Pictures/Fabrication.png, id=336, 283.7802pt x 271.7352pt>
+/Diffpoly.png>] <Pictures/Fabrication.png, id=331, 283.7802pt x 271.7352pt>
 File: Pictures/Fabrication.png Graphic file (type png)
 
 <use Pictures/Fabrication.png>
@@ -1137,78 +1137,78 @@ l.10 \section{Enchev\^etrement}
                    \relax 
 l.14 \section{Ingestion}
                          [10]
-<Pictures/Effets.png, id=426, 360.8682pt x 250.0542pt>
+<Pictures/Effets.png, id=421, 360.8682pt x 250.0542pt>
 File: Pictures/Effets.png Graphic file (type png)
 
 <use Pictures/Effets.png>
 Package pdftex.def Info: Pictures/Effets.png used on input line 29.
 (pdftex.def)             Requested size: 360.86731pt x 250.05357pt.
-) (./Legislation.tex [11 <./Pictures/Effets.png>])pdfTeX warning (ext4): destin
-ation with the same identifier (name{section.1}) has been already used, duplica
-te ignored
+) (./Legislation.tex [11 <./Pictures/Effets.png>])
+(./Abiotique.texpdfTeX warning (ext4): destination with the same identifier (na
+me{section.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.156 ...ultés liés à la dégradation du plastique}
-                                                   (./Abiotique.tex [12])pdfTeX
- warning (ext4): destination with the same identifier (name{section.2}) has bee
-n already used, duplicate ignored
+l.1 ...ion{D\'egradation abiotique des plastiques}
+                                                   [12])pdfTeX warning (ext4): 
+destination with the same identifier (name{section.2}) has been already used, d
+uplicate ignored
 <to be read again> 
                    \relax 
-l.158 \section{Biodégradation des biopolymères}
+l.157 \section{Biodégradation des biopolymères}
                                                 [13] [14]
-<Pictures/Lignol.png, id=551, 592.2125pt x 338.26375pt>
+<Pictures/Lignol.png, id=546, 592.2125pt x 338.26375pt>
 File: Pictures/Lignol.png Graphic file (type png)
 
 <use Pictures/Lignol.png>
-Package pdftex.def Info: Pictures/Lignol.png used on input line 188.
+Package pdftex.def Info: Pictures/Lignol.png used on input line 187.
 (pdftex.def)             Requested size: 355.51817pt x 203.07335pt.
 
-Overfull \hbox (3.5484pt too wide) in paragraph at lines 193--194
+Overfull \hbox (3.5484pt too wide) in paragraph at lines 192--193
 []\OT1/cmr/m/n/10.95 Le m^^Secanisme glo-bal de d^^Segradation de la li-gnine s
 uit deux voies diff^^Serentes. La premi^^Rere est non-enzymatique
  []
 
-<Pictures/Lign.png, id=557, 508.90125pt x 626.34pt>
+<Pictures/Lign.png, id=552, 508.90125pt x 626.34pt>
 File: Pictures/Lign.png Graphic file (type png)
  <use Pictures/Lign.png>
-Package pdftex.def Info: Pictures/Lign.png used on input line 198.
+Package pdftex.def Info: Pictures/Lign.png used on input line 197.
 (pdftex.def)             Requested size: 253.94266pt x 312.548pt.
 
 [15 <./Pictures/Lignol.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 204--213
+Underfull \hbox (badness 10000) in paragraph at lines 203--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--213
+Underfull \hbox (badness 10000) in paragraph at lines 203--212
 
  []
 
 
-Overfull \hbox (19.38824pt too wide) in paragraph at lines 204--213
+Overfull \hbox (19.38824pt too wide) in paragraph at lines 203--212
 \OT1/cmr/m/n/10.95 Ces oxydo-r^^Seductases gly-co-syl^^Sees uti-lisent de l'oxy
 g^^Rene mol^^Seculaire pour oxy-der des com-pos^^Ses (non-)aromatiques
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--213
+Underfull \hbox (badness 10000) in paragraph at lines 203--212
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--213
+Underfull \hbox (badness 10000) in paragraph at lines 203--212
 
  []
 
 [16 <./Pictures/Lign.png>]
-<Pictures/polye.png, id=607, 518.93875pt x 613.29124pt>
+<Pictures/polye.png, id=602, 518.93875pt x 613.29124pt>
 File: Pictures/polye.png Graphic file (type png)
 
 <use Pictures/polye.png>
-Package pdftex.def Info: Pictures/polye.png used on input line 224.
+Package pdftex.def Info: Pictures/polye.png used on input line 223.
 (pdftex.def)             Requested size: 253.94266pt x 300.1223pt.
 
-Overfull \hbox (7.04024pt too wide) in paragraph at lines 220--227
+Overfull \hbox (7.04024pt too wide) in paragraph at lines 219--226
 []\OT1/cmr/m/n/10.95 De mani^^Rere sen-si-ble-ment iden-tique ^^Ra l'excr^^Seti
 on des en-zymes li-gno-ly-tiques, cer-tains mi-croor-ga-nismes s^^Secr^^Retent
  []
@@ -1217,67 +1217,76 @@ on des en-zymes li-gno-ly-tiques, cer-tains mi-croor-ga-nismes s^^Secr^^Retent
 ntifier (name{section.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.230 \section{PE}
+l.229 \section{PE}
                   pdfTeX warning (ext4): destination with the same identifier (
 name{subsection.3.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.235 ...e dégradation et produits de dégradation}
+l.234 ...e dégradation et produits de dégradation}
                                                    [18] [19]pdfTeX warning (ext
 4): destination with the same identifier (name{section.4}) has been already use
 d, duplicate ignored
 <to be read again> 
                    \relax 
-l.289 \section{PET}
-                    <Pictures/PET.png, id=764, 350.30875pt x 395.4775pt>
+l.288 \section{PET}
+                    <Pictures/PET.png, id=758, 350.30875pt x 395.4775pt>
 File: Pictures/PET.png Graphic file (type png)
 
 <use Pictures/PET.png>
-Package pdftex.def Info: Pictures/PET.png used on input line 299.
+Package pdftex.def Info: Pictures/PET.png used on input line 298.
 (pdftex.def)             Requested size: 253.94266pt x 286.69272pt.
  [20]pdfTeX warning (ext4): destination with the same identifier (name{section.
 5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.308 \section{PS}
+l.307 \section{PS}
                   
-Underfull \hbox (badness 10000) in paragraph at lines 310--314
+Underfull \hbox (badness 10000) in paragraph at lines 309--313
 
  []
 
-[21 <./Pictures/PET.png>] <Pictures/psgut.png, id=801, 658.46pt x 409.53pt>
+[21 <./Pictures/PET.png>] <Pictures/psgut.png, id=796, 658.46pt x 409.53pt>
 File: Pictures/psgut.png Graphic file (type png)
 
 <use Pictures/psgut.png>
-Package pdftex.def Info: Pictures/psgut.png used on input line 317.
+Package pdftex.def Info: Pictures/psgut.png used on input line 316.
 (pdftex.def)             Requested size: 304.73428pt x 189.52963pt.
  [22 <./Pictures/psgut.png>]pdfTeX warning (ext4): destination with the same id
 entifier (name{section.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.349 \section{PUR}
+l.348 \section{PUR}
                    
-Underfull \hbox (badness 10000) in paragraph at lines 351--357
+Underfull \hbox (badness 10000) in paragraph at lines 350--356
 
  []
 
-<Pictures/pur.png, id=864, 741.77126pt x 326.21875pt>
+<Pictures/pur.png, id=859, 741.77126pt x 326.21875pt>
 File: Pictures/pur.png Graphic file (type png)
  <use Pictures/pur.png>
-Package pdftex.def Info: Pictures/pur.png used on input line 360.
+Package pdftex.def Info: Pictures/pur.png used on input line 359.
 (pdftex.def)             Requested size: 406.3098pt x 178.68913pt.
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 374--376
+Underfull \hbox (badness 10000) in paragraph at lines 369--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--375
 
  []
 
 [24 <./Pictures/pur.png>]
-<Pictures/polyamides.png, id=906, 731.73375pt x 353.32pt>
+Underfull \hbox (badness 10000) in paragraph at lines 378--380
+
+ []
+
+<Pictures/polyamides.png, id=908, 731.73375pt x 353.32pt>
 File: Pictures/polyamides.png Graphic file (type png)
 
 <use Pictures/polyamides.png>
-Package pdftex.def Info: Pictures/polyamides.png used on input line 379.
+Package pdftex.def Info: Pictures/polyamides.png used on input line 383.
 (pdftex.def)             Requested size: 365.86598pt x 176.65956pt.
  (./Biorem.bbl [25 <./Pictures/polyamides.png>]
 [26]
@@ -1292,35 +1301,35 @@ Underfull \hbox (badness 7451) in paragraph at lines 178--182
 npeace . org / luxembourg / Global / luxembourg / report / 2007 / 2 /
  []
 
-[27] [28] [29] [30])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 387.
- [31]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 387.
+[27] [28] [29] [30] [31])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 392.
+ [32]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 392.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 387.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 387.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 392.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 392.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
-(rerunfilecheck)             Checksum: 84C55606381A5912602A975AE2DEC33C;3620.
+(rerunfilecheck)             Checksum: 7CC3E9CF37C9A13D58BA5D86C1EF049F;3445.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 387.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 392.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 306 ({)
-### simple group (level 2) entered at line 232 ({)
-### simple group (level 1) entered at line 232 ({)
+### simple group (level 3) entered at line 305 ({)
+### simple group (level 2) entered at line 231 ({)
+### simple group (level 1) entered at line 231 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 19809 strings out of 493089
- 340072 string characters out of 6134843
- 472705 words of memory out of 5000000
- 22786 multiletter control sequences out of 15000+600000
+ 19808 strings out of 493089
+ 339999 string characters out of 6134843
+ 472702 words of memory out of 5000000
+ 22785 multiletter control sequences out of 15000+600000
  12400 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,43p,10348b,824s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,14n,43p,10348b,842s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1335,10 +1344,10 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (32 pages, 1684597 bytes).
+Output written on Biorem.pdf (33 pages, 1685715 bytes).
 PDF statistics:
- 1042 PDF objects out of 1200 (max. 8388607)
- 878 compressed objects within 9 object streams
+ 1049 PDF objects out of 1200 (max. 8388607)
+ 884 compressed objects within 9 object streams
  199 named destinations out of 1000 (max. 500000)
- 444 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 436 words of extra memory for PDF output out of 10000 (max. 10000000)
 

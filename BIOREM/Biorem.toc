@@ -33,18 +33,15 @@
 \contentsline {subsubsection}{\numberline {2.2.1}Facteurs physiques, chimiques et enzymatiques de d\'egradation}{14}{subsubsection.2.2.1}
 \contentsline {subsection}{\numberline {2.3}Biofragmentation}{14}{subsection.2.3}
 \contentsline {subsubsection}{\numberline {2.3.1}D\'epolym\'erisation asp\'ecifique - biod\'egradation de la lignine}{14}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}D\'epolym\'erisation sp\'ecifique - biod\'egradation d'un polyester}{17}{subsubsection.2.3.2}
-\contentsline {section}{\numberline {3}PE}{18}{section.3}
-\contentsline {subsection}{\numberline {3.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{18}{subsection.3.1}
-\contentsline {section}{\numberline {4}PET}{20}{section.4}
-\contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{21}{subsection.4.1}
-\contentsline {section}{\numberline {5}PS}{21}{section.5}
-\contentsline {subsection}{\numberline {5.1}Efficacit\'e de d\'egradation}{22}{subsection.5.1}
-\contentsline {section}{\numberline {6}PUR}{23}{section.6}
-\contentsline {subsection}{\numberline {6.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{24}{subsection.6.1}
-\contentsline {section}{\numberline {7}Polyamides}{24}{section.7}
-\contentsline {subsection}{\numberline {7.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{25}{subsection.7.1}
-<<<<<<< HEAD
-=======
-\contentsline {part}{VII\hspace {1em}Conclusion et perspectives}{25}{part.7}
->>>>>>> 6b2e422a065556039529ab4b1737313d50a610d3
+\contentsline {subsubsection}{\numberline {2.3.2}D\'epolym\'erisation sp\'ecifique - biod\'egradation d'un polyester}{16}{subsubsection.2.3.2}
+\contentsline {section}{\numberline {3}PE}{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{17}{subsection.3.1}
+\contentsline {section}{\numberline {4}PET}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{19}{subsection.4.1}
+\contentsline {section}{\numberline {5}PS}{20}{section.5}
+\contentsline {subsection}{\numberline {5.1}Efficacit\'e de d\'egradation}{21}{subsection.5.1}
+\contentsline {section}{\numberline {6}PUR}{22}{section.6}
+\contentsline {subsection}{\numberline {6.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{22}{subsection.6.1}
+\contentsline {section}{\numberline {7}Polyamides}{23}{section.7}
+\contentsline {subsection}{\numberline {7.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{23}{subsection.7.1}
+\contentsline {part}{VII\hspace {1em}Conclusion et perspectives}{24}{part.7}

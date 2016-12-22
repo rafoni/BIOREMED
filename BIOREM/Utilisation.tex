@@ -3,15 +3,47 @@
 \section{Utilisation du plastique}
 \par{
 Une part importante de l'utilisation du plastique concerne le secteur de l'emballage, mais aussi celui du bâtiment, des transports, de l'électricité et d'autres usages variés comme le matériel de sports et de loisirs {\citep{SCF}}.
-}
 
 \begin{figure}[h]
 \centering
-\includegraphics[scale=1]{Secteurs.png}
+\def\angle{0}
+\def\radius{3}
+\def\cyclelist{{"orange","blue","red","green"}}
+\newcount\cyclecount \cyclecount=-1
+\newcount\ind \ind=-1
+\begin{tikzpicture}[nodes = {font=\sffamily}]
+  \foreach \percent/\name in {
+      40/Emballage,
+      22/Bâtiment,
+      17/Divers,
+      7/Eléctricité,
+      14/Transport
+    } {
+      \ifx\percent\empty\else               % If \percent is empty, do nothing
+        \global\advance\cyclecount by 1     % Advance cyclecount
+        \global\advance\ind by 1            % Advance list index
+        \ifnum3<\cyclecount                 % If cyclecount is larger than list
+          \global\cyclecount=0              %   reset cyclecount and
+          \global\ind=0                     %   reset list index
+        \fi
+        \pgfmathparse{\cyclelist[\the\ind]} % Get color from cycle list
+        \edef\color{\pgfmathresult}         %   and store as \color
+        % Draw angle and set labels
+        \draw[fill={\color!50},draw={\color}] (0,0) -- (\angle:\radius)
+          arc (\angle:\angle+\percent*3.6:\radius) -- cycle;
+        \node at (\angle+0.5*\percent*3.6:0.7*\radius) {\percent\,\%};
+        \node[pin=\angle+0.5*\percent*3.6:\name]
+          at (\angle+0.5*\percent*3.6:\radius) {};
+        \pgfmathparse{\angle+\percent*3.6}  % Advance angle
+        \xdef\angle{\pgfmathresult}         %   and store in \angle
+      \fi
+    };
+\end{tikzpicture}
 \caption{Consommation des mati\`eres plastiques selon les secteurs d'utilisation {\citep{SCF}}} 
-\label{secteurs}
 \end{figure}
 \FloatBarrier
+
+%\caption{Consommation des mati\`eres plastiques selon les secteurs d'utilisation {\citep{SCF}}} 
 
 \par{
 La consommation est diff\'erente selon la forme d'utilisation. Le tableau ci-dessous reprend les diff\'erents types de plastique et leurs formes d'utilisation les plus courantes:
@@ -60,7 +92,9 @@ La pollution plastique est susceptible d'augmenter considérablement dans les est
 \par{
 Les sources de pollution du sol proviennent directement des détritus jetés par terre et du déversement illégal des déchets.
 }
-\par{Les déchets plastiques sont généralement collectés et transférés dans des décharges. Ils sont enfouis dans le sol et recouverts de terre régulièrement. Dans les pays en développement, il n'existe pas toujours d'infrastructure adéquate ni pour le ramassage des ordures ni pour l'enfouissement au niveau de décharges et les débris sont souvent soufflés par le vent {\citep{lambert2014occurrence}}. 
+\par{
+Les déchets plastiques sont généralement collectés et transférés dans des décharges. Ils sont enfouis dans le sol et recouverts de terre régulièrement. Dans les pays en développement, il n'existe pas toujours d'infrastructure adéquate ni pour le ramassage des ordures ni pour l'enfouissement au niveau de décharges et les débris sont souvent soufflés par le vent {\citep{lambert2014occurrence}}. 
 }
-\par{Des débris liés aux eaux usées sont également une source à partir de laquelle les plastiques peuvent entrer dans l'environnement, notamment à partir de microbilles liés aux produits cosmétiques {\citep{Schafer2015}} ou utilisées dans le secteur industriel et agricole. Les produits de plus grande taille pourraient pénétrer dans l'environnement pendant les périodes de fortes pluies provoquant des débordements des eaux usées {\citep{lambert2014occurrence}}.
+\par{
+Des débris liés aux eaux usées sont également une source à partir de laquelle les plastiques peuvent entrer dans l'environnement, notamment à partir de microbilles liés aux produits cosmétiques {\citep{Schafer2015}} ou utilisées dans le secteur industriel et agricole. Les produits de plus grande taille pourraient pénétrer dans l'environnement pendant les périodes de fortes pluies provoquant des débordements des eaux usées {\citep{lambert2014occurrence}}.
 }

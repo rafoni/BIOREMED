@@ -44,3 +44,4 @@
 \contentsline {section}{\numberline {6}PUR}{23}{section.6}
 \contentsline {subsection}{\numberline {6.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{24}{subsection.6.1}
 \contentsline {section}{\numberline {7}Polyamides}{24}{section.7}
+\contentsline {subsection}{\numberline {7.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{24}{subsection.7.1}

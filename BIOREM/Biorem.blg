@@ -5,45 +5,45 @@ The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
 Warning--can't use both volume and number fields in Howard2002
 Warning--empty publisher in Howard2012
-You've used 102 entries,
+You've used 103 entries,
             1935 wiz_defined-function locations,
-            1090 strings with 23922 characters,
-and the built_in function-call counts, 39005 in all, are:
-= -- 3796
-> -- 1810
-< -- 60
-+ -- 630
-- -- 618
-* -- 3390
-:= -- 7036
-add.period$ -- 294
-call.type$ -- 102
-change.case$ -- 819
-chr.to.int$ -- 100
-cite$ -- 104
-duplicate$ -- 1347
-empty$ -- 2512
-format.name$ -- 748
-if$ -- 7368
+            1094 strings with 24044 characters,
+and the built_in function-call counts, 39275 in all, are:
+= -- 3822
+> -- 1817
+< -- 61
++ -- 632
+- -- 620
+* -- 3407
+:= -- 7088
+add.period$ -- 297
+call.type$ -- 103
+change.case$ -- 825
+chr.to.int$ -- 101
+cite$ -- 105
+duplicate$ -- 1360
+empty$ -- 2532
+format.name$ -- 751
+if$ -- 7419
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 79
-newline$ -- 500
-num.names$ -- 306
-pop$ -- 633
+missing$ -- 80
+newline$ -- 505
+num.names$ -- 309
+pop$ -- 638
 preamble$ -- 1
-purify$ -- 819
+purify$ -- 825
 quote$ -- 0
-skip$ -- 1051
+skip$ -- 1062
 stack$ -- 0
-substring$ -- 2584
-swap$ -- 102
+substring$ -- 2596
+swap$ -- 103
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 604
+type$ -- 610
 warning$ -- 2
-while$ -- 312
+while$ -- 314
 width$ -- 0
-write$ -- 1270
+write$ -- 1282
 (There were 2 warnings)

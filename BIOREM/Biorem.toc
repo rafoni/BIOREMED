@@ -12,36 +12,36 @@
 \contentsline {subsection}{\numberline {3.2}Dans l'eau douce}{9}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}Dans les estuaires}{10}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Dans les sols}{10}{subsection.3.4}
-\contentsline {part}{IV\hspace {1em}Dangers potentiels pour l'environnement}{10}{part.4}
-\contentsline {section}{\numberline {1}Impact sur le littoral et les oc\'eans}{10}{section.1}
+\contentsline {part}{IV\hspace {1em}Dangers potentiels pour l'environnement}{11}{part.4}
+\contentsline {section}{\numberline {1}Impact sur le littoral et les oc\'eans}{11}{section.1}
 \contentsline {section}{\numberline {2}Enchev\^etrement}{11}{section.2}
 \contentsline {section}{\numberline {3}Ingestion}{11}{section.3}
-\contentsline {section}{\numberline {4}Ingestion de polluants organiques persistants (POP)}{11}{section.4}
-\contentsline {section}{\numberline {5}Les additifs}{11}{section.5}
-\contentsline {section}{\numberline {6}Invasion potentielle d'esp\`eces \'etrang\`eres}{12}{section.6}
-\contentsline {part}{V\hspace {1em}Aspects l\'egislatifs}{13}{part.5}
-\contentsline {part}{VI\hspace {1em}Bior\'em\'ediation des milieux contamin\'es}{13}{part.6}
-\contentsline {section}{\numberline {1}D\'egradation abiotique des plastiques}{13}{section.1}
-\contentsline {subsection}{\numberline {1.1}Photo-d\'egradation}{13}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}D\'egradation thermique}{14}{subsection.1.2}
-\contentsline {subsection}{\numberline {1.3}D\'egradation par oxydation}{14}{subsection.1.3}
-\contentsline {subsection}{\numberline {1.4}Hydrolyse}{14}{subsection.1.4}
-\contentsline {subsection}{\numberline {1.5}D\'esint\'egration m\'ecanique}{14}{subsection.1.5}
-\contentsline {section}{\numberline {2}Biod\'egradation des biopolym\`eres}{14}{section.2}
-\contentsline {subsection}{\numberline {2.1}Introduction}{14}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Biod\'et\'erioration}{15}{subsection.2.2}
-\contentsline {subsubsection}{\numberline {2.2.1}Facteurs physiques, chimiques et enzymatiques de d\'egradation}{15}{subsubsection.2.2.1}
-\contentsline {subsection}{\numberline {2.3}Biofragmentation}{15}{subsection.2.3}
-\contentsline {subsubsection}{\numberline {2.3.1}D\'epolym\'erisation asp\'ecifique - biod\'egradation de la lignine}{15}{subsubsection.2.3.1}
-\contentsline {subsubsection}{\numberline {2.3.2}D\'epolym\'erisation sp\'ecifique - biod\'egradation d'un polyester}{17}{subsubsection.2.3.2}
-\contentsline {section}{\numberline {3}PE}{17}{section.3}
-\contentsline {subsection}{\numberline {3.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{18}{subsection.3.1}
-\contentsline {section}{\numberline {4}PET}{20}{section.4}
-\contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{20}{subsection.4.1}
-\contentsline {section}{\numberline {5}PS}{21}{section.5}
-\contentsline {subsection}{\numberline {5.1}Efficacit\'e de d\'egradation}{22}{subsection.5.1}
-\contentsline {section}{\numberline {6}PUR}{23}{section.6}
-\contentsline {subsection}{\numberline {6.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{23}{subsection.6.1}
-\contentsline {section}{\numberline {7}Polyamides}{24}{section.7}
-\contentsline {subsection}{\numberline {7.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{24}{subsection.7.1}
-\contentsline {part}{VII\hspace {1em}Conclusion et perspectives}{25}{part.7}
+\contentsline {section}{\numberline {4}Ingestion de polluants organiques persistants (POP)}{12}{section.4}
+\contentsline {section}{\numberline {5}Les additifs}{12}{section.5}
+\contentsline {section}{\numberline {6}Invasion potentielle d'esp\`eces \'etrang\`eres}{13}{section.6}
+\contentsline {part}{V\hspace {1em}Aspects l\'egislatifs}{14}{part.5}
+\contentsline {part}{VI\hspace {1em}Bior\'em\'ediation des milieux contamin\'es}{15}{part.6}
+\contentsline {section}{\numberline {1}D\'egradation abiotique des plastiques}{15}{section.1}
+\contentsline {subsection}{\numberline {1.1}Photo-d\'egradation}{15}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}D\'egradation thermique}{15}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}D\'egradation par oxydation}{15}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Hydrolyse}{15}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}D\'esint\'egration m\'ecanique}{15}{subsection.1.5}
+\contentsline {section}{\numberline {2}Biod\'egradation des biopolym\`eres}{16}{section.2}
+\contentsline {subsection}{\numberline {2.1}Introduction}{16}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Biod\'et\'erioration}{16}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Facteurs physiques, chimiques et enzymatiques de d\'egradation}{16}{subsubsection.2.2.1}
+\contentsline {subsection}{\numberline {2.3}Biofragmentation}{17}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}D\'epolym\'erisation asp\'ecifique - biod\'egradation de la lignine}{17}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}D\'epolym\'erisation sp\'ecifique - biod\'egradation d'un polyester}{18}{subsubsection.2.3.2}
+\contentsline {section}{\numberline {3}PE}{19}{section.3}
+\contentsline {subsection}{\numberline {3.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{20}{subsection.3.1}
+\contentsline {section}{\numberline {4}PET}{21}{section.4}
+\contentsline {subsection}{\numberline {4.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{22}{subsection.4.1}
+\contentsline {section}{\numberline {5}PS}{23}{section.5}
+\contentsline {subsection}{\numberline {5.1}Efficacit\'e de d\'egradation}{24}{subsection.5.1}
+\contentsline {section}{\numberline {6}PUR}{24}{section.6}
+\contentsline {subsection}{\numberline {6.1}Efficacit\'e de d\'egradation et produits de d\'egradation}{25}{subsection.6.1}
+\contentsline {section}{\numberline {7}Polyamides}{25}{section.7}
+\contentsline {subsection}{\numberline {7.1}Efficacit\'e de d\'egradation}{25}{subsection.7.1}
+\contentsline {part}{VII\hspace {1em}Conclusion et perspectives}{27}{part.7}

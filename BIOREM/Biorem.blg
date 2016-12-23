@@ -1,49 +1,49 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Biorem.aux
 The style file: apalike.bst
 Database file #1: Bibliography/Plastics.bib
 Warning--can't use both volume and number fields in Howard2002
 Warning--empty publisher in Howard2012
-You've used 103 entries,
+You've used 88 entries,
             1935 wiz_defined-function locations,
-            1094 strings with 24044 characters,
-and the built_in function-call counts, 39275 in all, are:
-= -- 3822
-> -- 1817
-< -- 61
-+ -- 632
-- -- 620
-* -- 3407
-:= -- 7088
-add.period$ -- 297
-call.type$ -- 103
-change.case$ -- 825
-chr.to.int$ -- 101
-cite$ -- 105
-duplicate$ -- 1360
-empty$ -- 2532
-format.name$ -- 751
-if$ -- 7419
+            1006 strings with 21441 characters,
+and the built_in function-call counts, 33898 in all, are:
+= -- 3286
+> -- 1606
+< -- 50
++ -- 558
+- -- 550
+* -- 2945
+:= -- 6119
+add.period$ -- 255
+call.type$ -- 88
+change.case$ -- 714
+chr.to.int$ -- 86
+cite$ -- 90
+duplicate$ -- 1168
+empty$ -- 2169
+format.name$ -- 662
+if$ -- 6406
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 80
-newline$ -- 505
-num.names$ -- 309
-pop$ -- 638
+missing$ -- 70
+newline$ -- 433
+num.names$ -- 264
+pop$ -- 567
 preamble$ -- 1
-purify$ -- 825
+purify$ -- 715
 quote$ -- 0
-skip$ -- 1062
+skip$ -- 908
 stack$ -- 0
-substring$ -- 2596
-swap$ -- 103
+substring$ -- 2205
+swap$ -- 92
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 610
+type$ -- 518
 warning$ -- 2
-while$ -- 314
+while$ -- 265
 width$ -- 0
-write$ -- 1282
+write$ -- 1098
 (There were 2 warnings)

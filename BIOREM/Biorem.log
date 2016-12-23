@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  23 DEC 2016 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.3.2)  23 DEC 2016 14:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1544,20 +1544,20 @@ estination with the same identifier (name{section.4}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.277 \section{PET}
+l.276 \section{PET}
                     [21] <Pictures/PET.png, id=782, 350.30875pt x 395.4775pt>
 File: Pictures/PET.png Graphic file (type png)
 
 <use Pictures/PET.png>
-Package pdftex.def Info: Pictures/PET.png used on input line 287.
+Package pdftex.def Info: Pictures/PET.png used on input line 286.
 (pdftex.def)             Requested size: 253.94266pt x 286.69272pt.
 pdfTeX warning (ext4): destination with the same identifier (name{section.5}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.296 \section{PS}
+l.295 \section{PS}
                   
-Underfull \hbox (badness 10000) in paragraph at lines 298--302
+Underfull \hbox (badness 10000) in paragraph at lines 297--301
 
  []
 
@@ -1565,15 +1565,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--302
 File: Pictures/psgut.png Graphic file (type png)
 
 <use Pictures/psgut.png>
-Package pdftex.def Info: Pictures/psgut.png used on input line 305.
+Package pdftex.def Info: Pictures/psgut.png used on input line 304.
 (pdftex.def)             Requested size: 304.73428pt x 189.52963pt.
  [23 <./Pictures/psgut.png>]pdfTeX warning (ext4): destination with the same id
 entifier (name{section.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.337 \section{PUR}
+l.336 \section{PUR}
                    
-Underfull \hbox (badness 10000) in paragraph at lines 339--345
+Underfull \hbox (badness 10000) in paragraph at lines 338--344
 
  []
 
@@ -1581,10 +1581,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 339--345
 File: Pictures/pur.png Graphic file (type png)
 
 <use Pictures/pur.png>
-Package pdftex.def Info: Pictures/pur.png used on input line 348.
+Package pdftex.def Info: Pictures/pur.png used on input line 347.
 (pdftex.def)             Requested size: 355.51817pt x 156.35423pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--365
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
 
  []
 
@@ -1593,7 +1593,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 363--365
 File: Pictures/polyamides.png Graphic file (type png)
 
 <use Pictures/polyamides.png>
-Package pdftex.def Info: Pictures/polyamides.png used on input line 368.
+Package pdftex.def Info: Pictures/polyamides.png used on input line 367.
 (pdftex.def)             Requested size: 365.86598pt x 176.65956pt.
  [26 <./Pictures/polyamides.png>] [27]
 (./Biorem.bbl [28]
@@ -1609,22 +1609,22 @@ npeace . org / luxembourg / Global / luxembourg / report / 2007 / 2 /
  []
 
 [29] [30] [31] [32] [33]) [34]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 382.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 382.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
  (./Biorem.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 382.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 382.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
 Package rerunfilecheck Info: File `Biorem.out' has not changed.
 (rerunfilecheck)             Checksum: 79C8C68FC87DCDF4B4CF8277CAF3B816;3478.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 382.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 381.
  )
 (\end occurred inside a group at level 3)
 
-### simple group (level 3) entered at line 294 ({)
+### simple group (level 3) entered at line 293 ({)
 ### simple group (level 2) entered at line 220 ({)
 ### simple group (level 1) entered at line 220 ({)
 ### bottom level 
@@ -1650,7 +1650,7 @@ pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></u
 sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
 r/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Biorem.pdf (35 pages, 1628991 bytes).
+Output written on Biorem.pdf (35 pages, 1628855 bytes).
 PDF statistics:
  1067 PDF objects out of 1200 (max. 8388607)
  880 compressed objects within 9 object streams
